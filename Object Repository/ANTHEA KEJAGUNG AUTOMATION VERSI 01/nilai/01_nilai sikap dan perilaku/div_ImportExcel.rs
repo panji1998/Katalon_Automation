@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ImportExcel</name>
+   <tag></tag>
+   <elementGuidId>ae8c3d5a-753b-49e2-b249-d15962b280f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.rightside.ms-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form_search']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f03e8dc9-6d09-4f52-9e0c-b0fb61eaf2cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rightside ms-2</value>
+      <webElementGuid>51ea4ef0-9467-4ea1-b55f-0e61f086b16e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				Import
+				 Excel
+			</value>
+      <webElementGuid>797647b9-7858-47a2-90b1-6beb20fce79e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_search&quot;)/div[@class=&quot;d-flex flex-row bg-blue-table mx-2 p-2 filter-row&quot;]/div[@class=&quot;rightside ms-2&quot;]</value>
+      <webElementGuid>9079471e-5713-47a4-883c-b8dd520a0da9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_search']/div/div[2]</value>
+      <webElementGuid>da75e0d1-c9e4-4125-b348-fc305bf0d363</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Jenis Penilaian'])[2]/following::div[1]</value>
+      <webElementGuid>bb6c9021-0e31-4625-9aec-9c80f8be0f58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Jenis Penilaian'])[1]/following::div[2]</value>
+      <webElementGuid>09efa5e1-a868-40ee-af51-4338bcfb4558</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]</value>
+      <webElementGuid>cedfdeba-1286-45ed-a3cf-41627797eb9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+				Import
+				 Excel
+			' or . = '
+				Import
+				 Excel
+			')]</value>
+      <webElementGuid>f713a4e3-7bcc-4b18-972b-668077192e9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

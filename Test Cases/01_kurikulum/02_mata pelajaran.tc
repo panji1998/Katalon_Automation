@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_mata pelajaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcbca021-c6de-4c6f-b642-349eb0d66a12</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f39ef027-7f4c-4b25-8c00-4480708f18c0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://101.255.121.243:1180/login'</defaultValue>
+      <description></description>
+      <id>f39ef027-7f4c-4b25-8c00-4480708f18c0</id>
+      <masked>false</masked>
+      <name>parameter</name>
+   </variable>
+</TestCaseEntity>

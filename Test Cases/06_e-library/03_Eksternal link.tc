@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03_Eksternal link</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db46dcb7-a1f6-4666-9b8b-111619d09a70</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1fe6e60e-706c-47cd-8dbb-e1364743022d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://101.255.121.243:1180/login'</defaultValue>
+      <description></description>
+      <id>1fe6e60e-706c-47cd-8dbb-e1364743022d</id>
+      <masked>false</masked>
+      <name>parameter</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03_diklat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0b88f64-262a-4775-8a1a-a65924eb9988</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>780c2a1b-be29-4098-8cde-fbd3a2d38ff6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://101.255.121.243:1180/login'</defaultValue>
+      <description></description>
+      <id>780c2a1b-be29-4098-8cde-fbd3a2d38ff6</id>
+      <masked>false</masked>
+      <name>parameter</name>
+   </variable>
+</TestCaseEntity>

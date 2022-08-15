@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_data widyaiswara</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3463283-c609-4960-8b44-7f40eea6e70c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>83f087f7-4581-45c2-a311-074a958dbf7f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://101.255.121.243:1180/login'</defaultValue>
+      <description></description>
+      <id>83f087f7-4581-45c2-a311-074a958dbf7f</id>
+      <masked>false</masked>
+      <name>parameter</name>
+   </variable>
+</TestCaseEntity>

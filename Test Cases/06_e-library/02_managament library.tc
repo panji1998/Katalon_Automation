@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_managament library</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6f8f1c0-c9bc-450b-b0ce-b295639a945f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7ffc1c52-0b39-4920-8cc8-54c99a9c125c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://101.255.121.243:1180/login'</defaultValue>
+      <description></description>
+      <id>7ffc1c52-0b39-4920-8cc8-54c99a9c125c</id>
+      <masked>false</masked>
+      <name>parameter</name>
+   </variable>
+</TestCaseEntity>

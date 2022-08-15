@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01_kepala bandiklat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5185cbaa-0a6f-4fdb-b8b8-d231470d5fe1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9385112d-bdbe-414a-a4ef-718a5f195d18</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://101.255.121.243:1180/login'</defaultValue>
+      <description></description>
+      <id>9385112d-bdbe-414a-a4ef-718a5f195d18</id>
+      <masked>false</masked>
+      <name>parameter</name>
+   </variable>
+</TestCaseEntity>

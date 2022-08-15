@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01_nilai sikap dan perilaku</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe98a16c-875b-4773-928b-57ef3ae08c45</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2d8b4e94-fdeb-41a5-b035-7d1d715d47ab</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://101.255.121.243:1180/'</defaultValue>
+      <description></description>
+      <id>2d8b4e94-fdeb-41a5-b035-7d1d715d47ab</id>
+      <masked>false</masked>
+      <name>parameter</name>
+   </variable>
+</TestCaseEntity>

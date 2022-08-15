@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>06_penyelenggara</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4a78950-e652-4c26-a6f8-fb23a1548ee7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0946633a-e1ed-4eaa-acad-6c578ee2d475</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://101.255.121.243:1180/login'</defaultValue>
+      <description></description>
+      <id>0946633a-e1ed-4eaa-acad-6c578ee2d475</id>
+      <masked>false</masked>
+      <name>parameter</name>
+   </variable>
+</TestCaseEntity>

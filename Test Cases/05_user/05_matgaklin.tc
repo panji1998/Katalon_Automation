@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>05_matgaklin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9bd5c21-1424-4052-a9b4-2a49c6d361d2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ffbb7843-0a17-458d-a04e-2053aadee23a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://101.255.121.243:1180/login'</defaultValue>
+      <description></description>
+      <id>ffbb7843-0a17-458d-a04e-2053aadee23a</id>
+      <masked>false</masked>
+      <name>parameter</name>
+   </variable>
+</TestCaseEntity>

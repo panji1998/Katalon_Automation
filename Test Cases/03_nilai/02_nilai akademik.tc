@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_nilai akademik</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62a27ac7-ba9a-4521-a6af-d7dc5ef3d3aa</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a45633e9-2a09-46fc-a553-8b1d9188244c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://101.255.121.243:1180/login'</defaultValue>
+      <description></description>
+      <id>a45633e9-2a09-46fc-a553-8b1d9188244c</id>
+      <masked>false</masked>
+      <name>parameter</name>
+   </variable>
+</TestCaseEntity>
