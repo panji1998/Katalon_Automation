@@ -21,50 +21,50 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(parameter)
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/Page_Badiklat Kejaksaan RI/input_Email or username_login'), 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/input_Email or username_login'), 
     '0102934830140000')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/Page_Badiklat Kejaksaan RI/input_Password_password'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/input_Password_password'), 
     'kEQfCA3lIgnHsTewXuZ6Gw==')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/Page_Badiklat Kejaksaan RI/button_Login'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/Page_Badiklat Kejaksaan RI/a_Rekapitulasi'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/a_Rekapitulasi'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/Page_Badiklat Kejaksaan RI/a_Laporan Peserta'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/a_Laporan Peserta'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/Page_Badiklat Kejaksaan RI/select_Database KejaksaanDIKLAT CIPTA KERJA_cf26e2'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/select_Database KejaksaanDIKLAT CIPTA KERJA_cf26e2'), 
     '2', true)
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/Page_Badiklat Kejaksaan RI/span_Pilih Satdik'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/span_Pilih Satdik'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/Page_Badiklat Kejaksaan RI/input_concat(id(, , select2-organizing_agen_3891ff'), 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/input_concat(id(, , select2-organizing_agen_3891ff'), 
     'mapim')
 
-WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/Page_Badiklat Kejaksaan RI/input_concat(id(, , select2-organizing_agen_3891ff'), 
+WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/input_concat(id(, , select2-organizing_agen_3891ff'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/Page_Badiklat Kejaksaan RI/input_concat(id(, , select2-organizing_agen_3891ff'), 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/input_concat(id(, , select2-organizing_agen_3891ff'), 
     'kelas 2')
 
-WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/Page_Badiklat Kejaksaan RI/input_concat(id(, , select2-organizing_agen_3891ff'), 
+WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/input_concat(id(, , select2-organizing_agen_3891ff'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/Page_Badiklat Kejaksaan RI/span_PPPJ GELOMBANG II TAHUN 2016 - Kelas 2'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/span_PPPJ GELOMBANG II TAHUN 2016 - Kelas 2'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/Page_Badiklat Kejaksaan RI/select_ViewExport to Excel'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/select_ViewExport to Excel'), 
     'excell', true)
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/Page_Badiklat Kejaksaan RI/button_Proses'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/button_Proses'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/Page_Badiklat Kejaksaan RI/select_ViewExport to Excel'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/select_ViewExport to Excel'), 
     'html', true)
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/Page_Badiklat Kejaksaan RI/button_Proses'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/button_Proses'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/Page_Badiklat Kejaksaan RI/div_No PesertaNamaNIKNIPPangkatJabatanSatke_9f3e2c'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/div_No PesertaNamaNIKNIPPangkatJabatanSatke_9f3e2c'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/Page_Badiklat Kejaksaan RI/a_Kembali'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/a_Kembali'))
 
 WebUI.closeBrowser()
 
