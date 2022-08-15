@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03_nilai akhir diklat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f13f2dae-1916-4f9d-b745-3df920406382</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d211c975-3c73-45d4-b3f8-d3e2515673d6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://101.255.121.243:1180/login'</defaultValue>
+      <description></description>
+      <id>d211c975-3c73-45d4-b3f8-d3e2515673d6</id>
+      <masked>false</masked>
+      <name>parameter</name>
+   </variable>
+</TestCaseEntity>

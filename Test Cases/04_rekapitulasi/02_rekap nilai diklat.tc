@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_rekap nilai diklat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8287eaee-d4e1-4cb5-8670-559fb7bb26ca</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bd60c2de-614d-473f-951e-d865345e98c5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://101.255.121.243:1180/login'</defaultValue>
+      <description></description>
+      <id>bd60c2de-614d-473f-951e-d865345e98c5</id>
+      <masked>false</masked>
+      <name>parameter</name>
+   </variable>
+</TestCaseEntity>

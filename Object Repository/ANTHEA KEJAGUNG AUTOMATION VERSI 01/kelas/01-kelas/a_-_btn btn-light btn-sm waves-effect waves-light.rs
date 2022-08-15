@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_-_btn btn-light btn-sm waves-effect waves-light</name>
+   <tag></tag>
+   <elementGuidId>d6fdbaa2-de2e-48cd-9d38-e6c382a584bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;$('#icon-2').toggleClass('fa-arrow-up fa-arrow-down')&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c49f2971-7178-4661-b289-4cb2e085a8e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-light btn-sm waves-effect waves-light</value>
+      <webElementGuid>11688a83-5247-4321-be2d-f2590553a0c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>$('#icon-2').toggleClass('fa-arrow-up fa-arrow-down')</value>
+      <webElementGuid>f9477cf3-fa69-40db-957b-07df8f9c511c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>7ad2f6a1-037f-4ea2-86af-ced157772f07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#detail2</value>
+      <webElementGuid>46954f55-82c8-4d9d-ad06-bc2ed2fb3991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>732d528e-cec4-4d88-af01-8e00d63498ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>30b4d1b2-4e51-4fa8-b64b-a5f9b3586e99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>detail2</value>
+      <webElementGuid>a0ea8342-df99-4903-9354-cf2f8835c9e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table&quot;)/tbody[1]/tr[3]/td[4]/a[@class=&quot;btn btn-light btn-sm waves-effect waves-light&quot;]</value>
+      <webElementGuid>0b8c6249-3691-4f45-9e21-de0e1bbfc159</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;$('#icon-2').toggleClass('fa-arrow-up fa-arrow-down')&quot;]</value>
+      <webElementGuid>cd903880-658f-4e4a-a3ad-af27fdacdf97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table']/tbody/tr[3]/td[4]/a</value>
+      <webElementGuid>f55e07f5-8bc1-427c-bd08-fd9bba4f102f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[3]/following::a[1]</value>
+      <webElementGuid>30cc260e-76e6-4f72-9057-92f1a665aad6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sikap Perilaku'])[1]/following::a[1]</value>
+      <webElementGuid>dc958b04-e29d-49e4-af7f-99ff0ba32366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pusat Notifikasi'])[1]/preceding::a[1]</value>
+      <webElementGuid>8ae333d2-3ed5-42bd-ac30-852edf58496e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#detail2')]</value>
+      <webElementGuid>51721ac7-7da5-42c2-a8ab-a13702e040e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[4]/a</value>
+      <webElementGuid>b39b1bbc-773b-4aca-b313-85afe335612f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#detail2']</value>
+      <webElementGuid>dfdea9fb-35ae-4b11-b302-e44dd16c3e02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

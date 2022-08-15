@@ -17,3 +17,48 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl(parameter)
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/02_alumni/input_Email or username_login'), 
+    '0102934830140000')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/02_alumni/input_Password_password'), 
+    'kEQfCA3lIgnHsTewXuZ6Gw==')
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/02_alumni/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/02_alumni/a_Kelas'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/02_alumni/a_Alumni'))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/02_alumni/input_Bank Soal_tableSearch'), 
+    '033')
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/02_alumni/button_All_ms-2 searchbutton rounded px-3 py-2'))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/02_alumni/input_Bank Soal_tableSearch'), 
+    '')
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/02_alumni/span_All'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/02_alumni/span_MAPIM'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/02_alumni/span_DTF'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/02_alumni/button_All_ms-2 searchbutton rounded px-3 py-2'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/02_alumni/div_Alumni'))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/02_alumni/input_Bank Soal_tableSearch'), 
+    '033')
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/02_alumni/button_All_ms-2 searchbutton rounded px-3 py-2'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/02_alumni/a_Alumni_1'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/02_alumni/a_Kembali'))
+
+WebUI.closeBrowser()
+
