@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(parameter)
 
+WebUI.maximizeWindow()
+
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/input_Email or username_login'), 
     '0102934830140000')
 
@@ -44,13 +46,11 @@ WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI
 WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/input_concat(id(, , select2-organizing_agen_3891ff'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/input_concat(id(, , select2-organizing_agen_3891ff'), 
-    'kelas 2')
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/span_Kelas_select2-selection select2-selection--single'), 
+    FailureHandling.STOP_ON_FAILURE)
 
-WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/input_concat(id(, , select2-organizing_agen_3891ff'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/span_PPPJ GELOMBANG II TAHUN 2016 - Kelas 2'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/li_PPPJ GELOMBANG II TAHUN 2016 - Kelas 2'), 
+    FailureHandling.STOP_ON_FAILURE)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/select_ViewExport to Excel'), 
     'excell', true)
@@ -63,6 +63,8 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTO
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/button_Proses'))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/div_No PesertaNamaNIKNIPPangkatJabatanSatke_9f3e2c'))
+
+WebUI.takeFullPageScreenshot()
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/04_laporan peserta/a_Kembali'))
 

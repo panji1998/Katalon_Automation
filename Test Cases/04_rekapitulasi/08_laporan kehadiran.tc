@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>08_laporan kehadiran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1062878a-183f-4bac-b10e-cae0e463d302</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>50882214-751d-4028-90d1-27fe085f9f42</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://101.255.121.243:1180/'</defaultValue>
+      <description></description>
+      <id>50882214-751d-4028-90d1-27fe085f9f42</id>
+      <masked>false</masked>
+      <name>parameter</name>
+   </variable>
+</TestCaseEntity>

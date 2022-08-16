@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(parameter)
 
+WebUI.maximizeWindow()
+
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/user/02_data widyaiswara/input_Email or username_login'), 
     '0102934830140000')
 

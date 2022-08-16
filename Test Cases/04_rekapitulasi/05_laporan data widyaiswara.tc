@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>05_laporan data widyaiswara</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcc5c079-031b-46a8-953a-653d632979ac</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b7a39e41-a1e7-4b81-91d8-2c3e57435ce5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://101.255.121.243:1180/login'</defaultValue>
+      <description></description>
+      <id>b7a39e41-a1e7-4b81-91d8-2c3e57435ce5</id>
+      <masked>false</masked>
+      <name>parameter</name>
+   </variable>
+</TestCaseEntity>

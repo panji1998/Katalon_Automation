@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Pusdiklat Mapim</name>
+   <tag></tag>
+   <elementGuidId>260cb7b4-8ac7-4f92-8198-e96c02dca16d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id = 'select2-organizing_agency-result-rr1p-36' and (text() = 'Pusdiklat Mapim' or . = 'Pusdiklat Mapim')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>cef1a000-a5ef-453a-b02d-35443d4d2ef6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>21e65e7a-8cba-4e57-b262-2bf60425ef38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-organizing_agency-result-rr1p-36</value>
+      <webElementGuid>a6c469e6-27ea-4640-837d-a8c52261dde9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>74f8fa06-b912-452c-ad42-6e4583fca2ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>48d009b7-a320-49d4-a3fc-b66ad204d17d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>select2-organizing_agency-result-rr1p-36</value>
+      <webElementGuid>78ff4ff2-1484-46d4-8789-60ade316b974</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pusdiklat Mapim</value>
+      <webElementGuid>77c25491-8258-4875-942b-f70bc5b8fd17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-organizing_agency-result-rr1p-36&quot;)</value>
+      <webElementGuid>73a1de62-ec37-4f61-a4fa-005fa0650630</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-organizing_agency-result-rr1p-36' and (text() = 'Pusdiklat Mapim' or . = 'Pusdiklat Mapim')]</value>
+      <webElementGuid>b9ffbfc6-736a-4bce-84dc-1055a8820429</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

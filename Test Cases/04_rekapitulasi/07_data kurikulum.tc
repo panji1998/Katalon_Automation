@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>07_data kurikulum</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b38ff95-506a-4846-8d82-2ea0da7a23e7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1f4efd60-436e-4328-8377-8c5ebc20616d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://101.255.121.243:1180/login'</defaultValue>
+      <description></description>
+      <id>1f4efd60-436e-4328-8377-8c5ebc20616d</id>
+      <masked>false</masked>
+      <name>parameter</name>
+   </variable>
+</TestCaseEntity>

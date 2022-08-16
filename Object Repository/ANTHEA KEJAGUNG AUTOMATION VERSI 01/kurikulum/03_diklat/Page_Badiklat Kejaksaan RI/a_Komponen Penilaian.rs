@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Komponen Penilaian</name>
+   <tag></tag>
+   <elementGuidId>ecac3138-ce25-4b7c-96b2-ace2052bd8df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Komponen Penilaian')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d17364fa-69b1-433d-9420-5030280498ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>a08d135b-a879-4239-894b-60f94e3952cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://101.255.121.243:1180/master/lesson/87/assessment_component</value>
+      <webElementGuid>b1e6e5f1-a2e5-49b7-ba1f-0f3c55c86090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Komponen Penilaian</value>
+      <webElementGuid>dc476981-0082-4462-984b-6a1e18093db4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;container-content&quot;]/div[@class=&quot;container-fluid py-5 px-2&quot;]/div[@class=&quot;right-panel-col&quot;]/div[@class=&quot;container-fluid py-2 px-2&quot;]/ul[@class=&quot;nav nav-tabs&quot;]/li[@class=&quot;nav-item waves-effect waves-light&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>6e68a71c-49b6-4123-95be-fd53074f07db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Komponen Penilaian')]</value>
+      <webElementGuid>1f5c0b4d-f867-4b90-bad6-244173c727b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Literatur'])[1]/following::a[1]</value>
+      <webElementGuid>eabb3f8b-ef97-4d2e-8258-7c2f506289ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Topik'])[1]/following::a[2]</value>
+      <webElementGuid>d20e7132-8076-4d87-a331-2fb30cb52d0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MP-016 - Eksekusi'])[1]/preceding::a[1]</value>
+      <webElementGuid>f1ff7294-5530-4a6a-97ac-ab7e8b0028b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama berkas'])[1]/preceding::a[1]</value>
+      <webElementGuid>6b3c2f6a-009c-4372-a3a0-b3869fb90f0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Komponen Penilaian']/parent::*</value>
+      <webElementGuid>65be6b5f-53df-4598-93ba-9df0a010d8dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://101.255.121.243:1180/master/lesson/87/assessment_component']</value>
+      <webElementGuid>a9842093-a538-4316-9a4b-a558032f97fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/ul/li[4]/a</value>
+      <webElementGuid>b1e813ae-f964-4733-8ff9-d76b7089dce7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://101.255.121.243:1180/master/lesson/87/assessment_component' and (text() = 'Komponen Penilaian' or . = 'Komponen Penilaian')]</value>
+      <webElementGuid>47fcc248-b173-4672-81a3-eddbf30e8e1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

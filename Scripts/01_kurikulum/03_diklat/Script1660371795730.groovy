@@ -21,480 +21,436 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(parameter)
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Email or username_login'), 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Email or username_login'), 
     '0102934830140000')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Password_password'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Password_password'), 
     'kEQfCA3lIgnHsTewXuZ6Gw==')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Login'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Kurikulum'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Kurikulum'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Diklat'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Diklat'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Bank Soal_tableSearch'), 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Bank Soal_tableSearch'), 
+    '12')
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Bank Soal_tableSearch'), 
+    '')
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/span_Pilih Jenis Diklat'))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_concat(id(, , select2-opts_curiculums_2d1902'), 
     'mapim')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
+WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_concat(id(, , select2-opts_curiculums_2d1902'), 
+    Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/span_Pilih Jenis Diklat'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_concat(id(, , select2-opts_curiculums_2d1902'), 
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Tambah'))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_course_code'), 
+    'DK-1003')
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_course_name'), 
+    'Diklat Fungsional')
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/span_--- Search ---'))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_concat(id(, , select2-opts_curiculums_2d1902'), 
     'mapim')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Tambah'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_()_course_code'), 
-    'KD-1001')
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_()_course_name'), 
-    'Tambang')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/span_--- Search ---'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_concat(id(, , select2-opts_curiculums_2d1902'), 
-    'perta')
-
-WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_concat(id(, , select2-opts_curiculums_2d1902'), 
+WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_concat(id(, , select2-opts_curiculums_2d1902'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_()_course_start_date'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_course_start_date'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/th_'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/th_'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/td_6'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/td_1'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_()_course_end_date'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_course_end_date'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/th_'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/td_31'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/td_30'))
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Jumlah Jam - Teori_course_duration_teory'), 
+    '12')
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Jumlah Jam - Teori_course_duration_teory'), 
-    '10')
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Jumlah Jam - Praktek_course_duration__03e586'), 
+    '12')
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Jumlah Jam - Praktek_course_duration__03e586'), 
-    '22')
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_()_course_max_participants'), 
-    '15')
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/textarea_Tujuan Diklat_course_purpose'), 
-    'Memahami undang - undang dalam pertambangan')
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Nilai Minimum Kelulusan_course_minimu_71e3ec'), 
-    '75')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/span_--- Search ---_1'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_concat(id(, , select2-opts_curiculums_2d1902'), 
-    'akademik')
-
-WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_concat(id(, , select2-opts_curiculums_2d1902'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/textarea_Prasyarat Peserta_course_requisite'), 
-    'semua bisa mengikuti diklat tambang')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/span_--- Search ---_1_2'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_concat(id(, , select2-opts_curiculums_2d1902'), 
-    'teknis')
-
-WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_concat(id(, , select2-opts_curiculums_2d1902'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/span_Tambah'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/span_--- Search ---_1_2'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_concat(id(, , select2-opts_curiculums_2d1902'), 
-    'agu')
-
-WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_concat(id(, , select2-opts_curiculums_2d1902'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/span_Tambah'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Diklat Jaksa Agung_no-button'))
-
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Simpan diklat'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/div_DiklatKode Diklat ()Nama Diklat ()Nama _563373'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Submit'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_OK'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Diklat Jaksa Agung_no-button'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Import'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Klik Untuk Download'))
-
-WebUI.uploadFile(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/import file 1'), 'D:\\ANTHEA KEJAGUNG AUTOMATION VERSI 01\\kurikulum\\diklat\\dokumen\\1template_loader_courses.xlsx')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Lewati baris nomer 1 (Judul)_skip'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Submit_1'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Kembali'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Diklat_1'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Import Mata Pelajaran'))
-
-WebUI.switchToWindowTitle('Badiklat Kejaksaan RI')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Klik Untuk Download_1'))
-
-WebUI.switchToWindowTitle('Badiklat Kejaksaan RI')
-
-WebUI.uploadFile(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/import file 2'), 'D:\\ANTHEA KEJAGUNG AUTOMATION VERSI 01\\kurikulum\\diklat\\dokumen\\2template_loader_integrate_lesson.xlsx')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Lewati baris nomer 1 (Judul)_skip'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Submit_1'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Kembali_1'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Diklat_1'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Bank Soal_tableSearch'), 
-    '1000')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Tambang_btn btn-light btn-sm no-button no-shadow'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/textarea_Tujuan Diklat_course_purpose'), 
-    'Memahami undang - undang dalam pertambangan Nasional')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/span_--- Search ---_1_2'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_concat(id(, , select2-opts_curiculums_2d1902'), 
-    'tekn')
-
-WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_concat(id(, , select2-opts_curiculums_2d1902'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Simpan'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_OK'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Bank Soal_tableSearch'), 
-    '1000')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_unread messages'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Tambah Mata Pelajaran'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/span_--- Search ---_1_2_3'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_concat(id(, , select2-opts_curiculums_2d1902'), 
-    'ekse')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Simpan'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_OK'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Tambah Mata Pelajaran'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/span_--- Search ---_1_2_3'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_concat(id(, , select2-opts_curiculums_2d1902'), 
-    'tambang')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Simpan'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_OK'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Bank Soal_tableSearch'), 
-    'eksekusi')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Mata Pelajaran Utama_btn btn-light btn-sm_391d0e'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Detail Mata Pelajaran'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Bank Soal_tableSearch'), 
-    'eksekusi')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Mata Pelajaran Utama_btn btn-light b_f42ee5'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Yes, delete it'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_OK'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Peminatan_btn btn-light btn-sm no-button _39792a'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Literatur'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Komponen Penilaian'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Tambah'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input__score_item_name'), 
-    'teori')
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input__score_item_weight'), 
-    '60')
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input__score_item_minimum'), 
-    '75')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Simpan'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_OK'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Tambah'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input__score_item_name'), 
-    'praktikum')
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input__score_item_weight'), 
-    '40')
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input__score_item_minimum'), 
-    '75')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Simpan'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_OK'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_praktikum_btn btn-light btn-sm no-button _e62fbb'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input__score_item_name'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Simpan'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_OK'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Tambah'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input__score_item_name'), 
-    'quiz')
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input__score_item_weight'), 
-    '10')
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input__score_item_minimum'), 
-    '80')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Simpan'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_OK'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Kembali_1_2'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_praktikum_btn btn-light btn-sm no-bu_f25cc0'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Ya, hapus'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_OK'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Tambah'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input__score_item_name'), 
-    'praktikun')
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input__score_item_weight'), 
-    '40')
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input__score_item_minimum'), 
-    '75')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Simpan'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_OK'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Kembali_1_2_3'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Kembali_1_2_3_4'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Bank Soal_tableSearch'), 
-    '1000')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Tambang_btn btn-light btn-sm no-button no-shadow_1'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Bank Soal_tableSearch'), 
-    'akademik')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Tambah_1'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_()_score_type_name'), 
-    'bobot 3')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/span_--- Kelompok Menu ---'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_concat(id(, , select2-opts_curiculums_2d1902'), 
-    'sikap')
-
-WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_concat(id(, , select2-opts_curiculums_2d1902'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_()_score_type_weight'), 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_course_max_participants'), 
     '20')
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Nilai Minimal Kelulusan_score_type_minimum'), 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/textarea_Tujuan Diklat_course_purpose'), 
+    'Fungsional')
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Nilai Minimum Kelulusan_course_minimu_71e3ec'), 
     '75')
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Nilai Maksimal Kelulusan_score_type_maximum'), 
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/span_--- Search ---_1'))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_concat(id(, , select2-opts_curiculums_2d1902'), 
+    'akad')
+
+WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_concat(id(, , select2-opts_curiculums_2d1902'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Simpan'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_OK'))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Bank Soal_tableSearch'), 
+    '1003')
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Import'))
+
+WebUI.uploadFile(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/import 1'), 
+    'D:\\ANTHEA KEJAGUNG AUTOMATION VERSI 01\\kurikulum\\diklat\\dokumen\\1template_loader_courses.xlsx')
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Lewati baris nomer 1 (Judul)_skip'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Submit'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Kembali'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Diklat_1'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Import Mata Pelajaran'))
+
+WebUI.uploadFile(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/import 2'), 
+    'D:\\ANTHEA KEJAGUNG AUTOMATION VERSI 01\\kurikulum\\diklat\\dokumen\\2template_loader_integrate_lesson.xlsx')
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Lewati baris nomer 1 (Judul)_skip'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Submit'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Kembali_1'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Diklat_1'))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Bank Soal_tableSearch'), 
+    '1003')
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Diklat Fungsional_btn btn-light btn-sm no_be9983'))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_course_code'), 
+    'DK-1004')
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Simpan'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_OK'))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Bank Soal_tableSearch'), 
+    '1004')
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_unread messages'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Tambah Mata Pelajaran'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/span_--- Search ---_1_2'))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_concat(id(, , select2-opts_curiculums_2d1902'), 
+    'e')
+
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/li_MP-016 - Eksekusi'))
+
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/Page_Badiklat Kejaksaan RI/button_Simpan mapel eksekusi'))
+
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/Page_Badiklat Kejaksaan RI/button_OK mapel eksekusi'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Tambah Mata Pelajaran'))
+
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/Page_Badiklat Kejaksaan RI/button_Simpan mapel kosong'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Mata Pelajaran_btn no-border bg-grey_39a1df'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Tambah Mata Pelajaran'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Kembali_1_2'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Tambah Mata Pelajaran'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/span_--- Search ---_1_2'))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_concat(id(, , select2-opts_curiculums_2d1902'), 
+    'p')
+
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/li_MP-014 - Penuntutan'))
+
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/Page_Badiklat Kejaksaan RI/button_Simpan mapel penuntutan'))
+
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/Page_Badiklat Kejaksaan RI/button_OK mapel penuntutan'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Mata Pelajaran Utama_btn btn-light b_f42ee5'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Yes, delete it'))
+
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/Page_Badiklat Kejaksaan RI/button_OK hapus mapel penuntutan'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Mata Pelajaran Utama_btn btn-light btn-sm_391d0e'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Literatur'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Komponen Penilaian'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Tambah'))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_score_item_name'), 
+    'teori')
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_score_item_weight'), 
+    '60')
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_score_item_minimum'), 
+    '70')
+
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/Page_Badiklat Kejaksaan RI/button_Simpan komponen penilaian'))
+
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/Page_Badiklat Kejaksaan RI/button_OK komponen penilaian'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Tambah'))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_score_item_name'), 
+    'praktik')
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_score_item_weight'), 
+    '40')
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_score_item_minimum'), 
+    '70')
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Simpan'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_OK'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Tambah'))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_score_item_name'), 
+    'efv')
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_score_item_weight'), 
+    '65')
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_score_item_minimum'), 
+    '70')
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Simpan'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_OK'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Mata Pelajaran_btn no-border bg-grey_39a1df'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Kembali_1_2_3'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Kembali_1_2_3_4'))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Bank Soal_tableSearch'), 
+    '1004')
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Diklat Fungsional_btn btn-light btn-sm no_be9983_1'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Tambah_1'))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_score_type_name'), 
+    '1')
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_score_type_weight'), 
+    '50')
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/span_--- Kelompok Menu ---'))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_concat(id(, , select2-opts_curiculums_2d1902'), 
+    'aka')
+
+WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_concat(id(, , select2-opts_curiculums_2d1902'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Nilai Minimal Kelulusan_score_type_minimum'), 
+    '70')
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Nilai Maksimal Kelulusan_score_type_maximum'), 
     '95')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/span_--- Search ---_1'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/span_--- Search ---_1'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_concat(id(, , select2-opts_curiculums_2d1902'), 
-    'sikap')
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_concat(id(, , select2-opts_curiculums_2d1902'), 
+    'aka')
 
-WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_concat(id(, , select2-opts_curiculums_2d1902'), 
+WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_concat(id(, , select2-opts_curiculums_2d1902'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Simpan'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Simpan'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_OK'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_OK'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Kembali_1_2'))
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_score_type_weight'), 
+    '0')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Skala Nilai Akademik_btn btn-light btn-sm_6a6e18'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Simpan'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_praktikum_btn btn-light btn-sm no-button _e62fbb'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_OK'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Simpan'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Skala Nilai Akademik_btn btn-light b_b20a66'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_OK'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Ya, hapus'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Kembali_1_2_3_4_5'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_OK'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/td_Pembobotan Nilai'))
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Bank Soal_tableSearch'), 
+    'akademik')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/td_Pembobotan Nilai'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Kembali_1_2_3_4'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Skala Nilai Akademik_btn btn-light btn-sm_6a6e18'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Bank Soal_tableSearch'), 
-    '1000')
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Nilai Minimal Kelulusan_score_type_minimum'), 
+    '70')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Nilai Maksimal Kelulusan_score_type_maximum'), 
+    '')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Tambang_btn btn-light btn-sm no-button no-shadow_1_2'))
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Nilai Minimal Kelulusan_score_type_minimum'), 
+    '')
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_()_course_code'), 
-    'KD-1001')
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Simpan'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Simpan'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_OK'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_OK'))
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Bank Soal_tableSearch'), 
+    'akademik')
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_()_course_name'), 
-    'Tambang I')
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Simpan'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Skala Nilai Akademik_btn btn-light btn-sm_6a6e18_1'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_OK'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Tambah'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Bank Soal_tableSearch'), 
-    '1000')
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_score_group_code'), 
+    'tri')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_score_group_name'), 
+    'esk')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Tambang_btn btn-light btn-sm no-button no-shadow_1_2_3'))
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_score_group_weight'), 
+    '0')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Kalender'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/select_YaTidak'), 
+    '0', true)
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Kelas'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Simpan'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Kurikulum'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_OK'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Diklat'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_esk_btn btn-light btn-sm no-button n_29eab1'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Bank Soal_tableSearch'), 
-    '1000')
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Ya, hapus'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_OK'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Tambang_btn btn-light btn-sm no-button no-shadow_1_2_3'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Kembali_1_2_3_4_5'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Import Jadwal'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Kembali_1_2_3_4'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Klik Untuk Download_1_2'))
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Bank Soal_tableSearch'), 
+    '1004')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Lewati baris nomer 1 (Judul)_skip'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Lewati baris nomer 1 (Judul)_skip'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Diklat Fungsional_btn btn-light btn-sm no_be9983_1_2'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Submit_1'))
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_course_code'), 
+    'DK-1005')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Kembali_1_2_3_4_5_6'))
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_()_course_name'), 
+    'Diklat Fungsional 6')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Jadwal'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Simpan'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Atur Jadwal'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_OK'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_sd_schedule_start'))
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Bank Soal_tableSearch'), 
+    '1004')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/th_'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/th_'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Diklat Fungsional_btn btn-light btn-sm no_be9983_1_2_3'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/td_6'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Kalender'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/body_Badiklat Kejaksaan RINotifikasiKelas A_665d43'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/div_HUT RI'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/th_'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Kembali_1_2_3_4_5_6'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/td_30'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Import Jadwal'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Frekuensi_schedule_frequency'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Submit'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Jam_schedule_start_time'), 
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Kembali_1_2_3_4_5_6_7'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Jadwal'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Atur Jadwal'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_sd_schedule_start'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/td_1'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_sd_schedule_finish'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/td_13'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Frekuensi_schedule_frequency'))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Jam_schedule_start_time'), 
     '08:00')
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_sd_schedule_finish_time'), 
-    '11:00')
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_sd_schedule_finish_time'), 
+    '10:00')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Simpan'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Simpan'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_OK'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_OK'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Jadwal'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Jadwal'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Kelas'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Kurikulum'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Kurikulum'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Diklat'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Diklat'))
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Bank Soal_tableSearch'), 
+    '1004')
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_Bank Soal_tableSearch'), 
-    '1000')
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Diklat Fungsional_btn btn-light btn-sm no_be9983_1_2_3_4'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/a_Tambang_btn btn-light btn-sm no-button no-shadow_1_2_3_4'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Ubah'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Ubah'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Batal'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/span_--- Search ---_1_2_3_4'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Kurikulum'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_concat(id(, , select2-opts_curiculums_2d1902'), 
-    't')
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/a_Diklat'))
 
-WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/input_concat(id(, , select2-opts_curiculums_2d1902'), 
-    Keys.chord(Keys.ENTER))
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/input_Bank Soal_tableSearch'), 
+    '1004')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/button_Batal'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/03_diklat/Page_Badiklat Kejaksaan RI/button_Pilih Jenis Diklat_ms-2 searchbutton_983a29'))
 
 WebUI.closeBrowser()
 

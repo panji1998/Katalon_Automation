@@ -78,7 +78,7 @@ WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 0
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/02_mata pelajaran/a_Tambah'))
 
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/02_mata pelajaran/input_()_lesson_code'), 
-    'MP-1000')
+    'MP-1001')
 
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/02_mata pelajaran/input_()_lesson_name'), 
     'Ilmu Pertambangan')
@@ -89,7 +89,7 @@ WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/02_mata pelajaran/span_Nama Jenis Diklat'))
 
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/02_mata pelajaran/input_concat(id(, , select2-opts_year-conta_6c8c76'), 
-    'pertamba')
+    'mapim')
 
 WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/02_mata pelajaran/input_concat(id(, , select2-opts_year-conta_6c8c76'), 
     Keys.chord(Keys.ENTER))
@@ -181,7 +181,8 @@ WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 0
 
 WebUI.switchToWindowTitle('Badiklat Kejaksaan RI')
 
-WebUI.uploadFile(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/02_mata pelajaran/import mata_pelajaran'), 'D:\\ANTHEA KEJAGUNG AUTOMATION VERSI 01\\kurikulum\\mata pelajaran\\dokumen\\template_mata_pelajaran.xlsx')
+WebUI.uploadFile(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/02_mata pelajaran/import mata_pelajaran'), 
+    'D:\\ANTHEA KEJAGUNG AUTOMATION VERSI 01\\kurikulum\\mata pelajaran\\dokumen\\template_mata_pelajaran.xlsx')
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/02_mata pelajaran/input_Lewati baris nomer 1 (Judul)_skip'))
 

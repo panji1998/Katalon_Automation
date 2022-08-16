@@ -21,54 +21,53 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(parameter)
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/input_Email or username_login'), 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/input_Email or username_login (1)'), 
     '0102934830140000')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/input_Password_password'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/input_Password_password (1)'), 
     'kEQfCA3lIgnHsTewXuZ6Gw==')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_Login'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_Login (1)'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/a_e-Library'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/a_e-Library (1)'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/a_External Link'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/a_External Link (1)'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_Tambah'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_Tambah (1)'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/input__link_name'), 
-    'kejaksaan tinggi banten')
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/input__link_name (1)'), 
+    'kejaksaan tinggi daerahbanten')
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/input__link_url'), 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/input__link_url (1)'), 
     'https://www.kejati-banten.go.id/')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_Simpan'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_Simpan (1)'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_OK'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_OK (1)'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_Tambah'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_Tambah (1)'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_Simpan'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_Simpan (1)'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/a_Kembali'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/a_Kembali (1)'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_Tambah'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_Tambah (1)'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_External Link_btn no-border bg-grey-_4aff3f'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/i_External Link_fa fa-times text-dark-grey-_f11a98'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/a_httpswww.kejati-banten.go.id_btn btn-ligh_f2e7d7'))
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/input_Bank Soal_tableSearch'), 
+    'daerah')
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/input__link_name'), 
-    'kejaksaan tinggi banten')
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_Bank Soal_ms-2 searchbutton rounded _ada804'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_Simpan'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/a_httpswww.kejati-banten.go.id_btn btn-ligh_f2e7d7 (1)'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_OK'))
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/input__link_name (1)'), 
+    'kejaksaan tinggi daerah banten')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_httpswww.kejati-banten.go.id_btn btn_c1cde2'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_Simpan (1)'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_Ya, hapus'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_OK'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_OK (1)'))
 
 WebUI.closeBrowser()
 

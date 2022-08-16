@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01_rekap nilai mata pelajaran</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>196faba5-4eed-4029-90ea-25604482fddc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1d7d5c30-7c76-40ba-ba0c-27f95bc2f388</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://101.255.121.243:1180/login'</defaultValue>
+      <description></description>
+      <id>1d7d5c30-7c76-40ba-ba0c-27f95bc2f388</id>
+      <masked>false</masked>
+      <name>parameter</name>
+   </variable>
+</TestCaseEntity>

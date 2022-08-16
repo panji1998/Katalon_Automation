@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_External Link_fa fa-times text-dark-grey-_f11a98</name>
+   <tag></tag>
+   <elementGuidId>b652169b-9568-4afb-9292-155233aa43b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form-modal']/div/div/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-times.text-dark-grey-2.m-0.fs-16</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5b004439-a0ad-4614-944c-cf10a86da369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-times text-dark-grey-2 m-0 fs-16</value>
+      <webElementGuid>4c37b6df-d548-4253-8eca-1e2e5b8709a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-modal&quot;)/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header text-white no-button px-4&quot;]/button[@class=&quot;btn no-border bg-grey-soft rounded-circle no-shadow waves-effect waves-light&quot;]/i[@class=&quot;fa fa-times text-dark-grey-2 m-0 fs-16&quot;]</value>
+      <webElementGuid>c6a828fd-e6c8-43ee-964a-a65415b2f556</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-modal']/div/div/div/button/i</value>
+      <webElementGuid>c262b72a-9774-417b-b1af-189be0ada8fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button/i</value>
+      <webElementGuid>34734ed4-313e-4d34-b543-b752d44bf9e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

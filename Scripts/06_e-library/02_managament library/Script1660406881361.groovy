@@ -24,6 +24,8 @@ WebUI.navigateToUrl(parameter)
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/02_managament library/input_Email or username_login'), 
     '0102934830140000')
 
+WebUI.maximizeWindow()
+
 WebUI.setEncryptedText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/02_managament library/input_Password_password'), 
     'kEQfCA3lIgnHsTewXuZ6Gw==')
 
@@ -96,7 +98,7 @@ WebUI.uploadFile(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/0
 WebUI.uploadFile(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/02_managament library/input_Thumbnail_literatur_thumbnail'), 
     'D:\\ANTHEA KEJAGUNG AUTOMATION VERSI 01\\e-library\\managament library\\dokumen\\testing.jpg')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/02_managament library/button_Simpan'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/02_managament library/button_Simpan untuk tambah'))
 
 WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/02_managament library/button_OK'))
 

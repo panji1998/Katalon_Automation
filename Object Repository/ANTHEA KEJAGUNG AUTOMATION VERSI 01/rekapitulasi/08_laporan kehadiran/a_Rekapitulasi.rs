@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Rekapitulasi</name>
+   <tag></tag>
+   <elementGuidId>2aca224e-2cd3-4d24-9ccf-e09ef6ad69b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Akademik'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.menu.sidebarMenu.show</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>07b57fd6-a9be-4004-85fa-a46f77566e16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu sidebarMenu show</value>
+      <webElementGuid>039c675e-583e-4e6e-9f3f-250e40b54fa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>fc2d3dfb-df74-4635-834e-d418827f106a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>8363728b-c17d-4781-8ca6-13911bd5073b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6bc52a17-86a1-4a5e-8de4-418e12815ded</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		
+		Rekapitulasi
+	</value>
+      <webElementGuid>d2b7e136-7e76-4a57-a179-c2d435136aed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-bg&quot;]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/a[@class=&quot;menu sidebarMenu show&quot;]</value>
+      <webElementGuid>facc0cba-c6c5-473f-aef2-33a3ee53c3fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7284de98-8939-4eb3-932e-9caeb6ad303d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu sidebarMenu show</value>
+      <webElementGuid>5b372b41-6a5a-4506-b2a6-739895fac12f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>feb03bb7-393c-449b-afde-69f1fd8984e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>552c8cd6-b8fa-4997-bfc6-669e02e17fe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>13278a57-c1c8-44b7-b347-e11026642466</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		
+		Rekapitulasi
+	</value>
+      <webElementGuid>c1cf5e29-dff2-4500-bcfe-308e533991e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-bg&quot;]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/a[@class=&quot;menu sidebarMenu show&quot;]</value>
+      <webElementGuid>1e13c02a-936c-423c-b792-5305dc26f2fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Akademik'])[1]/following::a[1]</value>
+      <webElementGuid>3deb0cf6-2c36-4ab9-bef8-253653bb85b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Sikap Perilaku'])[1]/following::a[2]</value>
+      <webElementGuid>83f84b5a-f6b2-4a3c-a6d6-e5096c90c627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekap Nilai Mata Pelajaran'])[1]/preceding::a[1]</value>
+      <webElementGuid>512b6d63-78c0-4fdc-b0a1-a078c53514fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:;')])[7]</value>
+      <webElementGuid>83c75f88-1391-48af-84d6-c3fb227494c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/ul/li[5]/a</value>
+      <webElementGuid>86cc422b-9a97-467a-8313-1af2f4fc5639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:;' and (text() = '
+		
+		Rekapitulasi
+	' or . = '
+		
+		Rekapitulasi
+	')]</value>
+      <webElementGuid>5535c38b-32b8-4ad6-9295-299f2aed4b79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_HUT RI</name>
+   <tag></tag>
+   <elementGuidId>3d23dc38-cbff-41e9-805e-d8ca8ab6e2f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='calendar']/div[2]/div/table/tbody/tr/td/div/div/div/table/tbody/tr[3]/td[4]/div/div[2]/div/a/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fc-event-title-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5237236c-7481-4b99-a5c3-6fb295c20768</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fc-event-title-container</value>
+      <webElementGuid>67e5e7a4-1fc1-4a68-aecc-f446365495e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HUT RI.</value>
+      <webElementGuid>24e41dc4-d5d7-44d1-b447-494299d73033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calendar&quot;)/div[@class=&quot;fc-view-harness fc-view-harness-active&quot;]/div[@class=&quot;fc-daygrid fc-dayGridMonth-view fc-view&quot;]/table[@class=&quot;fc-scrollgrid  fc-scrollgrid-liquid&quot;]/tbody[1]/tr[@class=&quot;fc-scrollgrid-section fc-scrollgrid-section-body  fc-scrollgrid-section-liquid&quot;]/td[1]/div[@class=&quot;fc-scroller-harness fc-scroller-harness-liquid&quot;]/div[@class=&quot;fc-scroller fc-scroller-liquid-absolute&quot;]/div[@class=&quot;fc-daygrid-body fc-daygrid-body-unbalanced&quot;]/table[@class=&quot;fc-scrollgrid-sync-table&quot;]/tbody[1]/tr[3]/td[@class=&quot;fc-daygrid-day fc-day fc-day-wed fc-day-future&quot;]/div[@class=&quot;fc-daygrid-day-frame fc-scrollgrid-sync-inner&quot;]/div[@class=&quot;fc-daygrid-day-events&quot;]/div[@class=&quot;fc-daygrid-event-harness&quot;]/a[@class=&quot;fc-daygrid-event fc-daygrid-block-event fc-h-event fc-event fc-event-start fc-event-end fc-event-future&quot;]/div[@class=&quot;fc-event-main&quot;]/div[@class=&quot;fc-event-main-frame&quot;]/div[@class=&quot;fc-event-title-container&quot;]</value>
+      <webElementGuid>46a3237e-a086-4782-b7b4-11567a1d4a16</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='calendar']/div[2]/div/table/tbody/tr/td/div/div/div/table/tbody/tr[3]/td[4]/div/div[2]/div/a/div/div/div</value>
+      <webElementGuid>ed75a3be-75e1-43c4-8ff5-c5ac437e3ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::div[95]</value>
+      <webElementGuid>cec15fb5-fbeb-460b-b931-852edd63fce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri'])[1]/following::div[96]</value>
+      <webElementGuid>7b051f03-18ef-4794-be03-1e1c17f7e7bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/preceding::div[124]</value>
+      <webElementGuid>3f9e96d1-e4ad-49f9-9c01-45fd5f383cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/div</value>
+      <webElementGuid>5c7c2635-a987-4c05-9e17-ecb2207f6a06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'HUT RI.' or . = 'HUT RI.')]</value>
+      <webElementGuid>4743b29e-3512-42c5-b795-4c158bd0f0e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

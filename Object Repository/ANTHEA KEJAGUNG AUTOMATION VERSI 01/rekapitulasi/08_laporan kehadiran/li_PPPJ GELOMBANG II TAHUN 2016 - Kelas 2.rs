@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_PPPJ GELOMBANG II TAHUN 2016 - Kelas 2</name>
+   <tag></tag>
+   <elementGuidId>b33a893a-26c9-4adf-ad2a-33997166ff96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='select2-cls_id-results']/li[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.select2-results__option.select2-results__option--highlighted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>2cb4c3be-d0e4-47c7-8c9a-8c8251d56a6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>803da405-561b-4ade-b81e-f47e64d4c763</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>b26900f5-e5f4-48f9-b658-c74e21587731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>2d084657-0207-4391-8f1a-99ba88897b11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>79</value>
+      <webElementGuid>fb548a51-50ef-4102-99cf-c56a0aa9ae98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PPPJ GELOMBANG II TAHUN 2016 - Kelas 2</value>
+      <webElementGuid>f9174b3e-d6c1-4530-9f59-78a379461113</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-cls_id-results&quot;)/li[@class=&quot;select2-results__option select2-results__option--highlighted&quot;]</value>
+      <webElementGuid>b0f76005-f93e-4a58-b275-9db58666f6c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select2-cls_id-results']/li[3]</value>
+      <webElementGuid>16a8a420-14d8-4fe2-8072-aae2105b4ad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PPPJ GELOMBANG II TAHUN 2016 - Kelas 1'])[1]/following::li[1]</value>
+      <webElementGuid>83507ae9-690d-455f-b767-bda662637fd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Searching…'])[1]/following::li[2]</value>
+      <webElementGuid>20727cdc-3510-499f-a595-770b075459c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PPPJ GELOMBANG II TAHUN 2016 - Kelas 3'])[1]/preceding::li[1]</value>
+      <webElementGuid>c0b176f3-54cc-4b1b-a1d6-42018f837d78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEKNIS ADMINISTRASI KEJAKSAAN GOL. II GEL 6 2022 - KELAS 1'])[1]/preceding::li[2]</value>
+      <webElementGuid>796531ba-c99b-4dfa-8601-41da4696a6ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PPPJ GELOMBANG II TAHUN 2016 - Kelas 2']/parent::*</value>
+      <webElementGuid>338a3650-21db-4fb1-972d-83e288e82dae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/ul/li[3]</value>
+      <webElementGuid>c3c60c30-7069-41f5-b88e-7d5174b15da6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'PPPJ GELOMBANG II TAHUN 2016 - Kelas 2' or . = 'PPPJ GELOMBANG II TAHUN 2016 - Kelas 2')]</value>
+      <webElementGuid>11628463-0f5b-4b94-82f7-cb2d1b3d916e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

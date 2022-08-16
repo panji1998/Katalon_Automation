@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(parameter)
 
+WebUI.maximizeWindow()
+
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/03_nilai akhir diklat/input_Email or username_login'), 
     '0102934830140000')
 
@@ -58,6 +60,8 @@ WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERS
     Keys.chord(Keys.ENTER))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/03_nilai akhir diklat/button_Proses'))
+
+WebUI.takeFullPageScreenshot()
 
 WebUI.closeBrowser()
 
