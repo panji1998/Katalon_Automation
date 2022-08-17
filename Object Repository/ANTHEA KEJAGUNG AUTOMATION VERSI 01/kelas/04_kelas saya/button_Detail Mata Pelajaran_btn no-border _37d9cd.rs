@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Detail Mata Pelajaran_btn no-border _37d9cd</name>
+   <tag></tag>
+   <elementGuidId>3577740f-841a-4489-8e9b-5bc920d19d13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#form-modal-modul > div.modal-dialog.modal-lg > div.modal-content > div.modal-header.text-white.no-button.px-4 > button.btn.no-border.bg-grey-soft.rounded-circle.no-shadow.waves-effect.waves-light</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5f872be1-5fdd-4292-ad74-ba27df1db95c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7cbdd7fa-f629-413a-a939-552365f4168c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn no-border bg-grey-soft rounded-circle no-shadow waves-effect waves-light</value>
+      <webElementGuid>7cae15cc-85c3-463d-b07e-15cf406bb454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-dismiss</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>5e806f65-97bc-42ad-8f45-a96998ea831a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>f79d5de9-41ff-4a20-aa98-9ccbac947740</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-modal-modul&quot;)/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header text-white no-button px-4&quot;]/button[@class=&quot;btn no-border bg-grey-soft rounded-circle no-shadow waves-effect waves-light&quot;]</value>
+      <webElementGuid>57d8242d-fbea-4a1f-9d19-72bc2c2e0908</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>df6a1c99-13c9-44d0-8a1c-305757e254aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-modal-modul']/div/div/div/button</value>
+      <webElementGuid>3180d179-3f0b-416c-a4ea-2bf6eff0db47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Mata Pelajaran'])[3]/following::button[1]</value>
+      <webElementGuid>e7580a36-afdc-4a6d-a68f-f8e4474dbfac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[3]/following::button[1]</value>
+      <webElementGuid>f2ff71d0-19d3-491e-9f6d-8a20232cd73d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Mata Pelajaran'])[1]/preceding::button[1]</value>
+      <webElementGuid>a49b66f0-373b-474b-b014-43701fedec8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=': MP-013'])[1]/preceding::button[1]</value>
+      <webElementGuid>a8108f75-e954-4c05-9c52-e00570b3eb74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/button</value>
+      <webElementGuid>95b67fd2-6fb2-4776-9d47-46e2c87d45bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>1ec6696b-c477-494d-8551-478240c80594</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

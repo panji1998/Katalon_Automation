@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pilih Status Penilaian_ms-2 searchbu_483279</name>
+   <tag></tag>
+   <elementGuidId>7ec48c85-8d7c-4515-8c89-e5e4f2fa41d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ms-2.searchbutton.rounded.px-3.py-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>498b877a-549e-486a-8405-98ab13c5e12f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>866cbf8c-1c85-4995-9e4e-527e2ccd3eae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-2 searchbutton rounded px-3 py-2</value>
+      <webElementGuid>e9ae6e52-eade-4220-ac16-0ab52fdf17b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_search&quot;)/div[@class=&quot;d-flex flex-row bg-blue-table mx-2 p-2 filter-row&quot;]/button[@class=&quot;ms-2 searchbutton rounded px-3 py-2&quot;]</value>
+      <webElementGuid>fcc9eb01-f119-49ba-8a32-67b7982fbf30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>7d36de4f-455d-4b3a-ae69-6825fcff703a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_search']/div/button</value>
+      <webElementGuid>8bb3153f-5a4a-45dd-b1bb-30ddcb79badc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Status Penilaian'])[1]/following::button[1]</value>
+      <webElementGuid>58cbda13-b5ee-4611-82fb-59ee322f571e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Tahun'])[1]/following::button[1]</value>
+      <webElementGuid>b17bc288-e7e9-4a7c-b239-767f2c8dcfe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah'])[1]/preceding::button[1]</value>
+      <webElementGuid>026cb171-41ef-4569-b2ee-e3625ddae921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import'])[1]/preceding::button[1]</value>
+      <webElementGuid>652fc6e3-c5e4-4e40-b219-0f68851ff80c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/button</value>
+      <webElementGuid>5668455b-f9ee-456d-be80-47f6f8e0c8c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit']</value>
+      <webElementGuid>e7049285-f99d-4cdb-bad7-e9f87d15ac6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

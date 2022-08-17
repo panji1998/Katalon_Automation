@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Online_btn btn-light btn-sm no-button no-shadow</name>
+   <tag></tag>
+   <elementGuidId>dc59e7d4-d35a-434e-b74c-433ad224298c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='DataTables_Table_0']/tbody/tr/td[8]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-light.btn-sm.no-button.no-shadow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f25bcc24-31f0-4c43-b0c6-1c95d13544b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-light btn-sm no-button no-shadow</value>
+      <webElementGuid>456a94f2-0d50-4b52-8c3b-813de9bea6c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://101.255.121.243:1180/master/assessmenttask/update/1/46/216</value>
+      <webElementGuid>4bbc9f61-4966-445c-8c99-1aa8c69d960c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DataTables_Table_0&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[8]/a[@class=&quot;btn btn-light btn-sm no-button no-shadow&quot;]</value>
+      <webElementGuid>dac7eed5-37ca-4047-b0dc-ad593a1b76de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='DataTables_Table_0']/tbody/tr/td[8]/a</value>
+      <webElementGuid>ea58b6ed-d0e5-49a7-b4d1-b8e49f026ace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online'])[1]/following::a[1]</value>
+      <webElementGuid>a17f05e4-6bb8-4648-8ca0-774f0f104d8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ujian'])[1]/following::a[1]</value>
+      <webElementGuid>1a7f27d6-1c45-4f87-b5bf-948cb35e1409</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='teori'])[1]/preceding::a[2]</value>
+      <webElementGuid>f1101234-2196-4259-8798-4471f1853c02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ujian'])[2]/preceding::a[2]</value>
+      <webElementGuid>79d9a5ad-233e-451f-8f22-7961e7c9789b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://101.255.121.243:1180/master/assessmenttask/update/1/46/216']</value>
+      <webElementGuid>84093686-e8ea-4583-b05a-dcd6cd70c114</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/a</value>
+      <webElementGuid>3c74a095-fde2-4711-96af-0fbeb823ccd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://101.255.121.243:1180/master/assessmenttask/update/1/46/216']</value>
+      <webElementGuid>2a4841f9-7b55-470c-8138-380d96ee4a3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

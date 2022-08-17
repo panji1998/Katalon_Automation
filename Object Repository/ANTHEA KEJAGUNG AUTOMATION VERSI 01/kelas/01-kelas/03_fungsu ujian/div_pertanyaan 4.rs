@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_pertanyaan 4</name>
+   <tag></tag>
+   <elementGuidId>89a800f3-e258-4810-a2f5-97baf971b122</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='f1']/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ck.ck-content.ck-editor__editable.ck-rounded-corners.ck-editor__editable_inline.ck-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>94c33265-5683-45cf-a9d6-55f6b5381604</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ck ck-content ck-editor__editable ck-rounded-corners ck-editor__editable_inline ck-focused</value>
+      <webElementGuid>4f3f0ebc-a1f3-4f93-b305-2c1d13755c11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>lang</name>
+      <type>Main</type>
+      <value>en</value>
+      <webElementGuid>5aa72c23-b462-47c0-9799-695bb01f588f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>c12936f0-6b53-49a9-852c-55cd6ba2df8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>textbox</value>
+      <webElementGuid>df40d9c7-72cc-47ed-bc61-45db604380d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Rich Text Editor, main</value>
+      <webElementGuid>bc11d6a2-6163-4a8d-8e85-1672a16470f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>contenteditable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>72a34583-827e-4716-8a30-910c1c4a5a01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>pertanyaan 4</value>
+      <webElementGuid>e6bce177-2880-4746-b152-7a7c36c0403f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;f1&quot;)/div[@class=&quot;mb-3&quot;]/div[@class=&quot;ck ck-reset ck-editor ck-rounded-corners&quot;]/div[@class=&quot;ck ck-editor__main&quot;]/div[@class=&quot;ck ck-content ck-editor__editable ck-rounded-corners ck-editor__editable_inline ck-focused&quot;]</value>
+      <webElementGuid>3e1b9079-95c6-4792-9dc6-69c756e464a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='f1']/div/div/div[2]/div</value>
+      <webElementGuid>c183afc6-3773-4bb1-8565-5ccc60885d92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::div[2]</value>
+      <webElementGuid>12f55160-bd7d-4d09-a12e-84c7b5d6d1db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::div[2]</value>
+      <webElementGuid>0f0f1832-c6fe-40ba-8192-cd277a43c383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contoh Soal'])[1]/preceding::div[1]</value>
+      <webElementGuid>cbc86176-2e96-4e0a-b728-2f1a7fbadb1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pertanyaan Wajib / Mandatory'])[1]/preceding::div[2]</value>
+      <webElementGuid>e79683fc-3177-41f7-b199-12468be8d18d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div[2]/div</value>
+      <webElementGuid>edef17c6-9ff0-49b5-9438-ebe5d55bc866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'pertanyaan 4' or . = 'pertanyaan 4')]</value>
+      <webElementGuid>ae8fb345-3851-411f-ba8b-175389db95b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

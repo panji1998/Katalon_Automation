@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Simpan grup setting pertanyaan</name>
+   <tag></tag>
+   <elementGuidId>9491fb11-20d0-41f0-9123-47dcf5faaa14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='f1']/fieldset/div/div[5]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-danger.save-data.waves-effect.waves-light</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8dfecb3f-c11e-4318-bc15-e1c5ab0dd935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger save-data waves-effect waves-light</value>
+      <webElementGuid>53018aae-a21f-4b9c-83ee-0b50b014f8ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Simpan</value>
+      <webElementGuid>73456900-c1c3-40d9-9fc7-c658a5314edb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;f1&quot;)/fieldset[@class=&quot;rounded p-2 pt-0&quot;]/div[@class=&quot;mt-5 mb-4&quot;]/div[@class=&quot;mb-4 float-end mt-2&quot;]/button[@class=&quot;btn btn-danger save-data waves-effect waves-light&quot;]</value>
+      <webElementGuid>b077876a-ae4f-4362-8d76-c06c73a5c125</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='f1']/fieldset/div/div[5]/button</value>
+      <webElementGuid>c8f1913a-0763-4de7-b39d-d854f2a7cbb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/following::button[1]</value>
+      <webElementGuid>4cc5443b-ede0-4ccc-ba96-33f014910e51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Terakhir'])[1]/following::button[1]</value>
+      <webElementGuid>cb296921-dbd2-427b-a55f-8eb959ffd4a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pusat Notifikasi'])[1]/preceding::button[1]</value>
+      <webElementGuid>bc32be67-e951-4cbf-98a2-c4ae092f56f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[2]</value>
+      <webElementGuid>3173ad06-63fd-47a2-8b12-4fdb733ca5b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Simpan']/parent::*</value>
+      <webElementGuid>bab35e27-1da6-4cf9-b60c-e226b1d8b41b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button</value>
+      <webElementGuid>d35dd099-0377-4816-a405-0fe925402d83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Simpan' or . = 'Simpan')]</value>
+      <webElementGuid>8fa7d012-f448-44d2-a7e0-c3aaa6783908</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

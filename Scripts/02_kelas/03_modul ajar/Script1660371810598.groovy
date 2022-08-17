@@ -19,7 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://101.255.121.243:1180/login')
+WebUI.navigateToUrl(parameter)
+
+WebUI.maximizeWindow()
 
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/input_Email or username_login'), 
     '0102934830140000')
@@ -96,27 +98,16 @@ WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 0
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/a_Senin, 01 Agustus 2022_btn btn-light btn-_478799'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_Tambah'))
+WebUI.setText(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/textarea_Fungsi_material_name'), 'pertambangan')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_Upload'))
+WebUI.setText(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/textarea_Fungsi_material_description'), 
+    'modul pembelajaran untuk pertambangan')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_Simpan'))
+WebUI.uploadFile(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/input_Fungsi_material_file'), 'D:\\ANTHEA KEJAGUNG AUTOMATION VERSI 01\\kelas\\modul ajar\\dokumen\\pertambangan.pdf')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_OK'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_Simpan upload file'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_Upload'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_Simpan'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_OK'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_Tambah'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_- MUH ROFIK_btn no-border bg-grey-so_c1698f'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_Simpan_1'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_OK'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_OK berhasil disi,pan'))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/a_Kembali_1_2'))
 
@@ -128,7 +119,7 @@ WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 0
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_Simpan'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_OK'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_OK untuk ujian'))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/a_Online_btn btn-light btn-sm no-button no-shadow'))
 
@@ -149,41 +140,6 @@ WebUI.switchToWindowTitle('Badiklat Kejaksaan RI')
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/a_Kembali_1_2_3_4'))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/a_Kembali_1_2_3_4_5'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/a_Online_btn btn-light btn-sm no-button no-shadow_1'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_Simpan'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_OK'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/a_hafalan dalam bentuk video_btn btn-light _f3e1b7'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_Simpan'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/div_OKNoCancel'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_OK'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/a_hafalan dalam bentuk video_btn btn-light _f3e1b7_1'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/a_-_btn btn-light btn-sm no-button no-shadow mx-1'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/div_buatlah dalam video dimana anda menguca_54132c'), 
-    '<p style="">buatlah dalam video dimana anda mengucapkan secara lisan terhadap Hapalan 99 Asmaul Husna.</p>')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_Simpan_1'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/button_OK'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/a_Kembali_1_2_3_4_5_6'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/a_Kembali_1_2_3_4_5'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/a_Kelas'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/a_Modul Ajar'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/03_modul ajar/a_C-02 - Kelas II_btn btn-light btn-sm no-b_5249a2_1_2'))
 
 WebUI.closeBrowser()
 

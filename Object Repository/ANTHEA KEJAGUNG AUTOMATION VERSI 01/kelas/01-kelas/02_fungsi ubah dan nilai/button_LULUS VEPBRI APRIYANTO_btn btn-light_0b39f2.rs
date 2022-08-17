@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_LULUS VEPBRI APRIYANTO_btn btn-light_0b39f2</name>
+   <tag></tag>
+   <elementGuidId>b24fed26-d7b5-4b67-970e-6ac2bff2110d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='updateData(this)']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-light.btn-sm.no-button.no-shadow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9fa9bc74-1569-448c-bde3-0956f07ff831</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-light btn-sm no-button no-shadow</value>
+      <webElementGuid>4e5ff08b-9db0-4b25-bb0d-cb5cac5e8a58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>81</value>
+      <webElementGuid>9c30aa8d-0ca9-4b7d-b182-91277d0f89dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>updateData(this)</value>
+      <webElementGuid>625045fc-5a1e-454e-967a-4d8abbbb2ad0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DataTables_Table_0&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[4]/button[@class=&quot;btn btn-light btn-sm no-button no-shadow&quot;]</value>
+      <webElementGuid>89576a07-b5c1-4afb-9e3a-8b61210b5836</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='updateData(this)']</value>
+      <webElementGuid>4e2db479-a96f-4c1d-a074-2e14b219cc80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='DataTables_Table_0']/tbody/tr/td[4]/button</value>
+      <webElementGuid>7cc978dd-07ae-4af3-964e-54ada2997c66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LULUS VEPBRI APRIYANTO'])[1]/following::button[1]</value>
+      <webElementGuid>3ac740bf-3aab-4a86-95a5-c4f805db83a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fungsi'])[1]/following::button[1]</value>
+      <webElementGuid>1bea95ba-62bc-4085-885d-01a9d2399d1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 1 of 1 entries'])[1]/preceding::button[1]</value>
+      <webElementGuid>2d7b6a16-f4ac-42d9-ae2c-1bdced9988c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/button</value>
+      <webElementGuid>0c836ce7-2b72-4925-a7cc-31d5b67c71f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

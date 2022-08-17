@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_-_btn btn-light btn-sm no-button no-shadow</name>
+   <tag></tag>
+   <elementGuidId>7e8adad6-8b7f-4516-801e-1147264d080e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='updateData(this)']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-light.btn-sm.no-button.no-shadow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>84b60912-b701-45ba-a666-a1bc5b5bf13f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-light btn-sm no-button no-shadow</value>
+      <webElementGuid>293ef317-11e2-4190-882a-b3a857646b25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>81</value>
+      <webElementGuid>ca5bd516-601d-4c30-aef9-a00ccc6e9eef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>updateData(this)</value>
+      <webElementGuid>f1a3ce51-b0f7-4cb7-a54d-5bb58118093d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DataTables_Table_0&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[6]/button[@class=&quot;btn btn-light btn-sm no-button no-shadow&quot;]</value>
+      <webElementGuid>bd85157a-2db9-4453-a801-da6362e0825e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='updateData(this)']</value>
+      <webElementGuid>d8834ceb-f5cd-45d0-a4ef-b30497feda8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='DataTables_Table_0']/tbody/tr/td[6]/button</value>
+      <webElementGuid>b1c2db22-61f3-4db3-a1a7-2a13faf73825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[3]/following::button[1]</value>
+      <webElementGuid>e28031ce-75ec-4069-8798-6045e76fb346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/following::button[1]</value>
+      <webElementGuid>5042873e-daaa-48e4-bc46-acca27816872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 1 of 1 entries'])[1]/preceding::button[1]</value>
+      <webElementGuid>3030be06-edf0-4dbf-ac7b-0de7356f3cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/button</value>
+      <webElementGuid>71dd18c7-f4a8-483d-9ba4-8c936b445985</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

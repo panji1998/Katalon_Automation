@@ -17,3 +17,57 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl(parameter)
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/input_Email or username_login'), 
+    '0102934830140000')
+
+WebUI.maximizeWindow()
+
+WebUI.setEncryptedText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/input_Password_password'), 
+    'kEQfCA3lIgnHsTewXuZ6Gw==')
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/a_Kelas'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/a_Kelas Saya'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/a_Pusdiklat Mapim_btn btn-light btn-sm no-b_164737'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/div_MATA PELAJARAN  Pra Penuntutan  - MP-013'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/a_Kembali'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/div_MATA PELAJARAN  Pra Penuntutan  - MP-013'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/button_Detail Mata Pelajaran_btn no-border _37d9cd'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/a_Kembali_1'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/a_Pusdiklat Mapim_btn btn-light btn-sm no-b_164737_1'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/a_Senin, 15 Agustus 2022_btn btn-light btn-_cb0920'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/a_Kembali_1_2'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/a_Kembali_1'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/button_Pusdiklat Mapim_btn btn-light btn-sm_9856a2'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/button_OK'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/a_Kembali_1'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/a_Pusdiklat Mapim_btn btn-light btn-sm no-b_164737_1_2'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/a_Kembali_1_2_3'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/a_Pusdiklat Mapim_btn btn-light btn-sm no-b_164737_1_2_3'))
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/04_kelas saya/a_Kembali_1'))
+
+WebUI.closeBrowser()
+

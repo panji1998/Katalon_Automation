@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Penyelenggaraan Ujian Agama dan Bu_a15b4a</name>
+   <tag></tag>
+   <elementGuidId>2852c9ce-f4a1-4282-ba33-ddc6e10bb088</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@id='assignment_description']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#assignment_description</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>aef2b8e4-95c9-4e5a-8716-5ad8a1933b35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>c4fadf61-6a5e-4221-9751-51e00d04b6d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>6e204615-b78f-4f48-986a-de3db5677187</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>assignment_description</value>
+      <webElementGuid>0e8dffea-781a-4c3c-a783-4a24ccabe109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>assignment_description</value>
+      <webElementGuid>93b7ef41-6a7e-4811-9ee5-20328444b786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Isi Deskripsi</value>
+      <webElementGuid>7d090ca4-b1df-41d9-b6ee-e6f392b171a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Penyelenggaraan Ujian Agama dan Budi Pekerti
+Isilah dengan jawaban yang tepat</value>
+      <webElementGuid>0651ed90-ffde-4e91-ae30-e6b168f28b09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;assignment_description&quot;)</value>
+      <webElementGuid>a40f9760-7d61-4312-9da0-39675fdf6b92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@id='assignment_description']</value>
+      <webElementGuid>48c4430b-0377-4061-a58e-ae7650f97b71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='f1']/div[5]/textarea</value>
+      <webElementGuid>15164f1b-6eb5-41ff-b536-529d0f5c6ea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[7]/following::textarea[1]</value>
+      <webElementGuid>8ecf7dc5-327f-4b69-aa22-964c9841be54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[8]/preceding::textarea[1]</value>
+      <webElementGuid>76545864-2a90-46f5-8964-387feb529b3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>821d15c5-66d3-48fb-b426-f60c0d4a0d16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'assignment_description' and @id = 'assignment_description' and @placeholder = 'Isi Deskripsi' and (text() = 'Penyelenggaraan Ujian Agama dan Budi Pekerti
+Isilah dengan jawaban yang tepat' or . = 'Penyelenggaraan Ujian Agama dan Budi Pekerti
+Isilah dengan jawaban yang tepat')]</value>
+      <webElementGuid>e649d733-f5cd-4dac-85ce-2aeeb0425b12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

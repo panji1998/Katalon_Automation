@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kembali</name>
+   <tag></tag>
+   <elementGuidId>f34d192f-6c6b-42cc-89a8-c6a6eecf200d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//form[@id='f1']/div[10]/a)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#form-modal-modul > div.modal-dialog.modal-lg > div.modal-content > div.modal-body > #f1 > div.mb-3.float-end.mt-3 > a.btn.btn-default.close-modal.waves-effect.waves-light</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f2685670-10b9-45c4-86eb-ac555d0e1878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default close-modal waves-effect waves-light</value>
+      <webElementGuid>d0a5ceb1-3b16-4781-a30d-b3e428c74f96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kembali</value>
+      <webElementGuid>2349effd-8ce8-4595-9a3c-2806d5c797f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-modal-modul&quot;)/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[@id=&quot;f1&quot;]/div[@class=&quot;mb-3 float-end mt-3&quot;]/a[@class=&quot;btn btn-default close-modal waves-effect waves-light&quot;]</value>
+      <webElementGuid>6964a6a0-a0f6-4241-9cac-6d10835d303b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//form[@id='f1']/div[10]/a)[2]</value>
+      <webElementGuid>c17118a9-d29b-4b8a-9a54-0b7a01d2d887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Kembali')])[4]</value>
+      <webElementGuid>3550103a-88f1-49b8-947c-cb501515a653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=': -'])[2]/following::a[1]</value>
+      <webElementGuid>7f387ac8-8d62-41f2-9c76-07a56b92226f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status Zoom'])[1]/following::a[1]</value>
+      <webElementGuid>0b3abc9d-be55-4007-870b-9ae7f4479c3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Mata Pelajaran'])[4]/preceding::a[1]</value>
+      <webElementGuid>7a3d4baf-3119-4414-bf43-ca0b6ea13e76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/form/div[10]/a</value>
+      <webElementGuid>2f01d93d-fba6-4e92-b0cc-f7937357d095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Kembali' or . = 'Kembali')]</value>
+      <webElementGuid>3341c5b3-2294-4d4f-bf55-ce8ef8341958</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Online_btn btn-light btn-sm no-button no-shadow_1</name>
+   <tag></tag>
+   <elementGuidId>4e3207f3-9d26-42d4-9f20-73868f7e2cd9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='DataTables_Table_0']/tbody/tr/td[8]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0efa5657-a613-44ed-813c-3606312e2c1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-light btn-sm no-button no-shadow</value>
+      <webElementGuid>be4f8c02-f888-47db-a9e3-066082a37025</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://101.255.121.243:1180/master/assessmenttask/setting/1/4/216</value>
+      <webElementGuid>af38d598-8280-4c99-9d1b-75bbd9055cbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Setting</value>
+      <webElementGuid>2db74f8d-3b74-4b5f-a820-f193e476724b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DataTables_Table_0&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[8]/a[@class=&quot;btn btn-light btn-sm no-button no-shadow&quot;]</value>
+      <webElementGuid>c29845ee-7fab-4045-a58e-c544f3bdfb8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='DataTables_Table_0']/tbody/tr/td[8]/a[2]</value>
+      <webElementGuid>ec5aabe1-8f5e-4e5d-9708-2983fccf3f56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online'])[1]/following::a[2]</value>
+      <webElementGuid>239263e7-faf1-45db-8ebb-aac8396294b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ujian'])[1]/following::a[2]</value>
+      <webElementGuid>4d354fb6-cadf-4577-873f-7c71806b0b46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='teori'])[1]/preceding::a[1]</value>
+      <webElementGuid>538ffd1e-e2cc-450c-944f-207aa4eb6619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ujian'])[2]/preceding::a[1]</value>
+      <webElementGuid>99b7707e-c785-4203-b360-69a6a705fed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://101.255.121.243:1180/master/assessmenttask/setting/1/4/216']</value>
+      <webElementGuid>2a9590d5-6148-46a5-afac-0d649de1072c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>59648d17-4e4c-4f88-9630-955e80e7ab17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://101.255.121.243:1180/master/assessmenttask/setting/1/4/216' and @title = 'Setting']</value>
+      <webElementGuid>d9a0efb7-7a7d-4af8-b19b-e1216e9069ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

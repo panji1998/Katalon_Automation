@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Simpan drag and drop file</name>
+   <tag></tag>
+   <elementGuidId>0b6289c2-f064-4655-9e8f-9cb6de0b7590</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form-courses']/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-danger.save-data.waves-effect.waves-light</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c05605ce-1e3f-4cc6-b2e2-9ba61516ee05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger save-data waves-effect waves-light</value>
+      <webElementGuid>31420ec8-926d-4f3f-a29d-4a2a01bb80c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Simpan</value>
+      <webElementGuid>cbbaa29a-39a8-49fc-bb66-61b2e0767b47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-courses&quot;)/div[@class=&quot;modal-body&quot;]/div[@class=&quot;mb-3 float-end mt-3&quot;]/button[@class=&quot;btn btn-danger save-data waves-effect waves-light&quot;]</value>
+      <webElementGuid>a7a1efe2-f1c1-46f0-926f-4bfba810460d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-courses']/div[2]/div/button</value>
+      <webElementGuid>6997b5c0-40b8-481a-bbf5-855ce222832a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[2]/following::button[1]</value>
+      <webElementGuid>c82814ff-e29c-44ed-81d1-ecc65167800b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drop files here to upload'])[1]/following::button[1]</value>
+      <webElementGuid>ef233433-279e-46b4-a337-d24b64251844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modul Ajar'])[4]/preceding::button[1]</value>
+      <webElementGuid>6bebb845-5b2d-457a-bdb5-1a42641ddc1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[2]</value>
+      <webElementGuid>0ffc811b-2e84-4d94-a850-06329ae1c200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>37e45ca5-d878-42a5-9a54-affd03008cb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Simpan' or . = 'Simpan')]</value>
+      <webElementGuid>65bf7207-e876-4bd8-bee5-b4664c9064f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

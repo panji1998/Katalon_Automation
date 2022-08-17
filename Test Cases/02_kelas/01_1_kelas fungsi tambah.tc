@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01_1_kelas fungsi tambah</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2457c847-c64b-406a-ba47-49a48381ea93</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3280ddef-f785-4125-bc63-e38925f2757e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://101.255.121.243:1180/login'</defaultValue>
+      <description></description>
+      <id>3280ddef-f785-4125-bc63-e38925f2757e</id>
+      <masked>false</masked>
+      <name>parameter</name>
+   </variable>
+</TestCaseEntity>

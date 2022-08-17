@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambah</name>
+   <tag></tag>
+   <elementGuidId>1fbaf335-7a14-497c-bf52-a77368a62da4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='add_new()']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-danger.mb-2.add-data.waves-effect.waves-light</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7d43ec57-4e59-4463-b775-e3332fab2878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>add_new()</value>
+      <webElementGuid>afaf7d1a-cc30-4417-b25b-a944398e1aae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger mb-2 add-data waves-effect waves-light</value>
+      <webElementGuid>398257c8-b528-4e8b-8292-4367621563d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tambah</value>
+      <webElementGuid>41d16a8c-27d3-4877-8f77-215da2ef5116</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;container-content&quot;]/div[@class=&quot;container-fluid py-5 px-2&quot;]/div[@class=&quot;card px-2 py-3 mt-4 fs-poppins&quot;]/div[@class=&quot;row mx-n1&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;d-flex justify-content-end&quot;]/button[@class=&quot;btn btn-danger mb-2 add-data waves-effect waves-light&quot;]</value>
+      <webElementGuid>2d17d299-7ab7-4bd4-a250-727f57508e1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='add_new()']</value>
+      <webElementGuid>2e6686ce-15b3-4b8e-b6b0-86440f8e7322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/following::button[1]</value>
+      <webElementGuid>235361fc-c0d4-4827-8387-160e205411d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File Pendukung'])[1]/following::button[1]</value>
+      <webElementGuid>4eeae1ea-cf55-49b9-9019-47c4a1b16503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama berkas'])[1]/preceding::button[1]</value>
+      <webElementGuid>73ee60d9-3064-4181-82ed-5d1727515eac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deskripsi'])[1]/preceding::button[1]</value>
+      <webElementGuid>14b4067d-c33a-4bd5-ab9f-a6261d1b89d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tambah']/parent::*</value>
+      <webElementGuid>ec8f76ef-4a1a-4f63-adcd-9339a1404a1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>05605222-2e21-4ccf-b5c5-78d6ee00991e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Tambah' or . = ' Tambah')]</value>
+      <webElementGuid>24db4b9c-100a-4df3-80de-6d502b63e7bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

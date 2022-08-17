@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_hafalan dalam bentuk video_btn btn-light _f3e1b7</name>
+   <tag></tag>
+   <elementGuidId>a01eb9e6-7fea-4dd6-87e3-8210414ad192</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='DataTables_Table_0']/tbody/tr/td[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>134ef7cf-7e35-42ce-aa6f-ef2b0c567117</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-light btn-sm no-button no-shadow</value>
+      <webElementGuid>b8b77307-cc93-4d31-907f-4003e9a3a45c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://101.255.121.243:1180/master/assessmenttask/update_question_group/1/4/216/6</value>
+      <webElementGuid>b42209df-ea71-48ed-9bca-45b5abfddba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DataTables_Table_0&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[4]/a[@class=&quot;btn btn-light btn-sm no-button no-shadow&quot;]</value>
+      <webElementGuid>6045d816-e814-480c-9811-d7e22209a588</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='DataTables_Table_0']/tbody/tr/td[4]/a</value>
+      <webElementGuid>eaa37609-9ce4-4d6b-b86c-b96447688f49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hafalan dalam bentuk video'])[1]/following::a[2]</value>
+      <webElementGuid>3a30666a-2b65-4c91-963f-405c135a282a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fungsi'])[1]/following::a[2]</value>
+      <webElementGuid>c7c171e0-a07b-438d-9d1b-37765fcaf5ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 1 of 1 entries (filtered from 2 total entries)'])[1]/preceding::a[2]</value>
+      <webElementGuid>c77a63c8-e4b8-4a71-a519-edc0c9cad281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://101.255.121.243:1180/master/assessmenttask/update_question_group/1/4/216/6']</value>
+      <webElementGuid>c17c97df-b821-4efe-ac31-afb2052a96a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/a</value>
+      <webElementGuid>dde1cd4e-1037-4ade-bfb1-3e33d70a67ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://101.255.121.243:1180/master/assessmenttask/update_question_group/1/4/216/6']</value>
+      <webElementGuid>6b9178d7-b16b-4e28-b6eb-14c1962a50df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

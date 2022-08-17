@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_hafalan dalam bentuk video_btn btn-light _f3e1b7_1</name>
+   <tag></tag>
+   <elementGuidId>7fc57f73-19e0-4ecb-93c9-72a3527d3357</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='DataTables_Table_0']/tbody/tr/td[4]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7bd7fd41-a0ab-4e4c-83d1-0d5646859261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-light btn-sm no-button no-shadow</value>
+      <webElementGuid>bbdd5c63-d9ba-42b4-bda2-dfff1c87387b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://101.255.121.243:1180/master/assessmenttask/1/5/6/4/216/question</value>
+      <webElementGuid>bd3623b5-7047-40e4-b36f-2161567432b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Pertanyaan</value>
+      <webElementGuid>be44d5e0-01e8-4e0e-bfe2-6cf4ef17569b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DataTables_Table_0&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[4]/a[@class=&quot;btn btn-light btn-sm no-button no-shadow&quot;]</value>
+      <webElementGuid>e99c702a-14f2-4036-8b10-d56c0d3ca770</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='DataTables_Table_0']/tbody/tr/td[4]/a[2]</value>
+      <webElementGuid>8e0a9565-3b27-4d7a-92a7-60dc372a17ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hafalan dalam bentuk video'])[1]/following::a[3]</value>
+      <webElementGuid>adfd2cb7-a39f-4eb3-a7ad-cd88454dd1f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fungsi'])[1]/following::a[3]</value>
+      <webElementGuid>91198371-9258-43dd-8b68-8f5493112551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tata cara dalam bentuk video'])[1]/preceding::a[1]</value>
+      <webElementGuid>bdc7b141-045b-4729-8097-18c2f102dc3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://101.255.121.243:1180/master/assessmenttask/1/5/6/4/216/question']</value>
+      <webElementGuid>34ff6aec-2bc2-4108-a5e2-bb5cf594da47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/a[2]</value>
+      <webElementGuid>8c9df9e8-92cb-47ac-b870-b32e4b7126b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://101.255.121.243:1180/master/assessmenttask/1/5/6/4/216/question' and @title = 'Pertanyaan']</value>
+      <webElementGuid>a553feb1-85ae-4dc9-86ce-24b84163578c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

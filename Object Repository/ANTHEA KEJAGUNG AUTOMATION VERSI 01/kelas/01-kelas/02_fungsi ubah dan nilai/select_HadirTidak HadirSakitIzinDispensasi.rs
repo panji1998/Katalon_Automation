@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_HadirTidak HadirSakitIzinDispensasi</name>
+   <tag></tag>
+   <elementGuidId>2401c011-5f18-4f13-8796-e5afa4bb5f28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='presence_status_81']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#presence_status_81</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f92b7f4b-cb9f-4baf-82e0-b14bb3b148ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>presence_status_81</value>
+      <webElementGuid>77a0c0cb-ba9c-4759-b9c9-c8f6f7ef4530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>presence_status_81</value>
+      <webElementGuid>9ab1e3f3-e58d-4fb5-80c7-c1c3a8f334b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control fieldinput select2 form-select</value>
+      <webElementGuid>8f3e229a-e851-41f1-9d14-4fa3f14cbf8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>save_presence(this)</value>
+      <webElementGuid>4ac504ff-c74e-4b10-a823-9cca07f4f4c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onblur</name>
+      <type>Main</type>
+      <value>save_presence(this)</value>
+      <webElementGuid>46ce97bc-cfca-4d6e-a17c-81fcd7270a85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>81</value>
+      <webElementGuid>d8df0b66-c3bc-4979-9223-a97b1b617996</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+Hadir
+Tidak Hadir
+Sakit
+Izin
+Dispensasi
+</value>
+      <webElementGuid>83a49caf-5fe3-45f0-9b73-c2f770f5341b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;presence_status_81&quot;)</value>
+      <webElementGuid>a10bddcf-8929-45b1-a52f-2f1ba97e61e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='presence_status_81']</value>
+      <webElementGuid>19fd9939-1371-465c-8416-b091e2830898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='DataTables_Table_0']/tbody/tr/td[4]/select</value>
+      <webElementGuid>1356e4a6-ce35-4a53-b7ef-b1033c17e643</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male'])[1]/following::select[1]</value>
+      <webElementGuid>796252ac-10a3-4b82-8c42-b621048b6a77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LULUS VEPBRI APRIYANTO'])[1]/following::select[1]</value>
+      <webElementGuid>97194ce6-3a87-448f-a3fa-56a212320d1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 1 of 1 entries'])[1]/preceding::select[2]</value>
+      <webElementGuid>fe8f6449-3418-47c2-b910-3fa93fa7654b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/select</value>
+      <webElementGuid>acd77710-c309-4956-9eb9-4044e8ac84f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'presence_status_81' and @id = 'presence_status_81' and (text() = '
+
+Hadir
+Tidak Hadir
+Sakit
+Izin
+Dispensasi
+' or . = '
+
+Hadir
+Tidak Hadir
+Sakit
+Izin
+Dispensasi
+')]</value>
+      <webElementGuid>f0d0969f-9c41-4f57-a0ad-31a16e423fe2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

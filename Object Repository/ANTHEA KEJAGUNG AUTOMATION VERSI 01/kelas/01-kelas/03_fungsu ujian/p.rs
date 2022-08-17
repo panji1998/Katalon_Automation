@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p</name>
+   <tag></tag>
+   <elementGuidId>736594d4-4a29-44b2-b2a9-709495018726</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='f1']/div[3]/div/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9cc376ef-c451-467f-abf9-20485a8f248d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;f1&quot;)/div[@class=&quot;mb-4&quot;]/div[@class=&quot;ck ck-reset ck-editor ck-rounded-corners&quot;]/div[@class=&quot;ck ck-editor__main&quot;]/div[@class=&quot;ck ck-content ck-editor__editable ck-rounded-corners ck-editor__editable_inline ck-focused&quot;]/p[1]</value>
+      <webElementGuid>f7c25e1d-5ab3-4ace-9563-9cea4b14bf10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='f1']/div[3]/div/div[2]/div/p</value>
+      <webElementGuid>6c909a48-2fb5-46b7-9dea-5967a0b7b857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Numbered List'])[2]/following::p[1]</value>
+      <webElementGuid>babd62d9-4c63-4529-a021-d19bbb95db06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Numbered List'])[1]/following::p[1]</value>
+      <webElementGuid>b21e2a88-3fd2-4efb-bede-d14979f18d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[4]/preceding::p[1]</value>
+      <webElementGuid>b18a600b-3ef9-4912-8cba-8f6bd7e80011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>02e1369b-94c3-42e9-8923-a3a28c51d602</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

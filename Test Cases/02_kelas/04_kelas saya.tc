@@ -5,4 +5,17 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>429207aa-f4e7-4686-b545-cd73604aecf7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>288dc6fc-cf05-49bc-b516-adde46c70dd6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://101.255.121.243:1180/login'</defaultValue>
+      <description></description>
+      <id>288dc6fc-cf05-49bc-b516-adde46c70dd6</id>
+      <masked>false</masked>
+      <name>parameter</name>
+   </variable>
 </TestCaseEntity>

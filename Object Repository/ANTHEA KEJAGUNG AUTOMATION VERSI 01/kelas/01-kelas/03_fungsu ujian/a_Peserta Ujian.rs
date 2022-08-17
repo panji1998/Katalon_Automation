@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Peserta Ujian</name>
+   <tag></tag>
+   <elementGuidId>ecc87f3a-3210-43c3-9696-15960bf6e622</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Peserta Ujian')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7b4ea66a-53a6-4a0d-89c6-771741242a05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>cd51df4a-b51e-43d1-a51d-33d5b9c0acc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://101.255.121.243:1180/master/assessmenttask/exam_participant/1/4/216</value>
+      <webElementGuid>6309c4d5-e4e0-4111-a87b-6ad136d492c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Peserta Ujian</value>
+      <webElementGuid>79792607-14ed-42d9-8184-692dc92e0b7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;container-content&quot;]/div[@class=&quot;container-fluid py-5 px-2&quot;]/div[@class=&quot;row mx-n1 mb-4 mt-2&quot;]/div[@class=&quot;col-md-12&quot;]/ul[@class=&quot;nav nav-tabs&quot;]/li[@class=&quot;nav-item waves-effect waves-light&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>2971ffeb-1c81-4218-9d1a-67316a2245ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Peserta Ujian')]</value>
+      <webElementGuid>2a95ff46-b5b5-45c3-b2e7-d81041554c74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group Pertanyaan'])[1]/following::a[1]</value>
+      <webElementGuid>21322ca5-6aa1-48c8-89a8-f27db530c593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setting'])[1]/following::a[2]</value>
+      <webElementGuid>eb920af0-1b23-4dc3-8a2f-3bd89b61b151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/preceding::a[1]</value>
+      <webElementGuid>c39137ee-e931-4ea1-8ed6-4b965fcdcf42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah'])[1]/preceding::a[2]</value>
+      <webElementGuid>e446e407-36e2-4a16-987b-e4c50e3ee234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Peserta Ujian']/parent::*</value>
+      <webElementGuid>a5877818-3e3c-4e86-94f4-769d3fda2401</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://101.255.121.243:1180/master/assessmenttask/exam_participant/1/4/216']</value>
+      <webElementGuid>706a44c0-0353-4127-9d06-7d0aa0574165</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/ul/li[3]/a</value>
+      <webElementGuid>bbc6f8a5-cfbd-4821-8870-1f7f37e386cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://101.255.121.243:1180/master/assessmenttask/exam_participant/1/4/216' and (text() = 'Peserta Ujian' or . = 'Peserta Ujian')]</value>
+      <webElementGuid>e364b139-0018-4c85-9245-deced1374ef0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
