@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Rekapitulasi</name>
    <tag></tag>
-   <elementGuidId>c0945deb-953b-4414-acf3-b71cd6c8dc7d</elementGuidId>
+   <elementGuidId>1fe90f25-cd43-4753-b467-480ccc6e3072</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Akademik'])[1]/following::a[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Sikap Perilaku'])[1]/following::a[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.menu.sidebarMenu.show</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e4d5fcf8-f0b5-4b4a-bf30-d6953cca9c76</webElementGuid>
+      <webElementGuid>a73f880c-4d6e-4f45-80a2-cd75d718750b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>menu sidebarMenu show</value>
-      <webElementGuid>78b4c3c9-5933-47e9-ad8c-23abaccf5feb</webElementGuid>
+      <value>menu sidebarMenu</value>
+      <webElementGuid>6084b035-6980-4c6f-9ea1-f267c9ccad5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:;</value>
-      <webElementGuid>09bdb0db-8f4d-4dcd-8d39-f921fd9948a1</webElementGuid>
+      <webElementGuid>a4a1a115-1284-4d9a-a32a-1e00c97fb809</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>data-bs-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>9a9e47db-a617-4ce3-a5cf-0923a4f2c0bc</webElementGuid>
+      <webElementGuid>83151735-cdf1-4ba3-9a93-45236e95b7a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-expanded</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>481a6941-26d4-4789-82c2-4f4676d4c239</webElementGuid>
+      <value>false</value>
+      <webElementGuid>2ffc245e-a4e8-480b-b620-dc3e4ab911c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -65,149 +65,31 @@
 		
 		Rekapitulasi
 	</value>
-      <webElementGuid>f8fbd193-b31e-495b-9774-d3e10b52793c</webElementGuid>
+      <webElementGuid>2e871014-006e-41d9-a068-0caf24e2617d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;page-bg&quot;]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/a[@class=&quot;menu sidebarMenu show&quot;]</value>
-      <webElementGuid>8eacd2c3-730a-4f3c-b09d-249277278473</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>a</value>
-      <webElementGuid>8b1a7a7d-63b4-4eec-a3c4-e6256edd4831</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>menu sidebarMenu show</value>
-      <webElementGuid>2a4265bf-e4e6-4ab7-93e8-9e2c1874cafd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>javascript:;</value>
-      <webElementGuid>256651e6-76bb-42db-b009-14a6acf6dd93</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-bs-toggle</name>
-      <type>Main</type>
-      <value>dropdown</value>
-      <webElementGuid>008f3761-f1a0-4d72-9831-e4744fbd2889</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-expanded</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>c6e11afc-8430-403d-834d-55a63dee72d0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>
-		
-		Rekapitulasi
-	</value>
-      <webElementGuid>7d7f9d05-2091-48d2-81ce-e1804e2b8459</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>/html[1]/body[@class=&quot;page-bg&quot;]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/a[@class=&quot;menu sidebarMenu show&quot;]</value>
-      <webElementGuid>805cfe63-3480-4319-97ff-6e59db7f7f02</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>a</value>
-      <webElementGuid>99fc745b-68fa-474f-ac96-a688048272ff</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>menu sidebarMenu show</value>
-      <webElementGuid>e7e55a3f-be03-4d44-ac29-c2a5b04e8dff</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>javascript:;</value>
-      <webElementGuid>bd9f33c9-6f42-4c56-abd8-b9d49e420070</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-bs-toggle</name>
-      <type>Main</type>
-      <value>dropdown</value>
-      <webElementGuid>dc3d00b9-89c3-452a-ac47-7bdcb5796fcd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-expanded</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>c68dd651-d10c-43ed-857d-d7682cb59729</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>
-		
-		Rekapitulasi
-	</value>
-      <webElementGuid>ba966da9-207f-451a-ab2e-f9bfa41dbe17</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>/html[1]/body[@class=&quot;page-bg&quot;]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/a[@class=&quot;menu sidebarMenu show&quot;]</value>
-      <webElementGuid>51e36a0e-3e4e-4f3b-acdd-da1552499ada</webElementGuid>
+      <value>/html[1]/body[@class=&quot;page-bg&quot;]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/a[@class=&quot;menu sidebarMenu&quot;]</value>
+      <webElementGuid>330af91c-9acc-4fc8-be63-2e66bd969b98</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Akademik'])[1]/following::a[1]</value>
-      <webElementGuid>10369521-b786-4a2c-a805-751dbb8d9e00</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Sikap Perilaku'])[1]/following::a[1]</value>
+      <webElementGuid>fa32d919-1293-47c9-a450-70f786c0fb63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Sikap Perilaku'])[1]/following::a[2]</value>
-      <webElementGuid>9c80e4f7-881f-4b48-8306-13709f298e06</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Akademik'])[1]/following::a[2]</value>
+      <webElementGuid>848346ea-2514-47be-bd8c-931b38567e5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -215,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekap Nilai Mata Pelajaran'])[1]/preceding::a[1]</value>
-      <webElementGuid>88116ee9-b703-4af3-904c-869366b65676</webElementGuid>
+      <webElementGuid>89e9698f-fc92-4d1d-98e4-a6a6a254310a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -223,15 +105,15 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:;')])[7]</value>
-      <webElementGuid>cd1b61a0-db08-486d-9e6a-93ff11114c1d</webElementGuid>
+      <webElementGuid>15cb900b-5745-42c8-8df3-6e97f0024d32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//main/div/div/ul/li[5]/a</value>
-      <webElementGuid>ce84ee0f-189e-4cf6-a966-1f350df46109</webElementGuid>
+      <value>//li[5]/a</value>
+      <webElementGuid>e270d4e3-e527-4ff2-afec-7b83d874b5eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -245,6 +127,6 @@
 		
 		Rekapitulasi
 	')]</value>
-      <webElementGuid>a9d5134a-36c0-4ddf-b42f-82066eea1f89</webElementGuid>
+      <webElementGuid>2924c3a5-e6d7-4016-9584-95f2877758d0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

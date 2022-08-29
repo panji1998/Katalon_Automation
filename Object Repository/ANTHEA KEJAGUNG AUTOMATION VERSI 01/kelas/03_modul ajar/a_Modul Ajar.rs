@@ -3,14 +3,15 @@
    <description></description>
    <name>a_Modul Ajar</name>
    <tag></tag>
-   <elementGuidId>08f50df7-d35b-47b6-a0c1-01cb14230e31</elementGuidId>
+   <elementGuidId>a5952630-c5df-4ad1-8a1f-3fec8695b6b7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Alumni'])[1]/following::a[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelas Saya'])[1]/following::a[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b68aae70-9c03-46d1-9067-f4cfd2945d88</webElementGuid>
+      <webElementGuid>37aefe3b-07eb-4871-a58e-a7614a2b1618</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item</value>
-      <webElementGuid>ef73708a-f1a0-4bc1-ab2b-9608bcafc963</webElementGuid>
+      <webElementGuid>10c77edc-37cd-4df0-b75b-d03ffdffe271</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>http://101.255.121.243:1180/classroom/learning-module</value>
-      <webElementGuid>209821e3-3dc7-436d-bd22-cfa0f9eadd44</webElementGuid>
+      <value>http://103.253.107.18:24400/classroom/learning-module</value>
+      <webElementGuid>d342c5c6-48f5-4f33-ba74-7c612774c249</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,68 +49,68 @@
 		
 		Modul Ajar
 	</value>
-      <webElementGuid>ef14bf09-a3c0-451b-b126-526fa9ce8cde</webElementGuid>
+      <webElementGuid>b41ebf8e-2867-4a53-9022-784c11afcaa3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;page-bg&quot;]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/ul[@class=&quot;dropdown-menu show&quot;]/li[3]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>c658ad2d-31ca-4ebd-9d5a-58c724bc530a</webElementGuid>
+      <value>/html[1]/body[@class=&quot;page-bg&quot;]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/ul[@class=&quot;dropdown-menu show&quot;]/li[4]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>73e82646-2ee4-4baa-bbda-44fab7575b64</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alumni'])[1]/following::a[1]</value>
-      <webElementGuid>e34c652f-bd82-4b64-a685-de55872f72c4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelas Saya'])[1]/following::a[1]</value>
+      <webElementGuid>9197b393-92ea-4fe4-a6af-1b976f3c41f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelas'])[2]/following::a[2]</value>
-      <webElementGuid>2e4c56aa-5a8e-4188-b7e1-3901bf028ad2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alumni'])[1]/following::a[2]</value>
+      <webElementGuid>d2936ea8-bfda-497c-9262-cb948d115e8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelas Saya'])[1]/preceding::a[1]</value>
-      <webElementGuid>723ecd24-7817-4dec-9634-4713aef3a45f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai'])[1]/preceding::a[1]</value>
+      <webElementGuid>656c589d-af72-47d5-b076-0f78aa6dea0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[@href='http://101.255.121.243:1180/classroom/learning-module']</value>
-      <webElementGuid>acc148ca-5cec-45f4-96eb-c4d2f4482057</webElementGuid>
+      <value>//a[@href='http://103.253.107.18:24400/classroom/learning-module']</value>
+      <webElementGuid>6b8d5ee2-d94b-4c3c-9657-4a81cfb7856e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[3]/ul/li[3]/a</value>
-      <webElementGuid>0bc6d404-74ba-47c3-a31e-5e776d2fad4f</webElementGuid>
+      <value>//li[3]/ul/li[4]/a</value>
+      <webElementGuid>23ac5607-406f-4216-9864-a0c08e5c73be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://101.255.121.243:1180/classroom/learning-module' and (text() = '
+      <value>//a[@href = 'http://103.253.107.18:24400/classroom/learning-module' and (text() = '
 		
 		Modul Ajar
 	' or . = '
 		
 		Modul Ajar
 	')]</value>
-      <webElementGuid>8f5124cb-9f23-46b9-84a9-3c0bd9acc82a</webElementGuid>
+      <webElementGuid>69522cfa-6b9f-456a-853a-a12eb5f55675</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

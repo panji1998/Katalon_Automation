@@ -31,9 +31,9 @@ WebUI.setEncryptedText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMAT
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/02_nilai akademik/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/02_nilai akademik/a_Nilai'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/02_nilai akademik/a_Nilai update'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/02_nilai akademik/a_Nilai Akademik'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/02_nilai akademik/a_Nilai Akademik (1)'))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/02_nilai akademik/span_Pilih Jenis Pendidikan'))
 
@@ -70,7 +70,7 @@ WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERS
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/02_nilai akademik/span_Pilih Mata Pelajaran'))
 
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/02_nilai akademik/input_Pusat Notifikasi_select2-search__field'), 
-    'agama')
+    'eks')
 
 WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/02_nilai akademik/input_Pusat Notifikasi_select2-search__field'), 
     Keys.chord(Keys.ENTER))
@@ -90,14 +90,6 @@ WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 0
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/02_nilai akademik/td_Nama'))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/02_nilai akademik/button_Excel'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/02_nilai akademik/a_Nilai'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/02_nilai akademik/a_Nilai Akademik'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/02_nilai akademik/button_Import'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/02_nilai akademik/button_OK'))
 
 WebUI.closeBrowser()
 

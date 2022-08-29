@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Rekap Nilai Mata Pelajaran</name>
    <tag></tag>
-   <elementGuidId>3fc88a11-50f3-46d2-a0e2-d03690afd78c</elementGuidId>
+   <elementGuidId>8e8be618-da02-440e-94a0-4c1b338ff6d5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b5ea689e-f658-4ee5-9628-67ca650be342</webElementGuid>
+      <webElementGuid>c2b3b9be-706e-45fd-998f-5869431d92e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item</value>
-      <webElementGuid>009477b7-8e0a-4a77-a7d2-4e088151d1ae</webElementGuid>
+      <webElementGuid>8a975a18-d044-450d-8323-1a39aebba8c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>http://101.255.121.243:1180/report/lesson-score</value>
-      <webElementGuid>d08d34c4-730c-4901-965f-fa2e1ebea670</webElementGuid>
+      <value>http://103.253.107.18:24400/report/lesson-score</value>
+      <webElementGuid>60c5e1f1-786e-4d3b-a73f-8472df29742c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
 		
 		Rekap Nilai Mata Pelajaran
 	</value>
-      <webElementGuid>b03a6e38-f57e-41b4-95a8-7a5b5eaeee2d</webElementGuid>
+      <webElementGuid>3978ab03-d383-435b-b32b-f548ba91df3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;page-bg&quot;]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/ul[@class=&quot;dropdown-menu show&quot;]/li[1]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>64a6bba7-4f68-4d62-b2fe-0ab0cbd7727e</webElementGuid>
+      <webElementGuid>d47a1e6d-3f50-4a9c-97f9-ebb41aa4a97a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -65,15 +65,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekapitulasi'])[1]/following::a[1]</value>
-      <webElementGuid>a86eb6cc-6bc2-452f-86dc-aa6021f4535a</webElementGuid>
+      <webElementGuid>e6a35a55-9f21-498a-bfce-692db0ec6cac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Akademik'])[1]/following::a[2]</value>
-      <webElementGuid>59a992ab-f420-44c7-8e29-07d1530b69a8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Sikap Perilaku'])[1]/following::a[2]</value>
+      <webElementGuid>4af3309c-9338-4421-966b-7955046b586e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,36 +81,36 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekap Nilai Diklat'])[1]/preceding::a[1]</value>
-      <webElementGuid>f25b9a2b-0326-4f9e-860e-3a3295e51dfe</webElementGuid>
+      <webElementGuid>2967ec5b-cf1a-4190-bab2-be6c4fe55093</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[@href='http://101.255.121.243:1180/report/lesson-score']</value>
-      <webElementGuid>153ffb52-4314-417b-9728-2c273f485f7a</webElementGuid>
+      <value>//a[@href='http://103.253.107.18:24400/report/lesson-score']</value>
+      <webElementGuid>bbefc75b-05ab-449f-86e7-33256b489142</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//main/div/div/ul/li[5]/ul/li/a</value>
-      <webElementGuid>45661e69-1703-44fa-bdf9-b0cbbd8eed51</webElementGuid>
+      <value>//li[5]/ul/li/a</value>
+      <webElementGuid>a28595f4-cb79-4b75-b984-c5980eb113ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://101.255.121.243:1180/report/lesson-score' and (text() = '
+      <value>//a[@href = 'http://103.253.107.18:24400/report/lesson-score' and (text() = '
 		
 		Rekap Nilai Mata Pelajaran
 	' or . = '
 		
 		Rekap Nilai Mata Pelajaran
 	')]</value>
-      <webElementGuid>0f86893b-8f12-4b18-8fc7-c3fe3c15f561</webElementGuid>
+      <webElementGuid>4cee2099-c5a2-4a3b-9df9-691b5646fe3e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

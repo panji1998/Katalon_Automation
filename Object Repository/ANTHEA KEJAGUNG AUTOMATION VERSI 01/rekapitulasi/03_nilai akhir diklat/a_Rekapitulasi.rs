@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Rekapitulasi</name>
    <tag></tag>
-   <elementGuidId>d61aacfe-8826-493e-a049-806655a893cb</elementGuidId>
+   <elementGuidId>f26bdf3f-5253-47db-bfab-881be95d294d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Akademik'])[1]/following::a[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Sikap Perilaku'])[1]/following::a[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.menu.sidebarMenu.show</value>
+         <value>a.menu.sidebarMenu.active</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f448fcc1-8c02-4c29-a431-b9a9e57e673a</webElementGuid>
+      <webElementGuid>50f8eef9-55f3-4bfb-923a-45403a399f5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>menu sidebarMenu show</value>
-      <webElementGuid>0c85015d-e3c6-420d-8d68-3cc562552c55</webElementGuid>
+      <value>menu sidebarMenu active</value>
+      <webElementGuid>2f32608b-f932-43a1-9c6c-bf97899443a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:;</value>
-      <webElementGuid>5cfae1c4-1b87-4128-8566-1ebce144c589</webElementGuid>
+      <webElementGuid>d0f66e4c-0536-4a95-bec8-1d361665d0d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>data-bs-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>3583126b-32e3-4d30-b6ae-d5dae4446447</webElementGuid>
+      <webElementGuid>dd3c8a80-1e1a-4451-a40d-81f1e74ea30f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-expanded</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>b9c72aba-2ccc-4984-88b7-e62aa0d0b3c2</webElementGuid>
+      <value>false</value>
+      <webElementGuid>d614d2f8-7c7e-4dd7-b776-23e80b40088a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -65,31 +65,31 @@
 		
 		Rekapitulasi
 	</value>
-      <webElementGuid>42226f87-2591-468f-893d-6f353771a89c</webElementGuid>
+      <webElementGuid>6e100e69-8e2d-4adc-b366-35342ef45c06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;page-bg&quot;]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/a[@class=&quot;menu sidebarMenu show&quot;]</value>
-      <webElementGuid>628d7b7f-f74b-4da6-88c5-3a3511041cc1</webElementGuid>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/a[@class=&quot;menu sidebarMenu active&quot;]</value>
+      <webElementGuid>93836735-c4a2-44a0-aa0f-04a8fe1ecb30</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Akademik'])[1]/following::a[1]</value>
-      <webElementGuid>6c1925e5-a41b-44af-8881-3d4d281940a3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Sikap Perilaku'])[1]/following::a[1]</value>
+      <webElementGuid>dfe32a64-ac45-4927-808a-b2c7b062a138</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Sikap Perilaku'])[1]/following::a[2]</value>
-      <webElementGuid>da5d7a8e-a0c9-403c-ad87-9ae61d7e7209</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Akademik'])[1]/following::a[2]</value>
+      <webElementGuid>cecbfa6b-ca0d-4963-bd43-228458f9687d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekap Nilai Mata Pelajaran'])[1]/preceding::a[1]</value>
-      <webElementGuid>1b01649f-0e05-4e2c-915f-ae886de155f7</webElementGuid>
+      <webElementGuid>17b940f5-127c-40af-b2c8-3306d12ea68e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,15 +105,15 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:;')])[7]</value>
-      <webElementGuid>a81a31b4-8a63-4d60-9710-4d73e56e10a8</webElementGuid>
+      <webElementGuid>f38e7e3a-a19b-4756-9f82-2d7016ac5205</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//main/div/div/ul/li[5]/a</value>
-      <webElementGuid>74108398-1064-479b-9baf-c31061eb592c</webElementGuid>
+      <value>//li[5]/a</value>
+      <webElementGuid>1ca9351f-949c-4e4e-8ced-49b0d5f15b68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
 		
 		Rekapitulasi
 	')]</value>
-      <webElementGuid>a336ea2d-1840-4c9b-a40c-3560a12069eb</webElementGuid>
+      <webElementGuid>9cbb0135-be80-45e8-84a0-ab05cdff4eec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

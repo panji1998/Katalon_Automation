@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Kembali</name>
    <tag></tag>
-   <elementGuidId>e95b5fa4-f680-4b04-b26d-06fd6df7fa6f</elementGuidId>
+   <elementGuidId>cbf5dc4c-50b1-4ee0-b28c-eb982fb217b4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>df72b543-8a7c-48fa-81a3-1831ad24fd88</webElementGuid>
+      <webElementGuid>43fcced9-9b42-4da5-aae6-3a8fe83341a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>http://101.255.121.243:1180/report/attendance</value>
-      <webElementGuid>1ef5a165-6918-4594-9f25-bd7f7ba1b86f</webElementGuid>
+      <value>http://103.253.107.18:24400/report/attendance</value>
+      <webElementGuid>35cce9af-d107-437e-a860-99f3c0058f54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-danger btn-sm mb-0 waves-effect waves-light</value>
-      <webElementGuid>e3b6e102-41c2-4f8a-a051-6642d8c2efe6</webElementGuid>
+      <webElementGuid>207c8c3a-8913-4bff-bde4-5737d93a19ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Kembali</value>
-      <webElementGuid>7d63c4e4-90ca-45fe-ac2c-52d3999e5ac5</webElementGuid>
+      <webElementGuid>5ac9808f-9706-42b3-903f-fd395d8220a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,47 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;container-content&quot;]/div[@class=&quot;container-fluid py-5 px-2&quot;]/div[@class=&quot;card px-2 py-3 mt-75&quot;]/div[@class=&quot;row filter-row mx-n1&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;d-flex justify-content-end&quot;]/a[@class=&quot;btn btn-danger btn-sm mb-0 waves-effect waves-light&quot;]</value>
-      <webElementGuid>42a5ba2f-b003-4366-9652-3bd6003d6aef</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>a</value>
-      <webElementGuid>b71b9403-968d-4060-82d3-2997da464b82</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>http://101.255.121.243:1180/report/attendance</value>
-      <webElementGuid>36212e45-3c29-456c-8bed-2730d982877a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn btn-danger btn-sm mb-0 waves-effect waves-light</value>
-      <webElementGuid>ce032b81-eb05-4ae9-b933-ea1d2aeb91bb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value> Kembali</value>
-      <webElementGuid>09951642-6663-45f9-8797-88fd5844a2d2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>/html[1]/body[1]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;container-content&quot;]/div[@class=&quot;container-fluid py-5 px-2&quot;]/div[@class=&quot;card px-2 py-3 mt-75&quot;]/div[@class=&quot;row filter-row mx-n1&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;d-flex justify-content-end&quot;]/a[@class=&quot;btn btn-danger btn-sm mb-0 waves-effect waves-light&quot;]</value>
-      <webElementGuid>0306f50a-df70-420c-86e9-fe5b211b87a3</webElementGuid>
+      <webElementGuid>095cf7e7-8aa4-4a90-a3b5-78a169bcd338</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,23 +62,23 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Kembali')]</value>
-      <webElementGuid>5c79bb68-224e-4526-be11-27802e455734</webElementGuid>
+      <webElementGuid>6a889de3-c172-47d5-802b-f8f67eaa4501</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Soal'])[1]/following::a[1]</value>
-      <webElementGuid>f5613088-3c5d-46f3-a107-2d853724b539</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard Admin'])[1]/following::a[1]</value>
+      <webElementGuid>ee713820-cfd0-45e6-8304-eb321a3fbae5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Template Sertifikat/Ijazah'])[1]/following::a[2]</value>
-      <webElementGuid>bf643c3f-445f-4084-bf3b-0b6e2628aa66</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::a[2]</value>
+      <webElementGuid>eb6bb654-5c79-4ef9-a158-0374a07989a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Processing...'])[1]/preceding::a[1]</value>
-      <webElementGuid>f5e2c35e-e8d1-4cbd-9130-4c113074848e</webElementGuid>
+      <webElementGuid>a64f264e-cf55-4136-a05c-718eac4c73f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NIP'])[1]/preceding::a[1]</value>
-      <webElementGuid>f757c24f-f7d2-4454-93e1-888b5d790863</webElementGuid>
+      <webElementGuid>265d8db9-4660-4388-a0e0-7634d7331875</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,15 +102,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Kembali']/parent::*</value>
-      <webElementGuid>8a3f9940-773a-4557-ad78-38806e1ed425</webElementGuid>
+      <webElementGuid>04a95fdd-5d6e-4a1a-8e34-bab5af7f8fe2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[@href='http://101.255.121.243:1180/report/attendance'])[2]</value>
-      <webElementGuid>755ec883-9c68-41a0-9dfa-480348a4f6e0</webElementGuid>
+      <value>(//a[@href='http://103.253.107.18:24400/report/attendance'])[2]</value>
+      <webElementGuid>2c547f3b-52fb-46d7-938b-1424139f5e39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,14 +118,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/a</value>
-      <webElementGuid>b264aba8-bc0d-498b-a1ed-46064797ffda</webElementGuid>
+      <webElementGuid>7898c7e3-fc70-4f44-a7c1-72579a0ce193</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://101.255.121.243:1180/report/attendance' and (text() = ' Kembali' or . = ' Kembali')]</value>
-      <webElementGuid>94f53697-3bea-42a0-9d5d-3609517a9252</webElementGuid>
+      <value>//a[@href = 'http://103.253.107.18:24400/report/attendance' and (text() = ' Kembali' or . = ' Kembali')]</value>
+      <webElementGuid>8f76c9a0-8116-486f-bd04-e1efd9177ebf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

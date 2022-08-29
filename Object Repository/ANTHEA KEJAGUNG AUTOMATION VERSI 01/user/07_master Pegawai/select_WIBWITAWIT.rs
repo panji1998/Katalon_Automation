@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_WIBWITAWIT</name>
+   <tag></tag>
+   <elementGuidId>97049405-4a72-457e-9947-b5b25fbbe8db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#timezone</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='timezone']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>19a6c594-7105-46be-b3aa-4a2bb160e7b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>timezone</value>
+      <webElementGuid>195e5150-c2bc-43d0-8ee8-4939bec4a4a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>timezone</value>
+      <webElementGuid>e6b33f9a-b770-4985-a96c-607c2a4ae40b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-select</value>
+      <webElementGuid>b1b8909b-f161-4ce7-a046-be747f0ab5de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+WIB
+WITA
+WIT
+</value>
+      <webElementGuid>75b2e573-c8c6-44b7-8348-5b3781356b7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;timezone&quot;)</value>
+      <webElementGuid>be3636f1-ac49-44d3-b8b4-406c394256ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='timezone']</value>
+      <webElementGuid>58bb0d9c-61f5-4f1a-889b-4cc8cfa02e51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div_user_data']/fieldset/div/div/div/div[14]/div/select</value>
+      <webElementGuid>cdae2b46-de5a-4d13-8a7f-99f3f5ccf6ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zona Waktu (WIB/WITA/WIT)'])[1]/following::select[1]</value>
+      <webElementGuid>9b2ed98f-3929-4d5b-a559-16cde0ef7811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Angkatan'])[1]/following::select[1]</value>
+      <webElementGuid>b624b995-bc5c-42fa-9a91-c53626ebc424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Rekening'])[1]/preceding::select[1]</value>
+      <webElementGuid>a7039c79-c8c0-4bbf-b5a2-e8ec00328e96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload File Buku Rekening'])[1]/preceding::select[1]</value>
+      <webElementGuid>22a5bec9-3ef8-4906-ad3a-4159580f7da6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/select</value>
+      <webElementGuid>d9058f5f-7b34-4102-b956-422c6d179def</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'timezone' and @id = 'timezone' and (text() = '
+WIB
+WITA
+WIT
+' or . = '
+WIB
+WITA
+WIT
+')]</value>
+      <webElementGuid>6bc256c6-fb6f-4adf-b6d0-1b37ee43a775</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>02_kelas only</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>e54005eb-c0d0-4f5d-a604-87064ed586f1</testSuiteGuid>
+   <testCaseLink>
+      <guid>bb06f892-9a1e-425e-8d7e-9f25199a858d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/02_kelas/01_1_kelas fungsi tambah</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3280ddef-f785-4125-bc63-e38925f2757e</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d9758118-fd79-44e0-a94c-3856858f4fa9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/02_kelas/01_2_kelas fungsi ubah dan nilai</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a2b223b7-7ea6-410d-8fc7-2f158b7f9274</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8b598b9c-5e7d-4752-822f-705783d1768a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/02_kelas/01_3_kelas fungsi ujian dan tugas</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4fc8f430-7137-4d48-ae70-cba4e2f44730</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c509ecdb-40db-4c0f-b27f-7d3a79e97565</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/02_kelas/02_alumni</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4f463b30-a01e-46f6-a549-9944d814b494</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dfa6ea89-02dc-46d5-a48b-0290e4adbc23</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/02_kelas/05_modul ajar</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1ed37089-ae1d-44e9-80d5-801ef6f99a29</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>87eb6a15-92eb-4e6e-b6a9-465a2b4f64e0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/02_kelas/04_kelas saya</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>288dc6fc-cf05-49bc-b516-adde46c70dd6</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

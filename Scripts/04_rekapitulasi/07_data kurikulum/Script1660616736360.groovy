@@ -31,9 +31,9 @@ WebUI.setEncryptedText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMAT
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/07_data kurikulum/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/07_data kurikulum/a_Rekapitulasi'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/07_data kurikulum/a_Rekapitulasi'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/07_data kurikulum/a_Data Kurikulum'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/07_data kurikulum/a_Data Kurikulum'))
 
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/07_data kurikulum/input_Bank Soal_tableSearch'), 
     '002')
@@ -91,25 +91,9 @@ WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 0
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/07_data kurikulum/a_2'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/07_data kurikulum/a_Pusdiklat Mapim_btn btn-light btn-sm no-button no-shadow'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/07_data kurikulum/a_1'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/07_data kurikulum/a_Next'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/07_data kurikulum/a_Previous'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/07_data kurikulum/select_102550100'), 
-    '25', true)
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/07_data kurikulum/input_Bank Soal_tableSearch'), 
-    '002')
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/07_data kurikulum/button_Pilih Kelas_ms-2 searchbutton rounde_172e76'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/07_data kurikulum/a_Pusdiklat Mapim_btn btn-light btn-sm no-b_164737'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/07_data kurikulum/button_Detail Kurikulum_btn no-border bg-gr_63cbf6'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/07_data kurikulum/button_Detail Kurikulum_btn no-border'))
 
 WebUI.closeBrowser()
 

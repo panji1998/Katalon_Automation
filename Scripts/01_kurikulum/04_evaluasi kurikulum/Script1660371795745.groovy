@@ -23,104 +23,91 @@ WebUI.navigateToUrl(parameter)
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/input_Email or username_login'), 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/input_Email or username_login'), 
     '0102934830140000')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/input_Password_password'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/input_Password_password'), 
     'kEQfCA3lIgnHsTewXuZ6Gw==')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/button_Login'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/a_Kurikulum'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/a_Kurikulum'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/a_Evaluasi Kurikulum'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/a_Evaluasi Kurikulum'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/input_Bank Soal_tableSearch'), 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/input_Bank Soal_tableSearch'), 
     '00000')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/button_Pilih Kelas_ms-2 searchbutton rounde_172e76'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/button_Pilih Kelas_ms-2 searchbutton rounde_172e76'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/input_Bank Soal_tableSearch'), 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/input_Bank Soal_tableSearch'), 
     'agama dan budi pekerti')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/button_Pilih Kelas_ms-2 searchbutton rounde_172e76'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/button_Pilih Kelas_ms-2 searchbutton rounde_172e76'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/input_Bank Soal_tableSearch'), 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/input_Bank Soal_tableSearch'), 
     '10')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/button_Pilih Kelas_ms-2 searchbutton rounde_172e76'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/button_Pilih Kelas_ms-2 searchbutton rounde_172e76'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/input_Bank Soal_tableSearch'), 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/input_Bank Soal_tableSearch'), 
     'pppj gelombang')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/button_Pilih Kelas_ms-2 searchbutton rounde_172e76'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/button_Pilih Kelas_ms-2 searchbutton rounde_172e76'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/input_Bank Soal_tableSearch'), 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/input_Bank Soal_tableSearch'), 
     '6')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/button_Pilih Kelas_ms-2 searchbutton rounde_172e76'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/button_Pilih Kelas_ms-2 searchbutton rounde_172e76'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/input_Bank Soal_tableSearch'), 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/input_Bank Soal_tableSearch'), 
     '')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/button_Pilih Kelas_ms-2 searchbutton rounde_172e76'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/button_Pilih Kelas_ms-2 searchbutton rounde_172e76'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/span_Pilih Jenis Diklat'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/span_Pilih Jenis Diklat'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/input_concat(id(, , select2-opts_curriculum_a6a3de'), 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/input_concat(id(, , select2-opts_curriculum_a6a3de'), 
     'map')
 
-WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/input_concat(id(, , select2-opts_curriculum_a6a3de'), 
+WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/input_concat(id(, , select2-opts_curriculum_a6a3de'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/button_Pilih Kelas_ms-2 searchbutton rounde_172e76'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/button_Pilih Kelas_ms-2 searchbutton rounde_172e76'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/span_Pilih Satdik'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/span_Pilih Satdik'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/input_concat(id(, , select2-opts_curriculum_a6a3de'), 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/input_concat(id(, , select2-opts_curriculum_a6a3de'), 
     'mapim')
 
-WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/input_concat(id(, , select2-opts_curriculum_a6a3de'), 
+WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/input_concat(id(, , select2-opts_curriculum_a6a3de'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/button_Pilih Kelas_ms-2 searchbutton rounde_172e76'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/button_Pilih Kelas_ms-2 searchbutton rounde_172e76'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/span_Pilih Tahun'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/span_Pilih Tahun'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/input_concat(id(, , select2-opts_curriculum_a6a3de'), 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/input_concat(id(, , select2-opts_curriculum_a6a3de'), 
     '20')
 
-WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/input_concat(id(, , select2-opts_curriculum_a6a3de'), 
+WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/input_concat(id(, , select2-opts_curriculum_a6a3de'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/button_Pilih Kelas_ms-2 searchbutton rounde_172e76'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/button_Pilih Kelas_ms-2 searchbutton rounde_172e76'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/span_Pilih Kelas'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/span_Pilih Kelas'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/input_concat(id(, , select2-opts_curriculum_a6a3de'), 
-    'kelas 1')
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/input_concat(id(, , select2-opts_curriculum_a6a3de'), 
+    'pppj gelombang II tahun 2016 - kelas 1')
 
-WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/input_concat(id(, , select2-opts_curriculum_a6a3de'), 
+WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/input_concat(id(, , select2-opts_curriculum_a6a3de'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/button_Pilih Kelas_ms-2 searchbutton rounde_172e76'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/button_Pilih Kelas_ms-2 searchbutton rounde_172e76'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/td_Mata Pelajaran'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/td_Mata Pelajaran'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/td_Mata Pelajaran'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/td_Kelas'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/td_Kelas'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/a_2'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/a_Previous'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/a_Next'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kurikulum/04_evaluasi kurikulum/select_102550100'), 
-    '25', true)
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/01_kurikulum/04_evaluasi kurikulum/td_Kelas'))
 
 WebUI.closeBrowser()
 

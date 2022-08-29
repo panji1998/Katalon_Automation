@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03_master pegawai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcc4d58b-b7d0-409d-b9fb-69d047d21b74</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>SCRIPT_VARIABLE</type>
+      <value>&quot;http://103.253.107.18:24400/&quot;</value>
+      <variableId>ebea4a77-2559-4745-a3a4-6ee27757184b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://101.255.121.243:1180/login'</defaultValue>
+      <description></description>
+      <id>ebea4a77-2559-4745-a3a4-6ee27757184b</id>
+      <masked>false</masked>
+      <name>parameter</name>
+   </variable>
+</TestCaseEntity>

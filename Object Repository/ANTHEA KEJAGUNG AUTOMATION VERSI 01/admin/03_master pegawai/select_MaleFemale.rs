@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_MaleFemale</name>
+   <tag></tag>
+   <elementGuidId>02dd51eb-0e1b-4618-a12f-fb38841ca36a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='sex_code']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#sex_code</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>02790052-8df7-49c5-b92e-ea6795d87213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>sex_code</value>
+      <webElementGuid>3deeb461-9b24-43ef-9f8e-acf132eb9362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sex_code</value>
+      <webElementGuid>5a0c62bf-18fb-452c-bd0f-7c4ad3b767b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control fieldinput select2 form-select</value>
+      <webElementGuid>97fba4d3-5875-4c4d-b396-e1bee65a65cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Male
+Female
+</value>
+      <webElementGuid>87a44ae5-726e-4aa2-bacd-981cbad554d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sex_code&quot;)</value>
+      <webElementGuid>57d3cb54-49f8-4d4b-8c66-44f482040683</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='sex_code']</value>
+      <webElementGuid>91dbe317-3087-4ac8-876f-cc8c79596b5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div_user_data']/fieldset/div/div/div/div[7]/div/select</value>
+      <webElementGuid>8c8a4950-ca24-4eba-a135-0cc1a92e32c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[5]/following::select[1]</value>
+      <webElementGuid>7de41233-94d4-462d-bb66-e0386b1e76db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agama'])[1]/preceding::select[1]</value>
+      <webElementGuid>57e683f1-ac64-4a20-94ea-f5a081ad9f3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>c02ae9aa-171e-4ff7-8a6e-1b395cf378f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'sex_code' and @id = 'sex_code' and (text() = '
+Male
+Female
+' or . = '
+Male
+Female
+')]</value>
+      <webElementGuid>5bdae316-db7b-48f7-9527-945289eb43d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

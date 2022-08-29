@@ -3,7 +3,7 @@
    <description></description>
    <name>span_--- Search ---</name>
    <tag></tag>
-   <elementGuidId>bcb51be3-ce09-4520-8cf8-9b7875dee59e</elementGuidId>
+   <elementGuidId>23e1dbdb-793b-404d-8e5f-709daea8e295</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>581a1697-324a-4a02-ae89-b333a9baf521</webElementGuid>
+      <webElementGuid>c7a04580-7829-4bf3-89ed-9ea9ffeef0a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>78497eee-0484-4415-84b3-f4cd52e16450</webElementGuid>
+      <webElementGuid>e47471c5-09ce-4cb5-bbfc-a48fd8accbcf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>select2-cco_id-container</value>
-      <webElementGuid>3c9acfbc-f100-4730-9f02-c0adb1ea5a0c</webElementGuid>
+      <webElementGuid>eae94c65-db0a-4e20-bd33-a71d4227ca37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>ea359cd5-73a3-4dd4-b766-709e479d7a6d</webElementGuid>
+      <webElementGuid>930e9bca-f0c7-404c-b383-982b113937c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>8a7a1237-1f87-413a-ae59-9dc7b79b8a82</webElementGuid>
+      <webElementGuid>89f76656-5183-4f02-a558-77c5ac9a1d97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>--- Search ---</value>
-      <webElementGuid>83cc94b3-3a1d-45d2-ad77-1e1437b5f483</webElementGuid>
+      <webElementGuid>0ca1a259-5503-46d0-986f-4dda9680a4a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,63 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-cco_id-container&quot;)</value>
-      <webElementGuid>7a535c17-3f01-4373-a7ad-1003cb1cb0d9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>span</value>
-      <webElementGuid>5dd49b16-89ad-479f-b273-d00221b98bc9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>select2-selection__rendered</value>
-      <webElementGuid>288535d6-c236-4359-9969-d7a4f6900a14</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>select2-cco_id-container</value>
-      <webElementGuid>fa4de6d3-457d-44d5-9290-ff9c0d340adc</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>textbox</value>
-      <webElementGuid>345e78a5-b654-4bf5-b542-ed258d046d19</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-readonly</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>236c58fc-262c-4658-9704-79f8efa46cfc</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>--- Search ---</value>
-      <webElementGuid>a4a3c3f1-e230-4272-b92d-dafc86c2a144</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;select2-cco_id-container&quot;)</value>
-      <webElementGuid>07340eb4-27ee-4892-ab63-bd77860e4cd5</webElementGuid>
+      <webElementGuid>4c2a4064-0f6a-444d-8322-907b471a2c22</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -134,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='select2-cco_id-container']</value>
-      <webElementGuid>646d5f6e-d022-41a1-ae0c-7b276e120bf9</webElementGuid>
+      <webElementGuid>d90866a5-e35c-4a01-88e4-6ce7e558b152</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='text-editor']/div/div/div/table/tbody/tr/td[2]/span/span/span/span</value>
-      <webElementGuid>ebcca972-7b2d-4acb-8be2-eb810c28decc</webElementGuid>
+      <webElementGuid>1facf477-c06a-4cb3-ac93-f7ace5270b67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,15 +94,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Diklat'])[2]/following::span[4]</value>
-      <webElementGuid>ed16d22c-995e-41cd-b5e7-f013404c917b</webElementGuid>
+      <webElementGuid>7bad8325-6ea0-4b15-acc6-1ad0f44c2e58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Soal'])[1]/following::span[5]</value>
-      <webElementGuid>3b01008c-2514-466b-8e2d-ec81a5425863</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard Admin'])[1]/following::span[5]</value>
+      <webElementGuid>e8994cbd-fba5-4369-87c6-6936d8bde2cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelas'])[3]/preceding::span[4]</value>
-      <webElementGuid>a280effb-1fc9-4556-8750-92d44b75d91b</webElementGuid>
+      <webElementGuid>309be854-a881-47a1-8a5d-9f4407c40a8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span/span/span</value>
-      <webElementGuid>201e6b59-5445-460a-96f6-887f55c1c0b0</webElementGuid>
+      <webElementGuid>dd56f076-46b9-4153-af78-aca6f60fa4c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'select2-cco_id-container' and (text() = '--- Search ---' or . = '--- Search ---')]</value>
-      <webElementGuid>fd3eaac9-eb12-4a5a-b485-be6cebafa897</webElementGuid>
+      <webElementGuid>8dfaa43a-56b8-4490-ab11-b2c4667a0467</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

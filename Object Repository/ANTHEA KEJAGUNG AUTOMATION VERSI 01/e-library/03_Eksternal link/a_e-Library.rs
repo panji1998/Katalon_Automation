@@ -3,15 +3,15 @@
    <description></description>
    <name>a_e-Library</name>
    <tag></tag>
-   <elementGuidId>50673646-b517-4c20-a70e-bbe031a7974e</elementGuidId>
+   <elementGuidId>af32576f-25c5-4f27-92c7-834091e2e1ee</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Penyelenggara'])[1]/following::a[1]</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>a.menu.sidebarMenu.show</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Penyelenggara'])[2]/following::a[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fd14239c-4a33-4e13-b487-38acf63c71e2</webElementGuid>
+      <webElementGuid>3a642fd2-b022-4b93-8467-3146c8b2844b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu sidebarMenu show</value>
-      <webElementGuid>b5f5d127-6ddb-4190-9ad6-e0a2484b76e2</webElementGuid>
+      <webElementGuid>95ce6365-8cea-4c68-a801-a228f1bd5f56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:;</value>
-      <webElementGuid>b8b7e503-fc30-433f-906f-f3774506703a</webElementGuid>
+      <webElementGuid>7b39823c-4749-47bc-aa79-33c6230d69da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-bs-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>1149249f-356e-4e5d-b87b-fc5dfcf12e3f</webElementGuid>
+      <webElementGuid>fa68131a-8090-4b09-92b7-a380e51a92b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>9bc65c1d-886a-4be1-89a8-c8ed354d31a5</webElementGuid>
+      <webElementGuid>a43b058b-1360-4783-b461-afef29213510</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
 		
 		e-Library
 	</value>
-      <webElementGuid>dceade7d-626d-4961-9e44-eb80a6ec92ad</webElementGuid>
+      <webElementGuid>80b101dd-4c3d-46ea-a21b-2f9a9adae5db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,15 +73,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;page-bg&quot;]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/a[@class=&quot;menu sidebarMenu show&quot;]</value>
-      <webElementGuid>b35488ad-8bbe-4a71-bb90-d10eba2e0633</webElementGuid>
+      <webElementGuid>ac1e255b-57e4-4a04-95da-b9c6b8e5f142</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penyelenggara'])[2]/following::a[1]</value>
-      <webElementGuid>9ab97aea-76ec-4231-ae33-80262d21a40f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penyelenggara'])[1]/following::a[1]</value>
+      <webElementGuid>aac971be-253b-4ad5-92a4-79303e6b6d14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Matgaklin'])[2]/following::a[2]</value>
-      <webElementGuid>84feba4e-52d3-4963-9078-8cf2d6f81a89</webElementGuid>
+      <webElementGuid>d7647411-ce4e-4c9e-88d9-321f8b82b4b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='e-Library'])[2]/preceding::a[1]</value>
-      <webElementGuid>68f35815-1c13-4480-ae0e-da3dad95281d</webElementGuid>
+      <webElementGuid>49be7bed-baa6-4ffa-8280-e1b6e3f73c78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,15 +105,15 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:;')])[9]</value>
-      <webElementGuid>6a00236e-9b65-43da-bd61-b3121186b2e6</webElementGuid>
+      <webElementGuid>214573bd-d675-41c9-a593-fb7b9a1722b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/ul/li[7]/a</value>
-      <webElementGuid>1fb87d78-b154-4239-b361-a6ae52f1933b</webElementGuid>
+      <value>//li[7]/a</value>
+      <webElementGuid>f8cc04d9-bd12-4c6a-b8af-8a298cc56d5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
 		
 		e-Library
 	')]</value>
-      <webElementGuid>db2fc595-9e40-4d31-9159-7a537f94905e</webElementGuid>
+      <webElementGuid>27801d0b-1415-4bd9-9b38-34e644458a52</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

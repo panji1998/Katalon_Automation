@@ -3,15 +3,15 @@
    <description></description>
    <name>a_User</name>
    <tag></tag>
-   <elementGuidId>e59a8227-00e9-454f-91bf-732b94aa5852</elementGuidId>
+   <elementGuidId>b20ee7f8-9d20-4d1c-88d5-a2a7fc8f8d00</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.menu.sidebarMenu.show</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Kurikulum'])[1]/following::a[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Kehadiran'])[1]/following::a[1]</value>
+         <key>CSS</key>
+         <value>a.menu.sidebarMenu.active</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ce909db3-e536-4e83-89e1-d3930e642ab6</webElementGuid>
+      <webElementGuid>bab310f9-9eac-48ad-a18b-c9d296254714</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>menu sidebarMenu show</value>
-      <webElementGuid>91cf4de8-52b0-4fad-befc-149ab110f1a0</webElementGuid>
+      <value>menu sidebarMenu active</value>
+      <webElementGuid>0bf9c8b6-8184-4492-94dd-a3277bcdc6a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:;</value>
-      <webElementGuid>8e5bb4d4-662d-4d46-ac43-b29d8ba14dca</webElementGuid>
+      <webElementGuid>cda51a26-dfa6-4fb3-a5ef-d44a4dea2a95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>data-bs-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>bf7dfaff-959c-44aa-bfc3-9eb9cb79a332</webElementGuid>
+      <webElementGuid>63eeccbc-4965-4b8c-8d27-1b8b4e7479a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-expanded</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>cee4f79d-df91-4c75-835c-82a843801cec</webElementGuid>
+      <value>false</value>
+      <webElementGuid>4be827e3-45ec-448e-85c0-4a11bdae0379</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -65,31 +65,31 @@
 		
 		User
 	</value>
-      <webElementGuid>c8bcb539-0965-477a-89fb-691f690b9de0</webElementGuid>
+      <webElementGuid>5ac04323-1433-4f6e-807e-70b49151d03f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;page-bg&quot;]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/a[@class=&quot;menu sidebarMenu show&quot;]</value>
-      <webElementGuid>b336e6c0-a0bf-4c9c-b2c4-5850689787e3</webElementGuid>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/a[@class=&quot;menu sidebarMenu active&quot;]</value>
+      <webElementGuid>7572a5e9-9bbb-45b7-b12e-1e5a522c39c4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Kehadiran'])[1]/following::a[1]</value>
-      <webElementGuid>f84b1c35-5f17-4eac-a500-14aab7ce33d6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Kurikulum'])[1]/following::a[1]</value>
+      <webElementGuid>e7dd7848-db1b-4f07-9482-cba5841965ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Kurikulum'])[1]/following::a[2]</value>
-      <webElementGuid>a8c84488-62c8-43d9-b6f4-46d231654430</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekap Kelas'])[1]/following::a[2]</value>
+      <webElementGuid>ff028b93-5bc4-4639-9625-271bbc9c3ad2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kepala Bandiklat'])[1]/preceding::a[1]</value>
-      <webElementGuid>833b4c6f-0454-4316-992e-4c3391bb7848</webElementGuid>
+      <webElementGuid>b9d3f980-b1ce-4ea9-b8f1-cbfdcbf01c37</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,15 +105,15 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:;')])[8]</value>
-      <webElementGuid>8335a4d5-220c-4c2c-b38f-ee8e9f7f84c2</webElementGuid>
+      <webElementGuid>46e8d25c-8cda-449c-9b39-98b6eb986860</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[6]/a</value>
-      <webElementGuid>ff8f6d31-294d-47dd-8bb6-3481ad38c863</webElementGuid>
+      <value>//div/ul/li[6]/a</value>
+      <webElementGuid>c2e1d467-a07c-4116-901b-7fe30bb709b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
 		
 		User
 	')]</value>
-      <webElementGuid>d49a7c0a-9a0d-4296-a452-f1006f62b1e5</webElementGuid>
+      <webElementGuid>d5013f80-43c1-43a5-9e5d-0e19dba483bd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -62,20 +62,16 @@ WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 0
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_Kunci Nilai'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_OK'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_RIMA MIFTACHUL FAHRUDIN_btn btn-light btn_cd2615'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/select_HadirTidak HadirSakitIzinDispensasi'), 
-    '1', true)
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_Kembali'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_OK kunci nilai'))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_Loader Absensi'))
 
+WebUI.uploadFile(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/input_File_file loader absensi'), 
+    'D:\\ANTHEA KEJAGUNG AUTOMATION VERSI 01\\kelas\\kelas\\dokumen\\template_loader_classes.xlsx')
+
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/input_Lewati baris nomer 1 (Judul)_skip'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_Proses'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_Proses loader absensi'))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_Nilai'))
 
@@ -88,142 +84,6 @@ WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI
 
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/input_teori_score_items'), 
     '78')
-
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_Simpan praktik dan teori'))
-
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_OK praktik dan teori'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_Kembali_1'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_praktik_btn btn-light btn-sm waves-effect_421e01'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_-_btn btn-light btn-sm no-button no-shadow'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/input_teori_score_items_1'), 
-    '56')
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/input_praktik_score_items_1'), 
-    '87')
-
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_Simpan praktik dan teori'))
-
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_OK praktik dan teori'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_Kembali_1'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_praktik_btn btn-light btn-sm waves-effect_421e01_1'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_-_btn btn-light btn-sm no-button no-shadow'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/input_teori_score_items_1_2'), 
-    '87')
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/input_praktik_score_items_1_2'), 
-    '67')
-
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_Simpan praktik dan teori'))
-
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_OK praktik dan teori'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_Kembali_1'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_praktik_btn btn-light btn-sm waves-effect_421e01_1_2'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_-_btn btn-light btn-sm no-button no-shadow'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/input_teori_score_items_1_2_3'), 
-    '87')
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/input_praktik_score_items_1_2_3'), 
-    '67')
-
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_Simpan praktik dan teori'))
-
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_OK praktik dan teori'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_Kembali_1'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_praktik_btn btn-light btn-sm waves-effect_421e01_1_2_3'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_-_btn btn-light btn-sm no-button no-shadow'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_Kembali_1_2'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_Kembali_1'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_praktik_btn btn-light btn-sm waves-effect_421e01_1_2_3_4'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_-_btn btn-light btn-sm no-button no-shadow'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/input_teori_score_items_1_2_3_4'), 
-    '87')
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/input_praktik_score_items_1_2_3_4'), 
-    '67')
-
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_Simpan praktik dan teori'))
-
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_OK praktik dan teori'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_Kembali_1'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_praktik_btn btn-light btn-sm waves-effect_421e01_1_2_3_4_5'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_-_btn btn-light btn-sm no-button no-shadow'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/input_teori_score_items_1_2_3_4_5'), 
-    '78')
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/input_praktik_score_items_1_2_3_4_5'), 
-    '87')
-
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_Simpan praktik dan teori'))
-
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_OK praktik dan teori'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_Kembali_1'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_praktik_btn btn-light btn-sm waves-effect_421e01_1_2_3_4_5_6'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_-_btn btn-light btn-sm no-button no-shadow'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/input_teori_score_items_1_2_3_4_5_6'), 
-    '67')
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/input_praktik_score_items_1_2_3_4_5_6'), 
-    '98')
-
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_Simpan praktik dan teori'))
-
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_OK praktik dan teori'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_Kembali_1'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_praktik_btn btn-light btn-sm waves-effect_421e01_1_2_3_4_5_6_7'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_-_btn btn-light btn-sm no-button no-shadow'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/input_teori_score_items_1_2_3_4_5_6_7'), 
-    '78')
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/input_praktik_score_items_1_2_3_4_5_6_7'), 
-    '87')
-
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_Simpan praktik dan teori'))
-
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_OK praktik dan teori'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_Kembali_1'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_praktik_btn btn-light btn-sm waves-effect_421e01_1_2_3_4_5_6_7_8'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_-_btn btn-light btn-sm no-button no-shadow'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/input_teori_score_items_1_2_3_4_5_6_7_8'), 
-    '77')
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/input_praktik_score_items_1_2_3_4_5_6_7_8'), 
-    '69')
 
 WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_Simpan praktik dan teori'))
 
@@ -253,6 +113,9 @@ WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 0
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_OK'))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/a_Import Nilai'))
+
+WebUI.uploadFile(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/input_File_file'), 
+    'D:\\ANTHEA KEJAGUNG AUTOMATION VERSI 01\\kelas\\kelas\\dokumen\\Template Loader Nilai - Azas Kemanusiaan.xlsx')
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/02_fungsi ubah dan nilai/button_Proses'))
 

@@ -31,9 +31,9 @@ WebUI.setEncryptedText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMAT
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/user/01_kepala bandiklat/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/user/01_kepala bandiklat/a_User'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/user/01_kepala bandiklat/a_User'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/user/01_kepala bandiklat/a_Kepala Bandiklat'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/user/01_kepala bandiklat/a_Kepala Bandiklat'))
 
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/user/01_kepala bandiklat/input_Bank Soal_tableSearch'), 
     'ardi')

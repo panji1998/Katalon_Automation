@@ -31,9 +31,9 @@ WebUI.setEncryptedText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMAT
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/06_rekap kelas/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/06_rekap kelas/a_Rekapitulasi'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/06_rekap kelas/a_Rekapitulasi'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/06_rekap kelas/a_Rekap Kelas'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/06_rekap kelas/a_Rekap Kelas'))
 
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/06_rekap kelas/input_Bank Soal_tableSearch'), 
     'dtf')

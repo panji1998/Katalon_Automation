@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://101.255.121.243:1180/login')
+WebUI.navigateToUrl(parameter)
 
 WebUI.maximizeWindow()
 

@@ -115,27 +115,14 @@ WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/input_()_class_max_participants'), 
     '25')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/span_--- Search ---_1_2'))
-
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/input_concat(id(, , select2-opts_curiculums_2d1902'), 
-    'pa')
-
-WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/input_concat(id(, , select2-opts_curiculums_2d1902'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/span_Tambah'))
+WebUI.uploadFile(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/input_Gambar Thumbnail_photo'), 
+    'D:\\ANTHEA KEJAGUNG AUTOMATION VERSI 01\\kelas\\kelas\\dokumen\\testing.jpg')
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/span_--- Search ---_1_2'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/input_concat(id(, , select2-opts_curiculums_2d1902'), 
-    'lo')
-
-WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/input_concat(id(, , select2-opts_curiculums_2d1902'), 
-    Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/li_() - panji_jonatan'))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/span_Tambah'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/button_() - panji_jonatan_no-button'))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/button_Simpan'))
 
@@ -179,19 +166,20 @@ WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/button_Pilih Status Penilaian_ms-2 searchbu_483279'))
 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/input_Bank Soal_tableSearch'), 
+    '')
+
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/button_Pilih Status Penilaian_ms-2 searchbu_483279'))
+
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/button_Atur Jadwal'))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/input_sd_schedule_start'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/th_'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/Page_ANTHEA KEJAGUNG/td_29'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/td_1'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/input_sd_schedule_finish'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/input_sd_schedule_finish'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/th_'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/td_31'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/Page_ANTHEA KEJAGUNG/td_29'))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/input_Frekuensi_schedule_frequency'))
 
@@ -204,7 +192,7 @@ WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/span_--- Search ---_1_2'))
 
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/input_concat(id(, , select2-opts_curiculums_2d1902'), 
-    'ca')
+    'rim')
 
 WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/01_fungsi tambah kelas/input_concat(id(, , select2-opts_curiculums_2d1902'), 
     Keys.chord(Keys.ENTER))

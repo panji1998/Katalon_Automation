@@ -3,15 +3,15 @@
    <description></description>
    <name>li_Caramel Cream - 1990849343485488</name>
    <tag></tag>
-   <elementGuidId>6383d6f8-4ce4-4375-b681-a14f62d526d8</elementGuidId>
+   <elementGuidId>f0c7ea00-6421-48e3-a2a6-3d302bbd45c2</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>li.select2-results__option.select2-results__option--highlighted</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//ul[@id='select2-usr_id-results']/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.select2-results__option.select2-results__option--highlighted</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>921139b0-ef95-438b-bb48-8fc598e21aa5</webElementGuid>
+      <webElementGuid>b2e41f0c-119e-45f6-9d50-5774260fa145</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-results__option select2-results__option--highlighted</value>
-      <webElementGuid>8c01bc61-0463-422d-a466-28906ef24506</webElementGuid>
+      <webElementGuid>82a528a2-3021-4801-ac6a-c990d3b06030</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>cbbe5dd9-4941-4466-b798-a7818597d4e1</webElementGuid>
+      <webElementGuid>8ccb3b36-4ef5-4195-87f8-f7142c0c48aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4c79eae5-bc38-465d-a92c-f026589ac05b</webElementGuid>
+      <webElementGuid>9b4c7c9b-e1d0-421d-a282-f972e8c75608</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-select2-id</name>
       <type>Main</type>
-      <value>261</value>
-      <webElementGuid>3a0a1a5d-765f-411f-b641-108be674f923</webElementGuid>
+      <value>148</value>
+      <webElementGuid>fdcf4806-0de1-49b6-8ae7-5311d80b4bcc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Caramel Cream - 1990849343485488</value>
-      <webElementGuid>9302a897-bf00-458d-a660-38aaf2a37919</webElementGuid>
+      <webElementGuid>af4d72d1-a315-42d6-b5c0-3dcbb566eeb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-usr_id-results&quot;)/li[@class=&quot;select2-results__option select2-results__option--highlighted&quot;]</value>
-      <webElementGuid>d0986201-64b2-4ed0-8e6f-28abdfd9aa79</webElementGuid>
+      <webElementGuid>d0c0f078-a8a0-4a33-84d4-4ffdabad6f90</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='select2-usr_id-results']/li</value>
-      <webElementGuid>84a10a94-1b51-4f81-99f4-7bb8d1d13ca5</webElementGuid>
+      <webElementGuid>4d226e54-5d28-4b41-a201-7aeb81fb646a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/following::li[1]</value>
-      <webElementGuid>300046f5-f13f-4d7f-856b-d2d546f7d6be</webElementGuid>
+      <webElementGuid>eb79b831-5554-4fe0-96ae-02801d021817</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/following::li[1]</value>
-      <webElementGuid>e2bbe73d-cece-49ad-8148-cd48f65e5b0c</webElementGuid>
+      <webElementGuid>b1a315a9-c65b-4944-a5bf-c2443e571b5b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CANDRA JULIO ARDIAN -'])[1]/preceding::li[1]</value>
-      <webElementGuid>884f41bd-239b-47e3-9c33-f7f19ddaabfa</webElementGuid>
+      <webElementGuid>268eca1b-a716-4d9b-b006-710a891a79f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Widyaiswara'])[4]/preceding::li[2]</value>
-      <webElementGuid>4def24f1-c8b1-4e15-aed2-915bd9b183e1</webElementGuid>
+      <webElementGuid>a8a697ea-6da6-4401-8886-0dcf7474a565</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Caramel Cream - 1990849343485488']/parent::*</value>
-      <webElementGuid>d937587d-abbe-4e5f-9e65-d80e2935dbb0</webElementGuid>
+      <webElementGuid>26663ed7-e5a1-4aca-bca0-e1d5a992c59c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]/ul/li</value>
-      <webElementGuid>5fd041e0-6297-4ca9-8e10-ba36a9227aa6</webElementGuid>
+      <webElementGuid>fe23f55e-28d2-487e-aa8f-f4cd77a40ca0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Caramel Cream - 1990849343485488' or . = 'Caramel Cream - 1990849343485488')]</value>
-      <webElementGuid>d01b93d3-0bf3-4cb7-a8a1-eed938a169b8</webElementGuid>
+      <webElementGuid>1c39d708-a157-44fe-9217-1b0ec928b3b7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

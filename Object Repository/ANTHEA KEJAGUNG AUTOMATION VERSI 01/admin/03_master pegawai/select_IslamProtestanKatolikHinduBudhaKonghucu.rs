@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_IslamProtestanKatolikHinduBudhaKonghucu</name>
+   <tag></tag>
+   <elementGuidId>d6db9efb-16d8-4d5f-9c8a-212e78555dc0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='rlg_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#rlg_id</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>07bce2fb-ed49-498c-b327-388b14d8bc46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>rlg_id</value>
+      <webElementGuid>ea4b885c-d949-4e95-95d9-d4177c2581a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>rlg_id</value>
+      <webElementGuid>f6c2e200-0eb9-4130-a6ec-bdc4bfe28e25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control fieldinput select2 form-select</value>
+      <webElementGuid>fc471b26-44ea-49e5-8ff7-f818bb3d2ed2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Islam
+Protestan
+Katolik
+Hindu
+Budha
+Konghucu
+</value>
+      <webElementGuid>7211da5e-e98d-4565-bf72-863304ff5cc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rlg_id&quot;)</value>
+      <webElementGuid>05fdb41c-3a3a-4ef1-9b60-b8b0d8502c13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='rlg_id']</value>
+      <webElementGuid>0ff01d56-30cb-4d9f-ba35-089667d2f723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div_user_data']/fieldset/div/div/div/div[8]/div/select</value>
+      <webElementGuid>b9bd6bac-d089-4733-8a1f-312a49edfa09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agama'])[1]/following::select[1]</value>
+      <webElementGuid>eaa9683e-a9ea-4ea1-8657-52fd32456540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[5]/following::select[2]</value>
+      <webElementGuid>d912407e-6879-40cc-bf9b-87e3737dd0c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[6]/preceding::select[1]</value>
+      <webElementGuid>516059a8-4cc0-4e0e-a209-44f538d00efa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/select</value>
+      <webElementGuid>d3b63940-cef9-42e9-91c5-2dfe5efea737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'rlg_id' and @id = 'rlg_id' and (text() = '
+Islam
+Protestan
+Katolik
+Hindu
+Budha
+Konghucu
+' or . = '
+Islam
+Protestan
+Katolik
+Hindu
+Budha
+Konghucu
+')]</value>
+      <webElementGuid>83d30b0e-7783-4987-a34c-e27671c4432f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

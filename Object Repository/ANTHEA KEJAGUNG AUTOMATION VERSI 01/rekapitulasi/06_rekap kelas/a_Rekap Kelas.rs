@@ -3,11 +3,11 @@
    <description></description>
    <name>a_Rekap Kelas</name>
    <tag></tag>
-   <elementGuidId>9ddf2de1-39d7-4b8f-92c4-4977839f6a8c</elementGuidId>
+   <elementGuidId>c67a9c91-81e0-4863-8aa3-1d2cba7a167c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Data Widyaiswara'])[1]/following::a[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Kehadiran'])[1]/following::a[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8c644b45-ecc6-4cb4-9338-629a1baecdb0</webElementGuid>
+      <webElementGuid>b0bdbbda-1a20-4707-8ddb-08d07ba151df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item</value>
-      <webElementGuid>14ac0019-2561-42b7-bf10-10776fb7de13</webElementGuid>
+      <webElementGuid>2139571c-425b-428a-a6a8-6d45f11a6cc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>http://101.255.121.243:1180/recapitulation/study-program</value>
-      <webElementGuid>a5f58d99-cf1c-4ba0-ac52-e04404fa5632</webElementGuid>
+      <value>http://103.253.107.18:24400/recapitulation/study-program</value>
+      <webElementGuid>dfede0c4-09f4-467a-8e14-8458283b3cef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,31 +49,31 @@
 		
 		Rekap Kelas
 	</value>
-      <webElementGuid>7a95a417-08fa-46bd-838d-8dd3323a3908</webElementGuid>
+      <webElementGuid>9df213a7-e167-4f3f-a6f7-a0ad472bb597</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;page-bg&quot;]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/ul[@class=&quot;dropdown-menu show&quot;]/li[6]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>a7c651f0-2fe6-4f3b-9760-960da2570bca</webElementGuid>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/ul[@class=&quot;dropdown-menu show&quot;]/li[7]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>d04509ca-56b3-496d-bf4e-772d544071fc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Data Widyaiswara'])[1]/following::a[1]</value>
-      <webElementGuid>241b0e40-3c92-4377-9fe4-1076500c5792</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Kehadiran'])[1]/following::a[1]</value>
+      <webElementGuid>eb96cb49-8938-4a9f-8a2c-ca150ff587cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Peserta'])[1]/following::a[2]</value>
-      <webElementGuid>32bf7602-8cb3-4e57-85dd-82e5535a7adb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Data Widyaiswara'])[1]/following::a[2]</value>
+      <webElementGuid>81284922-0ddf-4274-bdbd-f53101a25623</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,36 +81,36 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Kurikulum'])[1]/preceding::a[1]</value>
-      <webElementGuid>cf4c138f-cb8f-489e-a45e-1ff1f02b14b1</webElementGuid>
+      <webElementGuid>e4e62b59-b97e-45ac-904c-096f3bf10271</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[@href='http://101.255.121.243:1180/recapitulation/study-program']</value>
-      <webElementGuid>e919e45c-0ff6-43f5-9874-53926fe8e6c0</webElementGuid>
+      <value>//a[@href='http://103.253.107.18:24400/recapitulation/study-program']</value>
+      <webElementGuid>7e4179e9-01ff-4fb6-9727-9d47f2b4eaeb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[5]/ul/li[6]/a</value>
-      <webElementGuid>e9f9ec6e-29b9-4771-8e0b-2b4c6435a5af</webElementGuid>
+      <value>//li[5]/ul/li[7]/a</value>
+      <webElementGuid>a7f4b619-2660-44c8-a6f4-2ad6a8df7c35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://101.255.121.243:1180/recapitulation/study-program' and (text() = '
+      <value>//a[@href = 'http://103.253.107.18:24400/recapitulation/study-program' and (text() = '
 		
 		Rekap Kelas
 	' or . = '
 		
 		Rekap Kelas
 	')]</value>
-      <webElementGuid>f81c39bb-a675-46fc-81af-f4bee3eb8aa4</webElementGuid>
+      <webElementGuid>ed71ff98-d0be-423d-8b2b-dc0277956d4b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

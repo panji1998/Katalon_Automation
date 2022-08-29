@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Proses_select2-search__field</name>
    <tag></tag>
-   <elementGuidId>51cede95-415b-4bc5-abc1-d2fa72a5f80b</elementGuidId>
+   <elementGuidId>6a6d1efc-6804-4de7-a918-959a92256006</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4ff157a1-321f-40d1-946d-1e00d6d3cb94</webElementGuid>
+      <webElementGuid>c8efc441-eae9-419b-9bf1-2c311c83771f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-search__field</value>
-      <webElementGuid>f4a9434a-5400-490b-af50-845e0ca5b2c4</webElementGuid>
+      <webElementGuid>17c90f88-2c4b-4f99-97d6-cf5845d60132</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>6c7f85b0-f158-497e-ab05-34750df31047</webElementGuid>
+      <webElementGuid>30e4d990-8355-4557-9aa7-7390b2a8e10f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>7580c50a-1964-4638-8fdb-9ba7fa2e9c4b</webElementGuid>
+      <webElementGuid>84897b8d-c193-467a-8e3f-56bcb08bdb6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>999baa62-9489-4bff-bdd2-e506e03496a8</webElementGuid>
+      <webElementGuid>cae5123d-6439-438f-ac2a-503b45a24b7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>fb127f41-c929-4ce9-b32f-d221571bb6c6</webElementGuid>
+      <webElementGuid>3f0ff627-62ab-41fb-a5cc-51af946b0e1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>6de436ee-a1df-48bb-8325-cfb536ef3160</webElementGuid>
+      <webElementGuid>82bc7109-3155-4527-ac68-70390180abba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>eb4e86ea-3ea4-4f4a-8ebd-e40c2f8d1c35</webElementGuid>
+      <webElementGuid>eebba494-e014-4ada-bc20-b36ba017907d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>role</name>
       <type>Main</type>
       <value>searchbox</value>
-      <webElementGuid>b01945c7-1d22-444c-9c09-cfa27c0a5a5a</webElementGuid>
+      <webElementGuid>eb815a31-5a78-4720-a75b-2d718d7377cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,15 +94,15 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>a2001d1b-b720-4528-999d-4ea9aedcb383</webElementGuid>
+      <webElementGuid>b9401d32-9506-4029-94e8-367027e17e23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-controls</name>
       <type>Main</type>
-      <value>select2-cco_id-results</value>
-      <webElementGuid>b04e8644-0845-4f6e-8c63-8c49c41e24dd</webElementGuid>
+      <value>select2-ccl_id-results</value>
+      <webElementGuid>a7e35943-6c1a-4a13-841c-884c8efa0960</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,103 +110,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;text-editor&quot;)/span[@class=&quot;select2-container select2-container--default select2-container--open&quot;]/span[@class=&quot;select2-dropdown select2-dropdown--below&quot;]/span[@class=&quot;select2-search select2-search--dropdown&quot;]/input[@class=&quot;select2-search__field&quot;]</value>
-      <webElementGuid>9fa4bd76-9eae-4ca5-8509-e6a418ea5c31</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>input</value>
-      <webElementGuid>12dbe1f1-186d-4e11-9be2-e626a0d06ccb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>select2-search__field</value>
-      <webElementGuid>246407f3-46e0-4ea3-a24f-959141e2c5d1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>search</value>
-      <webElementGuid>5e923dcd-67c3-4401-bbad-69c593a39f21</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>c8e9943e-0ae8-435e-9c4e-e8c0740d548b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>off</value>
-      <webElementGuid>23bc70dd-0915-4afb-8a01-e9a82f08648e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocorrect</name>
-      <type>Main</type>
-      <value>off</value>
-      <webElementGuid>df7a648b-f2b2-448a-a676-d1d3c1a200fe</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocapitalize</name>
-      <type>Main</type>
-      <value>none</value>
-      <webElementGuid>217944d0-0c58-4256-a4c1-ccc30780e712</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>spellcheck</name>
-      <type>Main</type>
-      <value>false</value>
-      <webElementGuid>bf8af2d4-36c5-4bf7-8a4c-2ef9e73f9373</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>searchbox</value>
-      <webElementGuid>1a034481-2244-452d-ad03-3b8143b0c6dd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-autocomplete</name>
-      <type>Main</type>
-      <value>list</value>
-      <webElementGuid>180a7d3c-5e73-4582-9613-0103fdfe8241</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-controls</name>
-      <type>Main</type>
-      <value>select2-cco_id-results</value>
-      <webElementGuid>4ab90e3f-df5d-4666-b203-cab2a7284690</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;text-editor&quot;)/span[@class=&quot;select2-container select2-container--default select2-container--open&quot;]/span[@class=&quot;select2-dropdown select2-dropdown--below&quot;]/span[@class=&quot;select2-search select2-search--dropdown&quot;]/input[@class=&quot;select2-search__field&quot;]</value>
-      <webElementGuid>6c9a59c2-0543-48a8-b2df-71b7980bcec1</webElementGuid>
+      <webElementGuid>923c7b88-6145-48a1-ac85-a212d7aec18c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -214,7 +118,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='search']</value>
-      <webElementGuid>273fb340-ed47-4717-9a50-8cdaf2c66011</webElementGuid>
+      <webElementGuid>f986a7f6-ee9a-4534-8aaf-989e13887679</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -222,7 +126,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='text-editor']/span/span/span/input</value>
-      <webElementGuid>1b31e235-4b0f-4367-b570-d5efcb08ddf2</webElementGuid>
+      <webElementGuid>55c32ffb-f4d3-44c6-8fea-a5577337802f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -230,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/input</value>
-      <webElementGuid>40c0a702-0d2a-437c-a69b-10deddd5fe38</webElementGuid>
+      <webElementGuid>09a7e36f-948c-4212-86f5-87370e542bbe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -238,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'search']</value>
-      <webElementGuid>1320cffb-cf05-4fdd-8003-6cee4726fc98</webElementGuid>
+      <webElementGuid>6a4bedbb-d7c3-4aca-bc41-280130b77486</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Simpan</name>
    <tag></tag>
-   <elementGuidId>2e43bee8-0d10-4f15-8fda-36600150d127</elementGuidId>
+   <elementGuidId>ffe4341c-bdda-47fd-8fec-5c6b7b551142</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-danger.save-data.waves-effect.waves-light</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//form[@id='f1']/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-danger.save-data.waves-effect.waves-light</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f1aacbc0-940d-4e68-ba84-ca29d6b4b5fe</webElementGuid>
+      <webElementGuid>a0143169-01ab-4fce-8e08-6b992509e4e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-danger save-data waves-effect waves-light</value>
-      <webElementGuid>c5e0c5bd-69e4-4c08-8609-664913a7adbb</webElementGuid>
+      <webElementGuid>4b4ffc6d-6b43-411b-aebd-f7f2f27df6b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Simpan</value>
-      <webElementGuid>6fd2d6ab-3f6b-4146-a635-9dd39daf54b3</webElementGuid>
+      <webElementGuid>e7a810a3-3dec-44e8-8b87-9c7635049123</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;f1&quot;)/div[@class=&quot;card-footer&quot;]/div[@class=&quot;float-end&quot;]/button[@class=&quot;btn btn-danger save-data waves-effect waves-light&quot;]</value>
-      <webElementGuid>58b3ae5e-0fc4-4446-822b-e8ffd63bb54b</webElementGuid>
+      <webElementGuid>0215082c-3126-40be-94fb-52afc90e8b19</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='f1']/div[2]/div/button</value>
-      <webElementGuid>8e1fa1d9-78f4-4489-a5bb-fb4b3fe38f5c</webElementGuid>
+      <webElementGuid>74157053-61d2-4360-98b7-fd4b487a931a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,15 +62,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[2]/following::button[1]</value>
-      <webElementGuid>2f2dfe90-b46f-4278-b12d-ece6aef184b8</webElementGuid>
+      <webElementGuid>5a6be47b-8093-4baa-9aaa-0ab2fac453cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::button[1]</value>
-      <webElementGuid>bdea832d-9c9d-435b-8e47-973e63fd22dd</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--- Search ---'])[1]/following::button[1]</value>
+      <webElementGuid>bb24dc62-fb2a-459e-8c4c-956097d106f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Peserta'])[5]/preceding::button[1]</value>
-      <webElementGuid>15e43af5-f836-4bb4-a4a9-5e977eb86d2f</webElementGuid>
+      <webElementGuid>b8f90be9-43ed-4fa4-a762-45934b8bf149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[2]</value>
+      <webElementGuid>9e3717a6-2596-48a7-8266-3011f35c24ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Simpan']/parent::*</value>
-      <webElementGuid>d32ed27d-4459-4748-86a0-e224e0116c1a</webElementGuid>
+      <webElementGuid>9a60bb0e-7a0e-4404-8502-1cea4139b5b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button</value>
-      <webElementGuid>041f4f76-944d-453c-83e6-0dc7605886b8</webElementGuid>
+      <webElementGuid>01b8e0ad-246a-4f89-93d6-95d435784c9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Simpan' or . = 'Simpan')]</value>
-      <webElementGuid>d0261874-8754-4be8-8800-8ed1d7cf64c9</webElementGuid>
+      <webElementGuid>9aa3d73d-b242-4481-9901-0b8eb9246d6d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

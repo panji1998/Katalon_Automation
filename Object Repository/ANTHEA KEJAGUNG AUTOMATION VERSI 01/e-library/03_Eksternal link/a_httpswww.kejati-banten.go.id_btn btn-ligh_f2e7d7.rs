@@ -3,15 +3,15 @@
    <description></description>
    <name>a_httpswww.kejati-banten.go.id_btn btn-ligh_f2e7d7</name>
    <tag></tag>
-   <elementGuidId>fc9ac4c0-8695-4203-aebc-e8bfc4bcc98e</elementGuidId>
+   <elementGuidId>9c0dcd96-c08d-40a6-b67c-0f35312e013b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//a[@onclick='update_data(2)']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-light.btn-sm.no-button.no-shadow</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fca0b500-0615-45ad-8d35-e3b82278cf2c</webElementGuid>
+      <webElementGuid>37858f3d-bf26-4a51-b630-ae3ac41a56e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-light btn-sm no-button no-shadow</value>
-      <webElementGuid>c923ee6f-a8ec-4e83-b89c-4d8b6c009af2</webElementGuid>
+      <webElementGuid>9b4effce-322a-4b2f-b81f-554b711aa501</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>update_data(2)</value>
-      <webElementGuid>c3849afc-c7ce-40ce-a526-4dfcfde985dc</webElementGuid>
+      <webElementGuid>aa1773da-f65f-4013-8d50-addaf59133eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>tooltip</value>
-      <webElementGuid>fca002aa-7fac-4c13-9baa-3c072fbf886a</webElementGuid>
+      <webElementGuid>ce30a8f3-bb59-441b-9983-e05c8c86fe05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-placement</name>
       <type>Main</type>
       <value>top</value>
-      <webElementGuid>54acbcc6-caae-4243-8c8f-16ad855aae90</webElementGuid>
+      <webElementGuid>c0fdf9a7-5834-45ef-b5a1-56a73c16aed7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-bs-original-title</name>
       <type>Main</type>
       <value>Ubah</value>
-      <webElementGuid>5277d5f4-c004-4810-8857-0a101627d5a6</webElementGuid>
+      <webElementGuid>40602d38-86f7-482c-9539-395f76d5b03a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,23 +70,23 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Ubah</value>
-      <webElementGuid>8e7ca305-54d7-4731-9e62-e0c12fa37c9c</webElementGuid>
+      <webElementGuid>3ec44124-6e3b-4589-83d8-97fe9c5db32f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-describedby</name>
       <type>Main</type>
-      <value>tooltip85062</value>
-      <webElementGuid>e442020a-eb9a-4f47-a5f0-2f8b37670bce</webElementGuid>
+      <value>tooltip912574</value>
+      <webElementGuid>04ae52fb-2576-4a21-97f8-05396e61c56c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;DataTables_Table_0&quot;)/tbody[1]/tr[@class=&quot;even&quot;]/td[3]/a[@class=&quot;btn btn-light btn-sm no-button no-shadow&quot;]</value>
-      <webElementGuid>474751ff-6565-4ddc-b45e-1060c9683223</webElementGuid>
+      <value>id(&quot;DataTables_Table_0&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[3]/a[@class=&quot;btn btn-light btn-sm no-button no-shadow&quot;]</value>
+      <webElementGuid>629fbb91-9650-4c27-a481-d08710e6dac5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,15 +94,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@onclick='update_data(2)']</value>
-      <webElementGuid>e382c55b-2b5f-43ff-963f-9de069e5f2c9</webElementGuid>
+      <webElementGuid>2f7c8a97-7f08-4877-9e75-bbbca875d2a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='DataTables_Table_0']/tbody/tr[2]/td[3]/a</value>
-      <webElementGuid>a2aaf5f8-2766-4c8b-88af-b7559a3f6078</webElementGuid>
+      <value>//table[@id='DataTables_Table_0']/tbody/tr/td[3]/a</value>
+      <webElementGuid>51f8b708-7800-4073-a69d-5a23ddb32321</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,30 +110,30 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='https://www.kejati-banten.go.id/'])[1]/following::a[1]</value>
-      <webElementGuid>4c6f11ff-71d1-4089-9a9a-e344f742476e</webElementGuid>
+      <webElementGuid>43202e59-c93d-40f8-b0a7-69eee5de0714</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='kejaksaan tinggi banten'])[1]/following::a[2]</value>
-      <webElementGuid>a8914daa-274a-4be7-9633-9504bb35688b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kejaksaan banten'])[1]/following::a[2]</value>
+      <webElementGuid>b9714d8e-a511-480e-a9b4-85afd5dc5bdd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 2 of 2 entries'])[1]/preceding::a[1]</value>
-      <webElementGuid>d97ff113-f9f8-45b7-9d68-defd9c890cba</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 1 of 1 entries (filtered from 2 total entries)'])[1]/preceding::a[1]</value>
+      <webElementGuid>e416e68a-de0a-457b-9b8d-050e950cb77b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[2]/td[3]/a</value>
-      <webElementGuid>f50cc940-8966-4c50-bed1-5ff9a1350708</webElementGuid>
+      <value>//td[3]/a</value>
+      <webElementGuid>0043d61f-9ee3-4507-a8a5-2f96afad380d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

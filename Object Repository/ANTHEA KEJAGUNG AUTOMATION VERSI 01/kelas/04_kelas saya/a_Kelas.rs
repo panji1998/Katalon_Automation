@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Kelas</name>
    <tag></tag>
-   <elementGuidId>da77d8eb-1968-44da-b033-52a0c03ffe7c</elementGuidId>
+   <elementGuidId>5e74a358-048f-4d9e-93b5-be73a9d86294</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.menu.sidebarMenu.show</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fcf964d3-531f-4a69-94b7-a5c2a613d2dd</webElementGuid>
+      <webElementGuid>de3b718f-977e-4883-a0e0-9a06290e6e35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>menu sidebarMenu show</value>
-      <webElementGuid>ff9f898c-e5c6-43a3-86b8-c6b2df9f2c47</webElementGuid>
+      <value>menu sidebarMenu</value>
+      <webElementGuid>cf64ddda-42b8-4a98-97b8-989595eb8ab0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:;</value>
-      <webElementGuid>3bde2bb5-c286-45b6-9c2a-7ac6e35acb34</webElementGuid>
+      <webElementGuid>36681be9-491a-4550-9f58-fe2f919d3586</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>data-bs-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>9a9b7d03-f619-4c9f-a956-6b69abf36678</webElementGuid>
+      <webElementGuid>38b62a4c-1701-4135-b1c5-a6a8d9ac95cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-expanded</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>aae83472-8ddb-4796-a1fb-11545b7d6dea</webElementGuid>
+      <value>false</value>
+      <webElementGuid>28a5aa51-acf5-4e4a-a02e-466724e86a0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -65,15 +65,15 @@
 		
 		Kelas
 	</value>
-      <webElementGuid>19ae8791-ca24-49b0-bfdf-91022365c6bc</webElementGuid>
+      <webElementGuid>d0813821-735b-47d3-8a8c-85ace0007e82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;page-bg&quot;]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/a[@class=&quot;menu sidebarMenu show&quot;]</value>
-      <webElementGuid>57d5a906-7d40-4f54-a8d3-c7f39400d596</webElementGuid>
+      <value>/html[1]/body[@class=&quot;page-bg&quot;]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/a[@class=&quot;menu sidebarMenu&quot;]</value>
+      <webElementGuid>da3187e2-c9db-414f-acca-3c2a957fdd2d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Evaluasi Kurikulum'])[1]/following::a[1]</value>
-      <webElementGuid>c97a17c4-2e4b-4184-809a-b66ae0d1de89</webElementGuid>
+      <webElementGuid>085697b9-1e6f-4e8d-a059-bc8fb2f960b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Diklat'])[1]/following::a[2]</value>
-      <webElementGuid>63f711d7-01ae-4f54-a3f7-e8f76c757c56</webElementGuid>
+      <webElementGuid>2447cb5d-c320-4cc0-8cb2-8cc670da659e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelas'])[2]/preceding::a[1]</value>
-      <webElementGuid>0882c14e-41cd-49b5-8ba1-1fc5aa8f9e4b</webElementGuid>
+      <webElementGuid>a6819940-ea27-4493-944f-cc2cd926b251</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:;')])[5]</value>
-      <webElementGuid>38575c7b-3d46-4cb2-b43e-1c0fc97d718d</webElementGuid>
+      <webElementGuid>017e9112-02d9-4100-83e6-0e2b222eb350</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//main/div/div/ul/li[3]/a</value>
-      <webElementGuid>e0b649f7-18ea-4b14-b730-1dc115f55af1</webElementGuid>
+      <webElementGuid>2a993900-c0dd-4552-a552-56b43a327ae1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
 		
 		Kelas
 	')]</value>
-      <webElementGuid>69dab8f5-727a-4eab-9285-ad6949810775</webElementGuid>
+      <webElementGuid>d3eb5f09-6c40-43fc-bb6d-96a74bad1b93</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

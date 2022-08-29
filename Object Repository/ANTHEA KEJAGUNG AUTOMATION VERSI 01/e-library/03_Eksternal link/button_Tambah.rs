@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Tambah</name>
    <tag></tag>
-   <elementGuidId>a6d2d46d-88d0-4344-b8d1-275f7492eb3e</elementGuidId>
+   <elementGuidId>f699730f-a253-4c67-aa3d-5ac4a46af406</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-danger.bg-red.add-data.border-white.d-flex.flex-row.align-items-center.waves-effect.waves-light</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-danger.bg-red.add-data.border-white.d-flex.flex-row.align-items-center.waves-effect.waves-light</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bf91340b-ce62-4753-96c8-51daca5583f8</webElementGuid>
+      <webElementGuid>1e0d2799-3a90-4396-80df-2894190449cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5dc993d3-6db9-41f2-9e41-841617862cd2</webElementGuid>
+      <webElementGuid>f4b1ab9e-7232-49be-b6ff-a09132f9168f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-danger bg-red add-data border-white d-flex flex-row align-items-center waves-effect waves-light</value>
-      <webElementGuid>d13f58bc-a9cd-4361-8c5f-030f437831eb</webElementGuid>
+      <webElementGuid>1fba74be-89ef-46db-ab7e-3b193639f86d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tambah</value>
-      <webElementGuid>267a8214-4695-4ae2-8425-a67c726abce4</webElementGuid>
+      <webElementGuid>f9216ee1-2f4f-47b2-9ad2-78d3a4b58b5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;form_search&quot;)/div[@class=&quot;d-flex flex-row bg-blue-table mx-2 p-2 filter-row&quot;]/div[@class=&quot;rightside ms-2&quot;]/button[@class=&quot;btn btn-danger bg-red add-data border-white d-flex flex-row align-items-center waves-effect waves-light&quot;]</value>
-      <webElementGuid>dcb405e5-1806-436b-9b33-1ff7532cb476</webElementGuid>
+      <webElementGuid>ffc72c06-b328-4ad7-a1c5-899755d40778</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[2]</value>
-      <webElementGuid>b9cdc829-772c-4462-9950-1f71a58205ae</webElementGuid>
+      <webElementGuid>b3455670-f40d-424d-9126-12d859e6b732</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,23 +70,23 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='form_search']/div/div[2]/button</value>
-      <webElementGuid>f20e986e-d18f-4926-8d4b-587cc177e00f</webElementGuid>
+      <webElementGuid>53f2bf4d-9858-432a-a50f-ac5f082c4c5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Soal'])[1]/following::button[2]</value>
-      <webElementGuid>ff9d30e1-7069-440d-85cd-2c68e17eaa82</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard Admin'])[1]/following::button[2]</value>
+      <webElementGuid>e79f4052-a67a-4cd6-9cdc-989ba3f7e76e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Template Sertifikat/Ijazah'])[1]/following::button[2]</value>
-      <webElementGuid>8972e621-f9aa-4f68-a842-f0e0c652753c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::button[2]</value>
+      <webElementGuid>238635ee-c3ec-4848-a7b6-56f7ec4acd26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Processing...'])[1]/preceding::button[1]</value>
-      <webElementGuid>86d67e40-d8fe-40fc-afba-74d56ff76cd9</webElementGuid>
+      <webElementGuid>909d32cf-5ef5-4dcc-bc11-33b1fde8fff5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Link'])[1]/preceding::button[1]</value>
-      <webElementGuid>3a0bf7ee-9f22-489c-b3f4-c84b3c3826db</webElementGuid>
+      <webElementGuid>ab754ff5-62cf-4a77-93e1-4f4ab2b9fc9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Tambah']/parent::*</value>
-      <webElementGuid>b3e829d4-901c-4f88-8093-cfc46fa3a9a0</webElementGuid>
+      <webElementGuid>b45c273a-84c8-4f13-bf31-fbe79652fb3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>f6817d59-4315-436a-b082-b77780105995</webElementGuid>
+      <webElementGuid>8e57a9b0-f56a-4518-b754-b98897fd1820</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Tambah' or . = 'Tambah')]</value>
-      <webElementGuid>b5442fbd-d8f0-4e09-bea0-9e97ee846715</webElementGuid>
+      <webElementGuid>d1c08776-1fd2-4628-9fc1-5063cf2c029f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

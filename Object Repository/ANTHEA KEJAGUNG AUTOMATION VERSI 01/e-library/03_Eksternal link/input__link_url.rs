@@ -3,15 +3,15 @@
    <description></description>
    <name>input__link_url</name>
    <tag></tag>
-   <elementGuidId>0d1e8a82-95d6-4fc2-91c1-7c19db9147a5</elementGuidId>
+   <elementGuidId>24dcd71a-6437-4f1c-87e4-2ddcb7f8f45a</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#link_url</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='link_url']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#link_url</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0f37d5ec-3f9a-44b1-a035-a082ecdd1349</webElementGuid>
+      <webElementGuid>19f40f68-b2f2-4e45-967c-8b75ca7a02cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d36cc9bc-2df6-470d-8349-b154f37585a9</webElementGuid>
+      <webElementGuid>bff042bc-9dbd-4311-9496-c6357cf36eeb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>link_url</value>
-      <webElementGuid>c68856b6-22b3-4131-b9e7-ca410f9c1505</webElementGuid>
+      <webElementGuid>4680bb58-1c3e-4440-8ad2-70ad2f5efee7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>link_url</value>
-      <webElementGuid>6174ec51-c557-42d1-8458-4f57e056f5ee</webElementGuid>
+      <webElementGuid>818dc1c6-d1f4-451f-bcd1-0677048c4633</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>049110c0-2209-43d0-a49e-7d28a015d555</webElementGuid>
+      <webElementGuid>7b6123fc-1d82-4789-96e7-c699b84984de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>fa3ff681-44d9-41cd-a15a-15e61dea3529</webElementGuid>
+      <webElementGuid>f4530537-9c14-439a-8bab-13139aa8eca3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>http://</value>
-      <webElementGuid>3727815a-149a-4f3d-ad6b-bacee60671db</webElementGuid>
+      <webElementGuid>bd6a4bd2-94a7-4025-b78b-3f57485759b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;link_url&quot;)</value>
-      <webElementGuid>074c417e-3118-4c66-ad40-0128a936c7a5</webElementGuid>
+      <webElementGuid>6d42abaa-f8bd-40b4-a869-07c1118c3e67</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='link_url']</value>
-      <webElementGuid>f0c618d9-983f-487c-bce1-7c2f2e5a3492</webElementGuid>
+      <webElementGuid>537ab0a1-63b3-4eba-86f1-ba7535b629bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='f1']/div[2]/input</value>
-      <webElementGuid>b640c5ba-db47-4b31-832b-f165abd35fbb</webElementGuid>
+      <webElementGuid>214c8a60-98a8-47bf-afb4-b4d30589927d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>7111281f-9242-41e9-979c-fd3b4f567086</webElementGuid>
+      <webElementGuid>dd88b51a-55e6-4d05-915c-74c12d8f163b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'link_url' and @id = 'link_url' and @placeholder = 'http://']</value>
-      <webElementGuid>43ed110d-054a-49da-abe9-99ff5c702adb</webElementGuid>
+      <webElementGuid>ebbfbc1b-7e49-4067-a4a9-3b7363bde170</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -31,9 +31,9 @@ WebUI.setEncryptedText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMAT
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/01_nilai sikap dan perilaku/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/01_nilai sikap dan perilaku/a_Nilai'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/01_nilai sikap dan perilaku/Page_ANTHEA KEJAGUNG/a_Nilai'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/01_nilai sikap dan perilaku/a_Nilai Sikap Perilaku'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/01_nilai sikap dan perilaku/Page_ANTHEA KEJAGUNG/a_Nilai Sikap Perilaku'))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/01_nilai sikap dan perilaku/span_Pilih Jenis Pendidikan'))
 
@@ -88,14 +88,6 @@ WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 0
 WebUI.takeFullPageScreenshot(FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/01_nilai sikap dan perilaku/div_ImportExcel'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/01_nilai sikap dan perilaku/a_Nilai'))
-
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/01_nilai sikap dan perilaku/a_Nilai Sikap Perilaku'))
-
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/01_nilai sikap dan perilaku/button_Import'))
-
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/nilai/01_nilai sikap dan perilaku/button_OK'))
 
 WebUI.closeBrowser()
 

@@ -5,4 +5,17 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>fa86ef9b-797f-40f1-9ad8-cbb52b1e3228</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>SCRIPT_VARIABLE</type>
+      <value>&quot;http://103.253.107.18:24400/&quot;</value>
+      <variableId>4fc8f430-7137-4d48-ae70-cba4e2f44730</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://101.255.121.243:1180/login'</defaultValue>
+      <description></description>
+      <id>4fc8f430-7137-4d48-ae70-cba4e2f44730</id>
+      <masked>false</masked>
+      <name>parameter</name>
+   </variable>
 </TestCaseEntity>

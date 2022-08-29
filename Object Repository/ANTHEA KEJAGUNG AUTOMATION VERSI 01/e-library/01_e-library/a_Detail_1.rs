@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Detail_1</name>
    <tag></tag>
-   <elementGuidId>a405fd19-bb89-4748-883c-39d2ebafa1b4</elementGuidId>
+   <elementGuidId>68daef80-b8df-4697-86a9-2c7a5e44e7d1</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>div.d-flex.justify-content-end > a.btn.btn-danger.bg-red.waves-effect.waves-light</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//a[contains(text(),'Detail')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.justify-content-end > a.btn.btn-danger.bg-red.waves-effect.waves-light</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>59c55cb8-8082-4d93-b54f-46e65cc80f40</webElementGuid>
+      <webElementGuid>6db019e0-8345-4823-8a91-f51325ccd523</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>http://101.255.121.243:1180/elibrary/detail/1</value>
-      <webElementGuid>7ef43907-9c26-4060-8c0a-bc0fd38ee4de</webElementGuid>
+      <value>http://103.253.107.18:24400/elibrary/detail/4</value>
+      <webElementGuid>b4daeaf4-5a91-4db8-b39f-49f0801c0c57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-danger bg-red waves-effect waves-light</value>
-      <webElementGuid>a6a94786-74ac-4d4a-9e78-7d2f8f985087</webElementGuid>
+      <webElementGuid>3af615c2-a2f2-4bcf-a2d1-8fe940074a04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Detail</value>
-      <webElementGuid>768b5ca6-8433-4715-bddf-20da3b1af28d</webElementGuid>
+      <webElementGuid>4f4fb83c-0f99-4f46-9739-9da7f84edaad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;container-content&quot;]/div[@class=&quot;container-fluid pt-5 px-0&quot;]/div[@class=&quot;elib-main-content-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-lg-6 p-2&quot;]/div[@class=&quot;elib-search-item&quot;]/div[@class=&quot;w-100 d-flex flex-column justify-content-between ms-4&quot;]/div[@class=&quot;d-flex justify-content-end&quot;]/a[@class=&quot;btn btn-danger bg-red waves-effect waves-light&quot;]</value>
-      <webElementGuid>65ae087d-da99-4414-be0f-a18cdf716045</webElementGuid>
+      <webElementGuid>3201314f-5a5c-40c6-a32c-f2e9d70fc99e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Detail')]</value>
-      <webElementGuid>0300c419-f90d-427f-b4cf-c8ad5d1f9cc0</webElementGuid>
+      <webElementGuid>32772644-012e-4402-967d-18755501f648</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Pencarian'])[1]/following::a[1]</value>
-      <webElementGuid>4703c44c-ead3-4615-b6ed-4caf983bae84</webElementGuid>
+      <webElementGuid>280b4c78-941d-4765-aee0-54ab38da3777</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,23 +78,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari'])[1]/following::a[1]</value>
-      <webElementGuid>053ca503-6999-405f-96a5-e0f2dad75558</webElementGuid>
+      <webElementGuid>5c1ac8ae-8049-41f8-bc6a-e92a3267e4ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[2]/preceding::a[1]</value>
-      <webElementGuid>1d6dea3e-c9f7-4f29-add7-2623fb4b7289</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[3]/preceding::a[2]</value>
-      <webElementGuid>c481ad66-0664-480e-bb19-9f2743579bcf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pusat Notifikasi'])[1]/preceding::a[2]</value>
+      <webElementGuid>f711b71d-c38d-464a-b64a-e6b81e2fa167</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,15 +94,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Detail']/parent::*</value>
-      <webElementGuid>16217cee-8be2-44a5-abd1-3f392e574c53</webElementGuid>
+      <webElementGuid>d0d10962-6c42-43a1-84c9-187079150e4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[@href='http://101.255.121.243:1180/elibrary/detail/1']</value>
-      <webElementGuid>17238978-24d6-4af1-bc84-5709d7d2a808</webElementGuid>
+      <value>//a[@href='http://103.253.107.18:24400/elibrary/detail/4']</value>
+      <webElementGuid>8031aa3d-4503-4791-8201-644ac69b4c76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,14 +110,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/a</value>
-      <webElementGuid>60d98857-0a35-49be-a24f-dfb680a842e0</webElementGuid>
+      <webElementGuid>1856dc32-5986-4a3a-a724-c683cfc1f56f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://101.255.121.243:1180/elibrary/detail/1' and (text() = 'Detail' or . = 'Detail')]</value>
-      <webElementGuid>634dee04-02a6-4940-b2a0-3d0466a3f296</webElementGuid>
+      <value>//a[@href = 'http://103.253.107.18:24400/elibrary/detail/4' and (text() = 'Detail' or . = 'Detail')]</value>
+      <webElementGuid>6468fe7e-cbaa-4151-883c-b149565af88a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

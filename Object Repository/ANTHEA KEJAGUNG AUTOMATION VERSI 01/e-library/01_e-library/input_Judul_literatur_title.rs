@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Judul_literatur_title</name>
    <tag></tag>
-   <elementGuidId>9ec98f96-2b64-4c3f-84d1-f248bdf56e16</elementGuidId>
+   <elementGuidId>957397f1-b03c-4de6-9ce5-20df96adf270</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#literatur_title</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='literatur_title']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#literatur_title</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f4923034-62c4-4e4e-90f6-554c251e1d43</webElementGuid>
+      <webElementGuid>3e6ec6d2-e2ab-4ca8-af99-c142261379a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>aa16c247-a6de-4254-abef-6815257e9868</webElementGuid>
+      <webElementGuid>05f2b7bc-0846-4ec0-8b16-d7a56533778c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>literatur_title</value>
-      <webElementGuid>115dc825-5223-4113-854a-fb4476a2f8bf</webElementGuid>
+      <webElementGuid>d063b833-168e-4511-8e00-9394bcba46fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>literatur_title</value>
-      <webElementGuid>0acfdf8b-e093-42a4-a24b-0e2a9201250c</webElementGuid>
+      <webElementGuid>a8d1b46e-f8a6-4c3b-ae07-2f181aadb021</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>ade9f357-edc7-4730-b563-3ad97dddc7fe</webElementGuid>
+      <webElementGuid>88ddd35a-b5a0-468f-b541-6f0af2875f64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Judul</value>
-      <webElementGuid>3cd48ece-cb1d-498d-a04d-a573453b90e7</webElementGuid>
+      <webElementGuid>f1e40364-564c-49fb-8d58-28f83929c929</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;literatur_title&quot;)</value>
-      <webElementGuid>75832532-5369-4a7c-9a36-b82f695e7f96</webElementGuid>
+      <webElementGuid>bd6d909f-d11a-42f7-8d86-5c8fc3320308</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='literatur_title']</value>
-      <webElementGuid>48cbb633-e013-40dc-b7dd-9e48e78714b2</webElementGuid>
+      <webElementGuid>a8e65f9b-5692-4c20-8392-6f9a49783747</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='f1']/div/div/input</value>
-      <webElementGuid>fe1da592-9ac2-49e4-8dce-c0e6e079cef2</webElementGuid>
+      <webElementGuid>19be2209-7959-4fd0-9af8-71ebd8d956f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>caf9964d-f4de-4189-b127-f2b8c771ce0d</webElementGuid>
+      <webElementGuid>b0822303-4b7f-4ca5-a607-6835923287c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'literatur_title' and @id = 'literatur_title' and @placeholder = 'Judul']</value>
-      <webElementGuid>979b63ac-5480-4af1-bbab-6fe3acd13c53</webElementGuid>
+      <webElementGuid>887e94a8-1c16-42cf-a42a-488c41b41c68</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,15 +7,41 @@
    <testCaseGuid>6152bc2b-7701-4c64-92a0-f2c52fef6ea5</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
+      <type>SCRIPT_VARIABLE</type>
+      <value>&quot;http://103.253.107.18:24400/&quot;</value>
+      <variableId>0dfd09a4-dd61-42c5-a86d-4f18863613cb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>0dfd09a4-dd61-42c5-a86d-4f18863613cb</variableId>
+      <variableId>0325c879-0df9-4e71-b672-9595236a56c7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a5b06794-ed8d-41f1-bc05-75544341b3ca</variableId>
    </variableLinks>
    <variable>
       <defaultValue>'http://101.255.121.243:1180/login'</defaultValue>
       <description></description>
       <id>0dfd09a4-dd61-42c5-a86d-4f18863613cb</id>
-      <masked>false</masked>
+      <masked>true</masked>
       <name>parameter</name>
+   </variable>
+   <variable>
+      <defaultValue>'0102934830140000'</defaultValue>
+      <description></description>
+      <id>0325c879-0df9-4e71-b672-9595236a56c7</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'kEQfCA3lIgnHsTewXuZ6Gw=='</defaultValue>
+      <description></description>
+      <id>a5b06794-ed8d-41f1-bc05-75544341b3ca</id>
+      <masked>false</masked>
+      <name>password</name>
    </variable>
 </TestCaseEntity>

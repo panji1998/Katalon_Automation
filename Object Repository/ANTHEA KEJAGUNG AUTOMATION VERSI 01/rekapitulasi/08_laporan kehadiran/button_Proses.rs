@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Proses</name>
    <tag></tag>
-   <elementGuidId>a3830f19-c570-4e52-afc5-cbc8121ad134</elementGuidId>
+   <elementGuidId>6b1eeab0-7165-4ffd-9666-ac9121333271</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>879a7fa9-b3ff-4ece-92b7-b9b7ef7359f5</webElementGuid>
+      <webElementGuid>700a953d-decd-4c12-84d0-b896a7bf760f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>114f4453-74a1-43da-b025-d747d07fccc4</webElementGuid>
+      <webElementGuid>e280694e-3bf7-4bc9-9189-0a49efc46f34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-danger add-data waves-effect waves-light</value>
-      <webElementGuid>97a8ccc0-256d-4bfa-8b7a-2735b9e9862b</webElementGuid>
+      <webElementGuid>d36e1b4b-e2ae-4e6b-b0f8-c6c4d8b7ee8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Proses</value>
-      <webElementGuid>f859a8ee-9584-47a5-bce2-1dc5417f91ab</webElementGuid>
+      <webElementGuid>6bb34d06-f224-4e9e-9908-b0e083139b78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,47 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;text-editor&quot;)/div[@class=&quot;row mx-n1&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;d-flex justify-content-end&quot;]/button[@class=&quot;btn btn-danger add-data waves-effect waves-light&quot;]</value>
-      <webElementGuid>304d8d45-75ac-43f0-b41d-dc8607cb310d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>ece8fb40-b43a-4566-acba-fee25f73dc7c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>8ec2e916-9c8a-4c66-b787-e7051bde728e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn btn-danger add-data waves-effect waves-light</value>
-      <webElementGuid>56ec0b1b-b4f5-45d7-9c8b-eb9fda5b1565</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Proses</value>
-      <webElementGuid>940f3394-aba8-4fae-8254-eef4190d0fba</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;text-editor&quot;)/div[@class=&quot;row mx-n1&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;d-flex justify-content-end&quot;]/button[@class=&quot;btn btn-danger add-data waves-effect waves-light&quot;]</value>
-      <webElementGuid>6b90195c-30a9-46c6-a721-21ca527de145</webElementGuid>
+      <webElementGuid>d9aa1ffb-6a25-494f-b351-bf6d8a2a1670</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>04b1080a-8fb4-41af-82ef-7ff1a5044858</webElementGuid>
+      <webElementGuid>29c28a5c-4c17-4df1-b4cc-1124fc89839a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='text-editor']/div/div[2]/div/button</value>
-      <webElementGuid>281e7cd2-66c4-42d3-a49f-f14c30014ed4</webElementGuid>
+      <webElementGuid>d6ae8053-6f7b-435f-9293-d24118e1272e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[1]/following::button[1]</value>
-      <webElementGuid>138d92ff-331f-4822-b1d3-19665cea3874</webElementGuid>
+      <webElementGuid>f2f327c1-4b43-4aca-914a-f702c0f24d2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pusat Notifikasi'])[1]/preceding::button[1]</value>
-      <webElementGuid>0f5e9479-8504-450c-aea5-71d705ade2c8</webElementGuid>
+      <webElementGuid>c76a0bca-b708-47f7-891b-1d11a5152779</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Proses']/parent::*</value>
-      <webElementGuid>3b0c5c4d-adb4-42a7-8be1-01211fba8327</webElementGuid>
+      <webElementGuid>e153a4cd-e212-4717-974d-850b498748ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button</value>
-      <webElementGuid>71cf7ec7-b4e4-4175-82cf-6e166fb5347f</webElementGuid>
+      <webElementGuid>e597edca-c80d-4c82-b50b-eabb8e14eacc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Proses' or . = 'Proses')]</value>
-      <webElementGuid>432bb585-4b49-4ece-a4c1-743d36c39293</webElementGuid>
+      <webElementGuid>21920b1b-bda5-4eef-89d0-d6fb99b34481</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>select_ViewExport to Excel</name>
    <tag></tag>
-   <elementGuidId>689196bc-fee0-44e9-addf-960e78d3297b</elementGuidId>
+   <elementGuidId>5169ae7f-d813-42db-bc68-54c285f878d7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>cbb99c2a-6130-4388-9008-d41cff72d66c</webElementGuid>
+      <webElementGuid>d8a332fb-e3b2-47a7-823a-414170508ac3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control select form-select</value>
-      <webElementGuid>e7b9eb07-f726-4c38-a2c7-416849699bf1</webElementGuid>
+      <webElementGuid>ccada823-8bc6-43b4-8e61-8223cbc262e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>output</value>
-      <webElementGuid>efee133d-155d-4952-bc29-c82a598fa5f7</webElementGuid>
+      <webElementGuid>5ef92487-2281-4c3f-81e7-4a6f77c9e25d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
 									View
 									Export to Excel
 								</value>
-      <webElementGuid>b1d81dbf-1df7-48c4-a683-25ebda017ea1</webElementGuid>
+      <webElementGuid>4a2bbaf6-6f3e-415b-ad24-a51b57bc2bd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,51 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;text-editor&quot;)/div[@class=&quot;row mx-n1&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;col-md-12&quot;]/table[@class=&quot;table table-bordered&quot;]/tbody[1]/tr[5]/td[2]/select[@class=&quot;form-control select form-select&quot;]</value>
-      <webElementGuid>3f942bb0-9e53-46e0-ae56-2ba026637e85</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>select</value>
-      <webElementGuid>0a2cbb68-f5df-4f10-900d-35b6cc750d5d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-control select form-select</value>
-      <webElementGuid>f27e6087-bcec-44dd-ae53-503bc8e0e5c3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>output</value>
-      <webElementGuid>9c51877a-4bf7-496b-bddd-1f1b5e0ce70c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>
-									
-									View
-									Export to Excel
-								</value>
-      <webElementGuid>5a8a799b-9006-4046-a7d7-79498097b216</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;text-editor&quot;)/div[@class=&quot;row mx-n1&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;col-md-12&quot;]/table[@class=&quot;table table-bordered&quot;]/tbody[1]/tr[5]/td[2]/select[@class=&quot;form-control select form-select&quot;]</value>
-      <webElementGuid>1bf4fc25-bbb5-4685-9be1-b5152d23a2b5</webElementGuid>
+      <webElementGuid>ba09f5b2-883c-400b-91c7-2a9930cc1b93</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -110,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@name='output']</value>
-      <webElementGuid>b04db710-7d0c-4a5d-b45e-3c982115642e</webElementGuid>
+      <webElementGuid>f96a0936-a6da-4eca-8b9f-40b4ce52b96e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='text-editor']/div/div/div/table/tbody/tr[5]/td[2]/select</value>
-      <webElementGuid>8292bec9-d7c1-4543-851e-2ed115c77a2d</webElementGuid>
+      <webElementGuid>422d3ca4-65c4-4add-a56c-4eda2a387b2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[1]/following::select[1]</value>
-      <webElementGuid>9db4d60d-26b9-4341-86d5-61c1cddc125b</webElementGuid>
+      <webElementGuid>69c3c5f7-53b2-4091-b638-ace4870f68a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Proses'])[1]/preceding::select[1]</value>
-      <webElementGuid>7ada0e7f-af12-4d7a-bf0b-30f75a46ebd4</webElementGuid>
+      <webElementGuid>67dd7718-2da9-4cb7-abba-c590331b6133</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pusat Notifikasi'])[1]/preceding::select[1]</value>
-      <webElementGuid>c9cff160-3a17-439c-8e21-37b55aa88cdb</webElementGuid>
+      <webElementGuid>06568851-5eef-4a15-9409-049b8b0805c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[5]/td[2]/select</value>
-      <webElementGuid>b3621214-d4b5-4802-acc3-409ff1cac6d1</webElementGuid>
+      <webElementGuid>47aafae9-fa37-42ad-bb04-0e8f4b25a3a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,6 +122,6 @@
 									View
 									Export to Excel
 								')]</value>
-      <webElementGuid>643115f7-84ed-4cd8-af37-62b54a6b79c3</webElementGuid>
+      <webElementGuid>d373e964-967a-4cce-aa39-22ab93f90715</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

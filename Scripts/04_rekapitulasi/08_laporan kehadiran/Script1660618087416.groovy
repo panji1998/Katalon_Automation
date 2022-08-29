@@ -19,9 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(parameter)
-
-WebUI.maximizeWindow()
+WebUI.navigateToUrl('http://103.253.107.18:24400/')
 
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/08_laporan kehadiran/input_Email or username_login'), 
     '0102934830140000')
@@ -37,20 +35,16 @@ WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 0
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/08_laporan kehadiran/span_--- Search ---'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/08_laporan kehadiran/input_Proses_select2-search__field'), 
-    'p')
-
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/08_laporan kehadiran/li_PPPJ GELOMBANG II TAHUN 2016'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/08_laporan kehadiran/li_Latsar Golongan II Gelombang 2 Tahun 2022'))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/08_laporan kehadiran/span_--- Search ---_1'))
 
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/08_laporan kehadiran/li_PPPJ GELOMBANG II TAHUN 2016 - Kelas 2'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/08_laporan kehadiran/li_PPPPJ'))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/08_laporan kehadiran/span_--- Search ---_1_2'))
 
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/08_laporan kehadiran/li_Agama dan Budi Pekerti'))
-
-WebUI.takeFullPageScreenshot()
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/08_laporan kehadiran/input_Proses_select2-search__field'), 
+    'a')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/08_laporan kehadiran/select_ViewExport to Excel'), 
     'excell', true)

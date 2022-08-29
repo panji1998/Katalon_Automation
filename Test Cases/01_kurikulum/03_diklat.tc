@@ -7,8 +7,8 @@
    <testCaseGuid>e0b88f64-262a-4775-8a1a-a65924eb9988</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
+      <type>SCRIPT_VARIABLE</type>
+      <value>&quot;http://103.253.107.18:24400/&quot;</value>
       <variableId>780c2a1b-be29-4098-8cde-fbd3a2d38ff6</variableId>
    </variableLinks>
    <variable>

@@ -3,7 +3,7 @@
    <description></description>
    <name>span_--- Search ---_1</name>
    <tag></tag>
-   <elementGuidId>4fa37266-648a-48e7-8d98-4b96d023ce0f</elementGuidId>
+   <elementGuidId>1fa160ff-97d1-4372-9556-95e6207e60b5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>c8b2e193-9b56-4772-8894-e9ff12c54557</webElementGuid>
+      <webElementGuid>f2c149c0-1828-45ba-b608-803b95c95256</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>602e6454-648c-4f53-add4-16f9500ff2d8</webElementGuid>
+      <webElementGuid>02ca5c90-6115-488b-a847-e8610428fdac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>select2-cls_id-container</value>
-      <webElementGuid>25b65302-8d13-432e-aa24-143fe670b415</webElementGuid>
+      <webElementGuid>4057c64c-359c-4081-93b7-8f8cba2729bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>d8471fa1-4370-410f-a366-6acc64f44e89</webElementGuid>
+      <webElementGuid>7d4c4700-174a-4ebf-8c59-cf4c5bb4145f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>d3c3f66c-c1c3-4dc4-b5fb-b839d6df88b2</webElementGuid>
+      <webElementGuid>76391cdd-84eb-49b8-8d45-498fc4fd4915</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>--- Search ---</value>
-      <webElementGuid>a05ec048-9238-4073-8079-e33f0e73e109</webElementGuid>
+      <webElementGuid>d6d634f0-80f3-442b-a99f-67d8819b6a5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,63 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-cls_id-container&quot;)</value>
-      <webElementGuid>db45fa17-4a25-4e65-b76c-afa010ea0d3f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>span</value>
-      <webElementGuid>3766f162-3d98-4934-b2fb-0427d1e6407b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>select2-selection__rendered</value>
-      <webElementGuid>e86930e8-27fe-4813-8773-b7a067c1fd75</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>select2-cls_id-container</value>
-      <webElementGuid>e94d1058-d335-4b2b-8367-77183848d0f1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>textbox</value>
-      <webElementGuid>77ef5b3c-7f35-4ffd-ae7d-b28da90d29d2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-readonly</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>654b8de5-0969-4733-98b9-82a4f3e751ad</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>--- Search ---</value>
-      <webElementGuid>a05b9b87-2870-4212-b5e3-e08a6405c49f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;select2-cls_id-container&quot;)</value>
-      <webElementGuid>fa8dd398-336e-4513-96d2-10141bb5b5bb</webElementGuid>
+      <webElementGuid>2e1b8452-6dc6-4571-9bce-5a86fe0e0095</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -134,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='select2-cls_id-container']</value>
-      <webElementGuid>dbc0ee47-43df-427c-a5fe-2c05f234f903</webElementGuid>
+      <webElementGuid>d7d18bcc-47a0-44f8-bccd-18667e39947e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='text-editor']/div/div/div/table/tbody/tr[2]/td[2]/span/span/span/span</value>
-      <webElementGuid>75cf268b-1ab2-42ce-9dc9-cfa0843d73f4</webElementGuid>
+      <webElementGuid>b967cead-3853-4445-9278-b3b2a899c242</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelas'])[3]/following::span[4]</value>
-      <webElementGuid>e0a403d9-75f3-48d2-a2b8-5e9daa9b900b</webElementGuid>
+      <webElementGuid>f8349861-f2b3-4499-b9ff-b78df6b7ac62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::span[7]</value>
-      <webElementGuid>11ab2e94-cd43-4e70-a509-a97764bada8b</webElementGuid>
+      <webElementGuid>133936d3-6d73-4fec-b264-8f70f85d432b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mata Pelajaran'])[2]/preceding::span[4]</value>
-      <webElementGuid>1c81479c-596e-46ac-8c18-bdaecd146889</webElementGuid>
+      <webElementGuid>a3be9ae6-0dc5-42c3-a785-71231c0ed532</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[2]/td[2]/span/span/span/span</value>
-      <webElementGuid>4f0d084f-6296-4687-aa20-cb9d5e5a6c61</webElementGuid>
+      <webElementGuid>7534fd5f-0662-494d-8094-b4b70b76c651</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'select2-cls_id-container' and (text() = '--- Search ---' or . = '--- Search ---')]</value>
-      <webElementGuid>8b3ab58a-4854-4eeb-831d-734e13cca8ca</webElementGuid>
+      <webElementGuid>89f152d8-6c8d-41e3-9bc3-afeccbc2e136</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,15 +3,15 @@
    <description></description>
    <name>a_External Link</name>
    <tag></tag>
-   <elementGuidId>97d08b53-e507-4573-93c9-1419a4b09973</elementGuidId>
+   <elementGuidId>a6f50923-fab2-4852-a10b-0ba7afc78d97</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen e-Library'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ce20363f-44e7-41ba-9d93-4efc3ba8db33</webElementGuid>
+      <webElementGuid>da413dda-d840-4b40-82b0-8b737a1f1d0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item</value>
-      <webElementGuid>fa12558a-7254-4403-9db4-bd3b20115d5a</webElementGuid>
+      <webElementGuid>56c93ecb-d5d0-428d-ade2-7027d0b23ec6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>http://101.255.121.243:1180/master/externallink</value>
-      <webElementGuid>8480270d-a5fc-4523-9da6-ec55ab0ae363</webElementGuid>
+      <value>http://103.253.107.18:24400/master/externallink</value>
+      <webElementGuid>70143c1c-c79a-4e9a-9ae7-0bad47409a98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
 		
 		External Link
 	</value>
-      <webElementGuid>71845ebf-caad-4cef-a7df-9845a38f9c04</webElementGuid>
+      <webElementGuid>0617db6f-4051-4bc4-bdca-0585c8da1128</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;page-bg&quot;]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/ul[@class=&quot;dropdown-menu show&quot;]/li[3]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>f2c04fc2-b324-4fc4-8af4-bc908075068e</webElementGuid>
+      <webElementGuid>2b95a1d8-ab9a-4dae-a050-cf0b0a3accd2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen e-Library'])[1]/following::a[1]</value>
-      <webElementGuid>14974a0b-ac71-4ed8-a664-845912edc45a</webElementGuid>
+      <webElementGuid>8d03f636-ab4e-4831-9b23-64e212126733</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='e-Library'])[2]/following::a[2]</value>
-      <webElementGuid>27be02c3-6f27-4866-a5d0-1142b13af81f</webElementGuid>
+      <webElementGuid>17c86ff1-bc06-4539-ae3b-efaddb5ea1ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,15 +81,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[2]/preceding::a[1]</value>
-      <webElementGuid>456d98fb-0859-48cc-902a-ae4daff28c71</webElementGuid>
+      <webElementGuid>13a11cc0-5a94-4622-be2a-58897c15511e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[@href='http://101.255.121.243:1180/master/externallink']</value>
-      <webElementGuid>b08c3f06-62a5-409c-968a-412789262b4a</webElementGuid>
+      <value>//a[@href='http://103.253.107.18:24400/master/externallink']</value>
+      <webElementGuid>06319719-38ab-4482-8154-7ef94b1d78bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,20 +97,20 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[7]/ul/li[3]/a</value>
-      <webElementGuid>840f9a06-8cc5-4349-8746-ed63c02b4dee</webElementGuid>
+      <webElementGuid>12b629df-223b-428c-9787-2296476a5714</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://101.255.121.243:1180/master/externallink' and (text() = '
+      <value>//a[@href = 'http://103.253.107.18:24400/master/externallink' and (text() = '
 		
 		External Link
 	' or . = '
 		
 		External Link
 	')]</value>
-      <webElementGuid>a317b707-2045-4fd2-8d68-4496377e70a6</webElementGuid>
+      <webElementGuid>58c4d869-3e90-4153-8a39-e0e761fb97b9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
