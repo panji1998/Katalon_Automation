@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://103.253.107.18:24400/')
 
+WebUI.maximizeWindow()
+
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/admin/04_satdik/input_Email or username_login'), 
     '0102934830140000')
 
@@ -31,7 +33,7 @@ WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 0
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/admin/04_satdik/a_Admin'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/admin/04_satdik/a_Satdik'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/admin/04_satdik/a_Satdik (1)'))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/admin/04_satdik/a_Tambah'))
 

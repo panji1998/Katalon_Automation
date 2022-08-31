@@ -31,14 +31,14 @@ WebUI.setEncryptedText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMAT
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/a_e-Library'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/a_e-Library'))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/a_External Link'))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_Tambah'))
 
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/input__link_name'), 
-    'kejaksaan banten')
+    'kejaksaan wilayah banten')
 
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/input__link_url'), 
     'https://www.kejati-banten.go.id/')
@@ -53,7 +53,7 @@ WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_Dashboard Admin_ms-2 searchbutton ro_50a8ca'))
 
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/input_Dashboard Admin_tableSearch'), 
-    'kejaksaan banten')
+    'kejaksaan wilayah banten')
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/03_Eksternal link/button_Dashboard Admin_ms-2 searchbutton ro_50a8ca'))
 

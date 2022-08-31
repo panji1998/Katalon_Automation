@@ -33,7 +33,7 @@ WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 0
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/01_e-library/a_e-Library'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/01_e-library/a_e-Library'))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/01_e-library/a_e-Library_1'))
 

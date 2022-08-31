@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://103.253.107.18:24400/')
 
+WebUI.maximizeWindow()
+
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/08_laporan kehadiran/input_Email or username_login'), 
     '0102934830140000')
 

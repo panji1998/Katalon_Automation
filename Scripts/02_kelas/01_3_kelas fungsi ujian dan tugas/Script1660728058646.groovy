@@ -23,160 +23,178 @@ WebUI.navigateToUrl(parameter)
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_Email or username_login'), 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_Email or username_login'), 
     '0102934830140000')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_Password_password'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_Password_password'), 
     'kEQfCA3lIgnHsTewXuZ6Gw==')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_Login'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/a_Kelas'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/a_Kelas'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/a_Kelas_1'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/a_Kelas_1'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_Bank Soal_tableSearch'), 
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_Bank Soal_tableSearch'), 
     'kelas 4')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_Pilih Status Penilaian_ms-2 searchbu_483279'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_Pilih Status Penilaian_ms-2 searchbu_483279'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/a_Belum Lengkap_btn btn-light btn-sm no-but_994e61'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/a_Belum Lengkap_btn btn-light btn-sm no-but_994e61'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_Pilih Modul_tableSearchSchedules'), 
-    'agama')
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_Pilih Modul_tableSearchSchedules'), 
+    'eksekusi')
 
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_Pilih Modul_ms-2 searchbutton rounded px-3 py-2'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_Pilih Modul_ms-2 searchbutton rounded px-3 py-2'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/a_Pilih'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/a_Pilih'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/a_Online_btn btn-light btn-sm no-button no-shadow'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/a_Online_btn btn-light btn-sm no-button no-shadow'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_()_assignment_name'), 
+WebUI.selectOptionByValue(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/select_Pilih JenisUjianTugasQuiz'), 
+    '2', true)
+
+WebUI.sendKeys(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/select_Pilih JenisUjianTugasQuiz'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_()_assignment_name'), 
     '00002  -  PPPJ GELOMBANG II TAHUN 2016 - Kelas 2 - Agama dan Budi Pekerti')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_()_assignment_start_date'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_()_assignment_start_date'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/td_17'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/td_17'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_()_assignment_finish_date'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_()_assignment_finish_date'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/td_17'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/td_17'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/textarea_Penyelenggaraan Ujian Agama dan Bu_a15b4a'), 
+WebUI.setText(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_()_assignment_start_hour'), 
+    '0800')
+
+WebUI.setText(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_()_assignment_finish_hour'), 
+    '1200')
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/textarea_Penyelenggaraan Ujian Agama dan Bu_a15b4a'), 
     'Penyelenggaraan Ujian Agama dan Budi Pekerti\nIsilah dengan jawaban yang tepat')
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_()_assignment_location'), 
+WebUI.selectOptionByValue(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/select_Pilih MetodeOnlineOffline'), 
+    '2', true)
+
+WebUI.selectOptionByValue(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/select_Pilih SifatBuka BukuTutup Buku'), 
+    '2', true)
+
+WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_()_assignment_location'), 
     'Jakarta Barat')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_Simpan'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_Simpan'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_OK'))
+WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_OK'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/a_Online_btn btn-light btn-sm no-button no-shadow_1'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/a_Online_btn btn-light btn-sm no-button no-shadow_1'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_Tidak Terbatas_examination_duration_type'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_Tidak Terbatas_examination_duration_type'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_Terbatas_examination_duration'), 
+not_run: WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_Terbatas_examination_duration'), 
     '120')
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_()_display_question_per_page'), 
+not_run: WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_()_display_question_per_page'), 
     '1')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_()_go_to_prev_page'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_()_go_to_prev_page'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_()_go_to_prev_page'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_()_go_to_prev_page'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_()_assignment_attemps'), 
+not_run: WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_()_assignment_attemps'), 
     '1')
 
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_Simpan grup setting pertanyaan'))
+not_run: WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_Simpan grup setting pertanyaan'))
 
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_OK grup setting pertanyaan'))
+not_run: WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_OK grup setting pertanyaan'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/a_Tambah'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/a_Tambah'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_()_section_name'), 
+not_run: WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_()_section_name'), 
     'pertanyaan 3')
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_()_section_order'), 
+not_run: WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_()_section_order'), 
     '3')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/p'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/p'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/div_isi dengan tepat'), 
+not_run: WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/div_isi dengan tepat'), 
     'isi dengan tepat')
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_()_section_percentage'), 
+not_run: WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_()_section_percentage'), 
     '0')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_()_is_random'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_()_is_random'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_()_section_duration'), 
+not_run: WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_()_section_duration'), 
     '0')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_Simpan'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_Simpan'))
 
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_OK grup pertanyaan'))
+not_run: WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_OK grup pertanyaan'))
 
-WebUI.setText(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_Peserta Ujian_tableSearch'), 
+not_run: WebUI.setText(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_Peserta Ujian_tableSearch'), 
     '0')
 
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_Peserta grup ujian'))
+not_run: WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_Peserta grup ujian'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_pertanyaan 3_btn btn-light btn-sm no_709ff6'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_pertanyaan 3_btn btn-light btn-sm no_709ff6'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_Ya, hapus'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_Ya, hapus'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_OK'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_OK'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_Bank Soal_tableSearch'), 
+not_run: WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_Bank Soal_tableSearch'), 
     '40')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_Pilih Status Penilaian_ms-2 searchbu_483279'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_Pilih Status Penilaian_ms-2 searchbu_483279'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/a_hafalan dalam bentuk video_btn btn-light _f3e1b7'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/a_hafalan dalam bentuk video_btn btn-light _f3e1b7'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_()_section_name'), 
+not_run: WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_()_section_name'), 
     'hafalan dalam bentuk video')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_Simpan'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_Simpan'))
 
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_OK fungsi ubah grup pertanyaan'))
+not_run: WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_OK fungsi ubah grup pertanyaan'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/a_hafalan dalam bentuk video_btn btn-light _f3e1b7_1'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/a_hafalan dalam bentuk video_btn btn-light _f3e1b7_1'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/a_Tambah_1'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/a_Tambah_1'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/div_pertanyaan 4'), 
+not_run: WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/div_pertanyaan 4'), 
     'pertanyaan dasar')
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_Contoh Soal_is_mandatory'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_Contoh Soal_is_mandatory'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/input_()_maximum_point'), 
+not_run: WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/input_()_maximum_point'), 
     '100')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/select_Pilihan Ganda (Radio Button)Kotak Ce_14dda6'), 
+not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/select_Pilihan Ganda (Radio Button)Kotak Ce_14dda6'), 
     '4', true)
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_Simpan_1'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_Simpan_1'))
 
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_OK next pertanyaan'))
+not_run: WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_OK next pertanyaan'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_-_btn btn-light btn-sm no-button no-shadow'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_-_btn btn-light btn-sm no-button no-shadow'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_-_btn btn-light btn-sm no-button no-_392466'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_-_btn btn-light btn-sm no-button no-_392466'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_Ya, hapus'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_Ya, hapus'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/button_OK'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/button_OK'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/a_Kembali'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/a_Kembali'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/a_Peserta Ujian'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/a_Peserta Ujian'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/a_Kelas'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/a_Kelas'))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungsu ujian/a_Kelas_1'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/kelas/01-kelas/03_fungs ujian dan tugas/a_Kelas_1'))
 
-WebUI.closeBrowser()
+not_run: WebUI.closeBrowser()
 

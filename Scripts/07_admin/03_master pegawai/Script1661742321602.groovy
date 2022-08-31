@@ -144,10 +144,12 @@ WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/user/07_master Pegawai/input_()_nip'), 
     '1998758492445')
 
+WebUI.setText(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/admin/03_master pegawai/input_()_nrp'), 
+    '47284738539579486948')
+
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/user/07_master Pegawai/span_Pencarian_1'))
 
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/user/07_master Pegawai/li_Juru Muda'), 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/user/07_master Pegawai/li_Juru Muda'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/user/07_master Pegawai/input_()_emp_position pangkat'), 
     'Pengatur Muda')

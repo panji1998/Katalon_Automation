@@ -84,9 +84,9 @@ WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI
 WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/02_managament library/input_concat(id(, , select2-literatur_type__d7a54f'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/02_managament library/li_Subjek_select2-search select2-search--inline'))
+not_run: WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/02_managament library/li_Subjek_select2-search select2-search--inline'))
 
-WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/02_managament library/input_concat(id(, , select2-literatur_type__d7a54f'), 
+not_run: WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/02_managament library/input_concat(id(, , select2-literatur_type__d7a54f'), 
     'A')
 
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/e-library/02_managament library/textarea_Deskripsi_literatur_description'), 

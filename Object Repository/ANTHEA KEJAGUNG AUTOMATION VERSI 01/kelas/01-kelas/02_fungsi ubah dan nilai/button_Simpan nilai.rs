@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Jan</name>
+   <name>button_Simpan nilai</name>
    <tag></tag>
-   <elementGuidId>1f96b5ac-48e5-444f-b498-ed330d00f400</elementGuidId>
+   <elementGuidId>b37f2136-4cd9-406e-8e4f-2a3f4b0a9fdf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.month</value>
+         <key>XPATH</key>
+         <value>//form[@id='f1']/div/div[2]/button</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='»'])[2]/following::span[1]</value>
+         <key>CSS</key>
+         <value>button.btn.btn-danger.save-data.waves-effect.waves-light</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>69f5453d-8801-443c-884b-7e9dd94f8150</webElementGuid>
+      <value>button</value>
+      <webElementGuid>ea562a75-294f-412b-9545-88e950bf0a31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>month</value>
-      <webElementGuid>2882d342-84f1-4350-87f7-16d84dabb0f4</webElementGuid>
+      <value>btn btn-danger save-data waves-effect waves-light</value>
+      <webElementGuid>21e65069-6a8b-4b4e-ae5b-5b81b8b65ec4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Jan</value>
-      <webElementGuid>b0a80ce8-17fc-4db8-a9d4-723ef6de4bf1</webElementGuid>
+      <value>Simpan</value>
+      <webElementGuid>ce186004-1310-405d-9a57-08ec2066b4bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-top&quot;]/div[@class=&quot;datepicker-months&quot;]/table[@class=&quot;table-condensed&quot;]/tbody[1]/tr[1]/td[1]/span[@class=&quot;month&quot;]</value>
-      <webElementGuid>ba56be48-7ac3-405d-99dc-2686dd66f082</webElementGuid>
+      <value>id(&quot;f1&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;mb-3 float-end mt-3&quot;]/button[@class=&quot;btn btn-danger save-data waves-effect waves-light&quot;]</value>
+      <webElementGuid>0a11cda7-8f33-467a-9c6d-a614ba9f5f35</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='»'])[2]/following::span[1]</value>
-      <webElementGuid>7804f95d-bf95-4097-a935-09fbc21d061d</webElementGuid>
+      <value>//form[@id='f1']/div/div[2]/button</value>
+      <webElementGuid>c23b5b99-a7f2-477f-91bb-00fe9bcbd04e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='«'])[2]/following::span[1]</value>
-      <webElementGuid>667bad44-b04a-4b8f-ad8a-dbedeca007c5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[2]/following::button[1]</value>
+      <webElementGuid>3b3d1759-421a-4787-9af9-398505cee56b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feb'])[1]/preceding::span[1]</value>
-      <webElementGuid>691af4fa-a649-43c8-93ab-cabcc4e2a21e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MAPEL'])[2]/following::button[1]</value>
+      <webElementGuid>7c5cd40f-6937-451c-8d65-99cd439a836c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mar'])[1]/preceding::span[2]</value>
-      <webElementGuid>c6735481-7bfc-454a-8547-061c615eee07</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[2]</value>
+      <webElementGuid>88edfd04-e51a-42f1-921b-5f5f369d6d7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Jan']/parent::*</value>
-      <webElementGuid>be4af221-8467-4f59-a83e-713e8db53a02</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::button[2]</value>
+      <webElementGuid>941d6d64-bbcb-411e-8260-ebc0840308cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Simpan']/parent::*</value>
+      <webElementGuid>dc31ea71-570b-4b13-8fe6-f2f8f0875ec6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td/span</value>
-      <webElementGuid>f17399d9-35e3-4e61-8cac-ec9b47432eb4</webElementGuid>
+      <value>//div[2]/button</value>
+      <webElementGuid>e25b5da9-a55c-411c-a8c3-87187484fd73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Jan' or . = 'Jan')]</value>
-      <webElementGuid>4739496a-1eb3-4f56-8747-090c5e95cfba</webElementGuid>
+      <value>//button[(text() = 'Simpan' or . = 'Simpan')]</value>
+      <webElementGuid>998a7751-8e6f-4c7b-a2c1-2cb1ffb6b64d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

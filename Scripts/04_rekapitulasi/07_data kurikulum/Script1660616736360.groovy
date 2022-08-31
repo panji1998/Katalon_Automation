@@ -82,7 +82,9 @@ WebUI.takeFullPageScreenshot()
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/07_data kurikulum/span_Pilih Kelas'))
 
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/07_data kurikulum/input_concat(id(, , select2-opts_curriculum_a6a3de'), 
-    'kelas 2')
+    'PPPJ GELOMBANG II TAHUN 2016 - kelas 2')
+
+WebUI.delay(3)
 
 WebUI.sendKeys(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/rekapitulasi/07_data kurikulum/input_concat(id(, , select2-opts_curriculum_a6a3de'), 
     Keys.chord(Keys.ENTER))

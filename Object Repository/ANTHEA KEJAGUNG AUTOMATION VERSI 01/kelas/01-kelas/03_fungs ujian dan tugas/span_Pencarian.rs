@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_e-Library</name>
+   <name>span_Pencarian</name>
    <tag></tag>
-   <elementGuidId>761d2042-085b-4e55-94dd-0bdf5e869495</elementGuidId>
+   <elementGuidId>21d7c0b6-d3b6-4503-8c36-47dfa15f595e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Penyelenggara'])[2]/following::a[1]</value>
+         <value>//span[@id='select2-edu_id-container']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>#select2-edu_id-container</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,112 +21,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>eb350a61-dad1-40b5-8c57-7cc883de7af1</webElementGuid>
+      <value>span</value>
+      <webElementGuid>a2f2e854-259c-44cb-9e7a-77dadb31ac38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>menu sidebarMenu</value>
-      <webElementGuid>7c45b769-635f-4637-b0a0-e883ba95ed1b</webElementGuid>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>dfaa3abb-fa88-430b-b992-f5f9685f1bfa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>id</name>
       <type>Main</type>
-      <value>javascript:;</value>
-      <webElementGuid>3b36ea14-2600-4c41-849e-ad0e2e9fd5a5</webElementGuid>
+      <value>select2-edu_id-container</value>
+      <webElementGuid>52b0f0e0-7773-4f7c-90e3-a2b37b5041e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-bs-toggle</name>
+      <name>role</name>
       <type>Main</type>
-      <value>dropdown</value>
-      <webElementGuid>b7414049-dfcb-4f49-a01c-bc31daa973b3</webElementGuid>
+      <value>textbox</value>
+      <webElementGuid>1726a1c3-9673-4381-8199-fc12eb50af24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-expanded</name>
+      <name>aria-readonly</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>00721ec0-17b7-4480-9131-5e056ed7edfd</webElementGuid>
+      <value>true</value>
+      <webElementGuid>7cfb07d3-142c-4710-a9d6-1bc8e0ea553d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-		
-		e-Library
-	</value>
-      <webElementGuid>f777bc6b-7a3c-427a-b674-cd5db11ba38b</webElementGuid>
+      <value>Pencarian...</value>
+      <webElementGuid>f8894515-cf92-463a-9ecc-8477eca29dae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/a[@class=&quot;menu sidebarMenu&quot;]</value>
-      <webElementGuid>f3630d0a-9fc8-4c2f-9ef8-60761eb5e6b8</webElementGuid>
+      <value>id(&quot;select2-edu_id-container&quot;)</value>
+      <webElementGuid>76c45e59-55d5-4835-ac5f-9927b5cf6843</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penyelenggara'])[2]/following::a[1]</value>
-      <webElementGuid>204bd4a2-e6ff-46ff-80a8-fe7c5ee2cd19</webElementGuid>
+      <value>//span[@id='select2-edu_id-container']</value>
+      <webElementGuid>d05c03a7-e925-4208-826b-8d069e17507a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div_user_data']/fieldset/div/div/div/div[11]/div/span/span/span/span</value>
+      <webElementGuid>eb7fd3e3-ecba-44ee-aba5-8e497633af72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Matgaklin'])[2]/following::a[2]</value>
-      <webElementGuid>7f09f5eb-0d04-47c7-9dbd-f334ce1bc231</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[8]/following::span[4]</value>
+      <webElementGuid>733c2e37-a6b8-4ef9-947f-1dea1e57a8a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='e-Library'])[2]/preceding::a[1]</value>
-      <webElementGuid>7a5cb96e-fa66-4ad1-9f4a-787c1cf5e4b3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>(//a[contains(@href, 'javascript:;')])[9]</value>
-      <webElementGuid>ef3dda4b-329a-4d40-a0f4-fd2b2e7e282e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TMT'])[1]/preceding::span[4]</value>
+      <webElementGuid>d462f508-6c8e-4a30-80d1-caec28f9c199</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/ul/li[7]/a</value>
-      <webElementGuid>997de625-0756-4091-a77f-56f7bb38d02e</webElementGuid>
+      <value>//span/span/span/span</value>
+      <webElementGuid>7c576f29-0c7a-4354-9a05-b69912b2d18f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'javascript:;' and (text() = '
-		
-		e-Library
-	' or . = '
-		
-		e-Library
-	')]</value>
-      <webElementGuid>2c0a93d1-3584-4395-9b5e-d413b3f275a7</webElementGuid>
+      <value>//span[@id = 'select2-edu_id-container' and (text() = 'Pencarian...' or . = 'Pencarian...')]</value>
+      <webElementGuid>65b9dc87-0132-43c0-b315-dd82d0353404</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

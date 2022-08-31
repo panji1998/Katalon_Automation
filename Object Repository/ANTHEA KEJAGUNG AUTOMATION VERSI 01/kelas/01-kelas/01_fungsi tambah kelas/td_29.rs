@@ -6,12 +6,11 @@
    <elementGuidId>6aa1500a-f42f-4963-aaa0-4a65312a8c72</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//td[(text() = '29' or . = '29')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>li_faradhillah1 -</name>
+   <name>li_faradhillah1</name>
    <tag></tag>
-   <elementGuidId>046c323e-5569-4935-8208-8000fcedb2d4</elementGuidId>
+   <elementGuidId>49b83a09-0dae-43bf-ac3e-f08df324c9dc</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>li.select2-results__option.select2-results__option--highlighted</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//ul[@id='select2-usr_id-results']/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.select2-results__option.select2-results__option--highlighted</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>86663ebe-94b1-4f75-990b-31c00a5210a0</webElementGuid>
+      <webElementGuid>518f73ea-7a9f-4f6e-9d4c-da187f06a488</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-results__option select2-results__option--highlighted</value>
-      <webElementGuid>85bc312d-e716-4ffa-9f3c-a4bb586a9950</webElementGuid>
+      <webElementGuid>64e910bb-7249-414f-ad1f-a827b134145b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>5d0ea6e0-2abf-4800-92b2-bf47889905b4</webElementGuid>
+      <webElementGuid>fcf7d186-6fe3-4e28-922a-abac7aa0004b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c678f47c-407e-46fd-b25e-e02d09d07f59</webElementGuid>
+      <webElementGuid>499702df-dc80-486b-907c-0032c9c6f900</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-select2-id</name>
       <type>Main</type>
-      <value>385</value>
-      <webElementGuid>b7150d54-9230-43a3-824c-e46703f152fd</webElementGuid>
+      <value>143</value>
+      <webElementGuid>01eea1b9-c566-4b14-8bf4-174269d02575</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>faradhillah1 - </value>
-      <webElementGuid>63e120b5-7cf8-4a29-b515-640256f4e886</webElementGuid>
+      <webElementGuid>2ef45fc0-a063-4ced-a754-4bdfa175b1c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-usr_id-results&quot;)/li[@class=&quot;select2-results__option select2-results__option--highlighted&quot;]</value>
-      <webElementGuid>ab389d8d-d220-496b-82a1-c68b9bf2a330</webElementGuid>
+      <webElementGuid>133e7ad7-f93f-4049-bfad-5caaf602a46f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='select2-usr_id-results']/li</value>
-      <webElementGuid>a6efeed9-b1dc-4c50-8e41-f91cc1cc8c4b</webElementGuid>
+      <webElementGuid>48292559-5e21-4d16-ba98-9d61399f9094</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,15 +86,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/following::li[1]</value>
-      <webElementGuid>64a16b89-cb13-4fdd-89bc-255e80d30f70</webElementGuid>
+      <webElementGuid>5b899e26-5542-4aba-a1ae-c897035a750e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/following::li[1]</value>
-      <webElementGuid>5d220539-b65c-4ca2-8ee2-ab024633eab4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[2]/following::li[1]</value>
+      <webElementGuid>0568abdc-c297-475c-a04e-4d3b9c5bb4cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,15 +102,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='fara_dilah001 -'])[1]/preceding::li[1]</value>
-      <webElementGuid>7e1545b1-8361-4269-b76d-27b7b52118d2</webElementGuid>
+      <webElementGuid>3dad0e28-effa-45f0-a3b6-18764486354e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Widyaiswara'])[4]/preceding::li[2]</value>
-      <webElementGuid>d2ca182f-f9c2-4a08-bf40-4c7330916d7c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peserta'])[5]/preceding::li[2]</value>
+      <webElementGuid>4c84e2d1-622d-4897-8eda-5d5ff873283e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='faradhillah1 -']/parent::*</value>
-      <webElementGuid>4f127893-5198-4df1-9eb3-27fb991013fe</webElementGuid>
+      <webElementGuid>8a607fa7-c766-4851-8d62-282976d957b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]/ul/li</value>
-      <webElementGuid>31647be6-05e8-4063-b0ea-d20499b19ecb</webElementGuid>
+      <webElementGuid>1e026bba-88ef-4aa0-93f9-6228ef200692</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'faradhillah1 - ' or . = 'faradhillah1 - ')]</value>
-      <webElementGuid>93ee4ac0-23c3-4670-a8e3-2522a47b4b80</webElementGuid>
+      <webElementGuid>33b43a2b-025c-41e2-a800-33841d13ff3b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Master Pegawai</name>
+   <name>select_Pilih MetodeOnlineOffline</name>
    <tag></tag>
-   <elementGuidId>0de5f0b9-61a5-465e-b8bb-ed6bfc60479c</elementGuidId>
+   <elementGuidId>6b3ac733-87c5-44db-aa20-dea88fe345ee</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Ruang Kelas'])[1]/following::a[1]</value>
+         <value>//select[@id='is_online']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>#is_online</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,24 +21,32 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>1faf8bf7-1912-4fa6-bbf7-a5d27656f258</webElementGuid>
+      <value>select</value>
+      <webElementGuid>9773a205-d45a-4e40-9dfd-ab7c8dcebdcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>is_online</value>
+      <webElementGuid>1255d014-0b47-4aeb-ab8e-d2bd231c6520</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>is_online</value>
+      <webElementGuid>b2acc674-fc3d-4e39-9a5f-85afff0bbd5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dropdown-item</value>
-      <webElementGuid>d4cf8d47-de9a-4f10-afeb-7c91dfef22ce</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>http://103.253.107.18:24400/accountuser</value>
-      <webElementGuid>7426c387-0905-4d35-976f-74d51862bfd0</webElementGuid>
+      <value>form-control fieldinput select2 form-select</value>
+      <webElementGuid>945bfd1c-2178-40ec-b832-79b8d02432cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,71 +54,74 @@
       <name>text</name>
       <type>Main</type>
       <value>
-		
-		Master Pegawai
-	</value>
-      <webElementGuid>45bd566c-c500-40cd-ab02-c129cae82fc6</webElementGuid>
+Pilih Metode
+Online
+Offline
+</value>
+      <webElementGuid>a034f771-421d-4a28-b699-226e6d00d771</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/main[1]/div[@class=&quot;wrapper-box&quot;]/div[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;dropend&quot;]/ul[@class=&quot;dropdown-menu show&quot;]/li[14]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>5ef1b550-16ce-484b-a7a0-ca0466536df4</webElementGuid>
+      <value>id(&quot;is_online&quot;)</value>
+      <webElementGuid>1ec4d2fb-1a39-4174-bc97-bf371086c124</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ruang Kelas'])[1]/following::a[1]</value>
-      <webElementGuid>f539e7a2-675a-4929-bfab-c555e26bc09f</webElementGuid>
+      <value>//select[@id='is_online']</value>
+      <webElementGuid>b9a8bf2a-6901-41f9-ae45-1b8797d90733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='f1']/div[6]/div/select</value>
+      <webElementGuid>8fce0e33-7d1b-4e47-ab41-815b5af4b19f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Password'])[1]/following::a[2]</value>
-      <webElementGuid>aa61e909-a995-48bd-b450-d065f87e0893</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[8]/following::select[1]</value>
+      <webElementGuid>ae143e2c-6de4-4ad5-ab8e-490fde17f07f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::a[1]</value>
-      <webElementGuid>8d0f96cb-2f44-4db5-b5c5-bb76c31a5690</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[@href='http://103.253.107.18:24400/accountuser']</value>
-      <webElementGuid>9f520ebf-6417-4f7d-a42a-5b781ba0feb9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[9]/preceding::select[1]</value>
+      <webElementGuid>ffe39295-c4a2-4ec9-8c22-6794fe4372ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[14]/a</value>
-      <webElementGuid>2055cb2d-8660-4876-840e-5e799f802b73</webElementGuid>
+      <value>//div[6]/div/select</value>
+      <webElementGuid>c2bb99a7-eee1-4ac7-9eba-7796f09585a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://103.253.107.18:24400/accountuser' and (text() = '
-		
-		Master Pegawai
-	' or . = '
-		
-		Master Pegawai
-	')]</value>
-      <webElementGuid>6d3fb45b-08bf-4650-91a9-0589d0ae7c2f</webElementGuid>
+      <value>//select[@name = 'is_online' and @id = 'is_online' and (text() = '
+Pilih Metode
+Online
+Offline
+' or . = '
+Pilih Metode
+Online
+Offline
+')]</value>
+      <webElementGuid>99f73160-fdea-41bc-9560-15950508fe4a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -66,9 +66,9 @@ WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 0
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/user/03_data peserta/input_Simpan_select2-search__field'), 
     'farad')
 
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/user/03_data peserta/li_faradhillah1 -'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/user/03_data peserta/li_faradhillah1'))
 
-WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/user/03_data peserta/button_Simpan'))
+WebUI.click(findTestObject('ANTHEA KEJAGUNG AUTOMATION VERSI 01/user/03_data peserta/button_Simpan (1)'))
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/user/03_data peserta/button_OK'))
 

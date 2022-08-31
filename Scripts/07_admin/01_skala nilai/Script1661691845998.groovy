@@ -36,7 +36,7 @@ WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 0
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/admin/01_skala nilai/button_Tambah'))
 
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/admin/01_skala nilai/input_()_graduation_name'), 
-    'skala nilai kehadiran')
+    'skala kehadiran')
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/admin/01_skala nilai/button_Tambah_1'))
 
@@ -54,7 +54,7 @@ WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 0
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/admin/01_skala nilai/button_OK'))
 
 WebUI.setText(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/admin/01_skala nilai/input_Dashboard Admin_tableSearch'), 
-    'skala nilai kehadiran')
+    'skala kehadiran')
 
 WebUI.click(findTestObject('Object Repository/ANTHEA KEJAGUNG AUTOMATION VERSI 01/admin/01_skala nilai/button_Dashboard Admin_ms-2 searchbutton ro_50a8ca'))
 

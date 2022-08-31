@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Pencarian</name>
+   <name>select_Pilih JenisUjianTugasQuiz</name>
    <tag></tag>
-   <elementGuidId>21d7c0b6-d3b6-4503-8c36-47dfa15f595e</elementGuidId>
+   <elementGuidId>1b81b38a-c836-4b8b-b8d1-59a59cae13d2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#select2-edu_id-container</value>
+         <key>XPATH</key>
+         <value>//select[@id='assignment_type']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='select2-edu_id-container']</value>
+         <key>CSS</key>
+         <value>#assignment_type</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,103 +21,110 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>a2f2e854-259c-44cb-9e7a-77dadb31ac38</webElementGuid>
+      <value>select</value>
+      <webElementGuid>9f2f7077-833f-49b3-bc9c-7792189c3b7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>name</name>
       <type>Main</type>
-      <value>select2-selection__rendered</value>
-      <webElementGuid>dfaa3abb-fa88-430b-b992-f5f9685f1bfa</webElementGuid>
+      <value>assignment_type</value>
+      <webElementGuid>e931216a-1a50-4390-a618-1b35ee2a103d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>select2-edu_id-container</value>
-      <webElementGuid>52b0f0e0-7773-4f7c-90e3-a2b37b5041e7</webElementGuid>
+      <value>assignment_type</value>
+      <webElementGuid>231fd414-5b95-4cfc-8acb-11e24f663443</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>role</name>
+      <name>class</name>
       <type>Main</type>
-      <value>textbox</value>
-      <webElementGuid>1726a1c3-9673-4381-8199-fc12eb50af24</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-readonly</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>7cfb07d3-142c-4710-a9d6-1bc8e0ea553d</webElementGuid>
+      <value>form-control fieldinput select2 form-select</value>
+      <webElementGuid>3138828d-4afa-49b2-9b92-44bd5c0afccf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Pencarian...</value>
-      <webElementGuid>f8894515-cf92-463a-9ecc-8477eca29dae</webElementGuid>
+      <value>
+Pilih Jenis
+Ujian
+Tugas
+Quiz
+</value>
+      <webElementGuid>136dce3d-cd3c-46e0-9561-a2f8ed580ea6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;select2-edu_id-container&quot;)</value>
-      <webElementGuid>76c45e59-55d5-4835-ac5f-9927b5cf6843</webElementGuid>
+      <value>id(&quot;assignment_type&quot;)</value>
+      <webElementGuid>c51b33fd-293e-4805-95cd-b515d3f7ffeb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//span[@id='select2-edu_id-container']</value>
-      <webElementGuid>d05c03a7-e925-4208-826b-8d069e17507a</webElementGuid>
+      <value>//select[@id='assignment_type']</value>
+      <webElementGuid>f1d57614-d431-4a4a-8a6e-ec887cfa42d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='div_user_data']/fieldset/div/div/div/div[11]/div/span/span/span/span</value>
-      <webElementGuid>eb7fd3e3-ecba-44ee-aba5-8e497633af72</webElementGuid>
+      <value>//form[@id='f1']/div/select</value>
+      <webElementGuid>594f1995-9ec6-4b20-9a28-ffec50ccf0a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[8]/following::span[4]</value>
-      <webElementGuid>733c2e37-a6b8-4ef9-947f-1dea1e57a8a0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[1]/following::select[1]</value>
+      <webElementGuid>2b570bd1-e647-47b3-9b25-484ce50740ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='TMT'])[1]/preceding::span[4]</value>
-      <webElementGuid>d462f508-6c8e-4a30-80d1-caec28f9c199</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[2]/preceding::select[1]</value>
+      <webElementGuid>6a99b03b-a2bd-43f8-8f8f-56b37fb36dae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span/span/span/span</value>
-      <webElementGuid>7c576f29-0c7a-4354-9a05-b69912b2d18f</webElementGuid>
+      <value>//select</value>
+      <webElementGuid>f3424743-1298-4c55-80be-f227cca9da54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[@id = 'select2-edu_id-container' and (text() = 'Pencarian...' or . = 'Pencarian...')]</value>
-      <webElementGuid>65b9dc87-0132-43c0-b315-dd82d0353404</webElementGuid>
+      <value>//select[@name = 'assignment_type' and @id = 'assignment_type' and (text() = '
+Pilih Jenis
+Ujian
+Tugas
+Quiz
+' or . = '
+Pilih Jenis
+Ujian
+Tugas
+Quiz
+')]</value>
+      <webElementGuid>6829dec8-1940-4952-ae67-d4ade4278e52</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
